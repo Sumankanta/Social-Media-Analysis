@@ -1,0 +1,1606 @@
+Student_ID,Age,Gender,Academic_Level,Country,Avg_Daily_Usage_Hours,Most_Used_Platform,Affects_Academic_Performance,Sleep_Hours_Per_Night,Mental_Health_Score,Relationship_Status,Conflicts_Over_Social_Media,Addicted_Score,Purpose of Use,Number of Platforms Used,Device Used Most,Parental Monitoring,Academic Performance,Daily Study Hours,Year of Study,Region,Year_Of_Admission
+1,19,Female,Undergraduate,Bangladesh,5.2,Instagram,Yes,6.5,6,In Relationship,3,8,Socializing,5,Mobile,Sometimes,Average,4,4th Year,East,2021
+2,22,Male,Graduate,India,2.1,X,No,7.5,8,Single,0,3,Socializing,1,Laptop,No,Average,2,1st Year,North,2022
+3,20,Female,Undergraduate,USA,6,Whatsapp,Yes,5,5,Complicated,4,9,Socializing,4,Laptop,Sometimes,Excellent,5,4th Year,South,2022
+4,18,Male,High School,UK,3,YouTube,No,7,7,Single,1,4,Other,3,Desktop,Yes,Good,1,2nd Year,South,2022
+5,21,Male,Graduate,Canada,4.5,Facebook,Yes,6,6,In Relationship,2,7,Education,4,Desktop,Sometimes,Average,2,1st Year,West,2020
+6,19,Female,Undergraduate,Australia,7.2,Instagram,Yes,4.5,4,Complicated,5,9,Education,2,Mobile,Sometimes,Poor,5,1st Year,Central,2024
+7,23,Male,Graduate,Germany,1.5,LinkedIn,No,8,9,Single,0,2,News,1,Desktop,Sometimes,Poor,1,3rd Year,Central,2024
+8,20,Female,Undergraduate,Brazil,5.8,Snapchat,Yes,6,6,In Relationship,2,8,News,1,Desktop,Sometimes,Poor,4,4th Year,Central,2024
+9,18,Male,High School,Japan,4,Whatsapp,No,6.5,7,Single,1,5,Entertainment,1,Desktop,No,Average,5,1st Year,West,2025
+10,21,Female,Graduate,South Korea,3.3,Instagram,No,7,7,In Relationship,1,4,Education,2,Mobile,No,Good,4,2nd Year,East,2022
+11,19,Male,Undergraduate,France,4.8,Snapchat,Yes,6.2,5,Complicated,3,7,Socializing,5,Mobile,No,Good,3,2nd Year,East,2020
+12,20,Female,Undergraduate,Spain,5.5,Whatsapp,Yes,5.8,6,In Relationship,2,8,Education,3,Tablet,Yes,Poor,1,1st Year,North,2020
+13,22,Male,Graduate,Italy,2.8,LinkedIn,No,7.2,8,Single,1,4,Other,2,Laptop,No,Excellent,3,1st Year,East,2021
+14,18,Female,High School,Mexico,6.5,Instagram,Yes,5.5,5,Single,4,9,Education,5,Tablet,No,Poor,3,4th Year,Central,2024
+15,21,Male,Undergraduate,Russia,3.7,YouTube,No,6.8,7,In Relationship,2,5,Education,2,Mobile,Yes,Poor,1,1st Year,West,2022
+16,20,Female,Undergraduate,China,4.2,WeChat,Yes,6,6,Complicated,3,7,Education,3,Tablet,Yes,Average,5,1st Year,South,2020
+17,24,Male,Graduate,Sweden,2,LinkedIn,No,7.8,8,Single,0,3,Other,1,Mobile,Yes,Good,4,2nd Year,West,2025
+18,19,Female,High School,Norway,5,Instagram,Yes,5.7,5,In Relationship,3,8,Other,1,Tablet,Sometimes,Poor,4,1st Year,South,2024
+19,21,Male,Undergraduate,Denmark,3.5,Facebook,No,6.7,7,Single,1,5,Other,2,Desktop,Yes,Poor,1,2nd Year,North,2025
+20,20,Female,Undergraduate,Netherlands,4.7,Snapchat,Yes,5.9,6,Complicated,3,7,News,3,Mobile,No,Good,2,3rd Year,North,2025
+21,18,Male,High School,Belgium,5.3,Whatsapp,Yes,5.5,5,Single,4,8,Entertainment,1,Desktop,Sometimes,Poor,2,1st Year,West,2024
+22,23,Female,Graduate,Switzerland,2.5,LinkedIn,No,7.3,8,In Relationship,1,4,Entertainment,2,Tablet,No,Excellent,5,4th Year,West,2024
+23,19,Male,Undergraduate,Austria,4.9,Instagram,Yes,5.8,6,Complicated,3,7,Education,1,Desktop,Yes,Average,2,3rd Year,North,2020
+24,20,Female,Undergraduate,Portugal,5.7,Whatsapp,Yes,5.4,5,Single,4,8,Education,4,Desktop,Yes,Poor,5,3rd Year,East,2024
+25,22,Male,Graduate,Greece,3.2,Facebook,No,6.9,7,In Relationship,2,5,Other,5,Tablet,Sometimes,Average,3,4th Year,South,2023
+26,19,Female,High School,Ireland,6.1,Instagram,Yes,5.2,5,Complicated,4,9,Entertainment,2,Mobile,Sometimes,Poor,3,3rd Year,South,2025
+27,21,Male,Undergraduate,New Zealand,3.8,YouTube,No,6.6,7,Single,1,5,Entertainment,2,Tablet,Yes,Average,5,4th Year,East,2025
+28,20,Female,Undergraduate,Singapore,4.4,Whatsapp,Yes,5.9,6,In Relationship,3,7,Other,4,Mobile,No,Average,5,2nd Year,East,2021
+29,24,Male,Graduate,Malaysia,2.2,LinkedIn,No,7.4,8,Single,0,3,Other,5,Laptop,Yes,Average,1,2nd Year,North,2022
+30,19,Female,High School,Thailand,5.9,Instagram,Yes,5.3,5,Complicated,4,8,News,4,Laptop,Sometimes,Good,4,1st Year,Central,2024
+31,21,Male,Undergraduate,Vietnam,3.6,Facebook,No,6.7,7,Single,1,5,Socializing,4,Mobile,Sometimes,Average,2,2nd Year,East,2021
+32,20,Female,Undergraduate,Philippines,4.8,Snapchat,Yes,5.7,6,In Relationship,3,7,Socializing,4,Tablet,No,Good,4,4th Year,Central,2025
+33,18,Male,High School,Indonesia,5.4,Whatsapp,Yes,5.4,5,Complicated,4,8,Entertainment,5,Desktop,No,Average,3,4th Year,East,2022
+34,23,Female,Graduate,Taiwan,2.6,LinkedIn,No,7.2,8,Single,1,4,Education,1,Laptop,Sometimes,Poor,3,2nd Year,North,2022
+35,19,Male,Undergraduate,Hong Kong,4.7,Instagram,Yes,5.8,6,In Relationship,3,7,Education,3,Mobile,No,Poor,4,1st Year,North,2023
+36,20,Female,Undergraduate,Turkey,5.6,Whatsapp,Yes,5.5,5,Complicated,4,8,Other,4,Tablet,Yes,Excellent,1,1st Year,West,2023
+37,22,Male,Graduate,Israel,3.1,Facebook,No,6.8,7,Single,1,5,Other,3,Laptop,Yes,Average,2,3rd Year,North,2023
+38,19,Female,High School,UAE,6.2,Instagram,Yes,5.1,5,In Relationship,4,9,Entertainment,4,Mobile,Yes,Excellent,1,1st Year,East,2021
+39,21,Male,Undergraduate,Egypt,3.9,YouTube,No,6.5,7,Complicated,2,6,Socializing,1,Desktop,Yes,Average,3,1st Year,South,2020
+40,20,Female,Undergraduate,Morocco,4.5,Whatsapp,Yes,5.8,6,Single,3,7,Entertainment,2,Tablet,Sometimes,Poor,5,3rd Year,North,2022
+41,24,Male,Graduate,South Africa,2.3,LinkedIn,No,7.3,8,In Relationship,1,4,Education,4,Laptop,Sometimes,Average,4,1st Year,East,2022
+42,19,Female,High School,Nigeria,5.8,Instagram,Yes,5.4,5,Complicated,4,8,Education,2,Mobile,Yes,Excellent,3,3rd Year,Central,2021
+43,21,Male,Undergraduate,Kenya,3.7,Facebook,No,6.6,7,Single,2,5,Socializing,3,Mobile,Sometimes,Average,4,4th Year,Central,2021
+44,20,Female,Undergraduate,Ghana,4.6,Snapchat,Yes,5.7,6,In Relationship,3,7,News,5,Tablet,Yes,Poor,5,4th Year,South,2022
+45,18,Male,High School,Argentina,5.5,Whatsapp,Yes,5.3,5,Single,4,8,Other,4,Laptop,No,Poor,3,1st Year,North,2021
+46,23,Female,Graduate,Chile,2.7,LinkedIn,No,7.1,8,Complicated,1,4,Entertainment,5,Desktop,Sometimes,Average,5,3rd Year,West,2024
+47,19,Male,Undergraduate,Colombia,4.8,Instagram,Yes,5.9,6,In Relationship,3,7,Entertainment,1,Desktop,Yes,Average,1,1st Year,Central,2025
+48,20,Female,Undergraduate,Peru,5.5,Whatsapp,Yes,5.6,5,Single,4,8,Other,1,Tablet,Sometimes,Average,5,2nd Year,West,2020
+49,22,Male,Graduate,Venezuela,3.3,Facebook,No,6.7,7,In Relationship,2,5,Education,2,Tablet,No,Excellent,4,4th Year,Central,2024
+50,19,Female,High School,Ecuador,6.3,Instagram,Yes,5.2,5,Complicated,4,9,Education,1,Tablet,Yes,Average,1,4th Year,North,2023
+51,21,Male,Undergraduate,Uruguay,3.8,YouTube,No,6.4,7,Single,2,6,Other,4,Desktop,Yes,Excellent,1,1st Year,South,2023
+52,20,Female,Undergraduate,Paraguay,4.7,Whatsapp,Yes,5.8,6,In Relationship,3,7,Education,4,Desktop,No,Excellent,4,4th Year,North,2023
+53,24,Male,Graduate,Bolivia,2.4,LinkedIn,No,7.2,8,Complicated,1,4,Socializing,4,Mobile,No,Excellent,3,2nd Year,East,2024
+54,19,Female,High School,Costa Rica,5.7,Instagram,Yes,5.5,5,Single,4,8,Other,1,Desktop,Sometimes,Excellent,3,3rd Year,East,2021
+55,21,Male,Undergraduate,Panama,3.6,Facebook,No,6.5,7,In Relationship,2,5,Education,3,Tablet,No,Average,1,2nd Year,North,2025
+56,20,Female,Undergraduate,Jamaica,4.9,Snapchat,Yes,5.6,6,Complicated,3,7,Education,4,Laptop,No,Good,4,1st Year,North,2021
+57,18,Male,High School,Trinidad,5.6,Whatsapp,Yes,5.2,5,Single,4,8,Socializing,2,Laptop,Yes,Good,4,1st Year,Central,2020
+58,23,Female,Graduate,Bahamas,2.8,LinkedIn,No,7,8,In Relationship,1,4,Education,4,Tablet,Sometimes,Average,3,4th Year,South,2024
+59,19,Male,Undergraduate,Iceland,4.6,Instagram,Yes,5.9,6,Complicated,3,7,Other,1,Desktop,No,Poor,5,3rd Year,Central,2020
+60,20,Female,Undergraduate,Finland,5.4,Whatsapp,Yes,5.7,5,Single,4,8,Education,3,Desktop,Sometimes,Poor,5,1st Year,North,2025
+61,22,Male,Graduate,Poland,3.1,Facebook,No,7.1,7,Single,1,5,Entertainment,2,Laptop,Sometimes,Good,3,1st Year,West,2024
+62,19,Female,Undergraduate,Romania,5.6,Instagram,Yes,5.6,5,In Relationship,3,8,News,2,Mobile,Yes,Average,3,4th Year,West,2025
+63,20,Male,Undergraduate,Hungary,4.2,Whatsapp,Yes,6,6,Complicated,3,7,Socializing,5,Mobile,Sometimes,Poor,4,1st Year,West,2022
+64,18,Female,High School,Czech Republic,6.1,Snapchat,Yes,5.2,4,Single,4,9,News,5,Desktop,Yes,Good,4,2nd Year,East,2025
+65,23,Male,Graduate,Slovakia,2.3,LinkedIn,No,7.4,8,In Relationship,1,3,Education,4,Tablet,No,Good,2,3rd Year,North,2024
+66,21,Female,Undergraduate,Croatia,4.8,Instagram,Yes,5.8,6,Single,3,7,Entertainment,2,Laptop,No,Average,1,4th Year,Central,2020
+67,20,Male,Undergraduate,Serbia,3.9,YouTube,No,6.5,7,Complicated,2,6,Education,5,Mobile,Sometimes,Poor,5,3rd Year,West,2020
+68,19,Female,High School,Slovenia,5.7,Whatsapp,Yes,5.4,5,In Relationship,4,8,News,5,Laptop,No,Average,1,4th Year,North,2025
+69,22,Male,Graduate,Bulgaria,2.8,LinkedIn,No,7.2,8,Single,1,4,News,1,Desktop,No,Average,5,1st Year,North,2023
+70,20,Female,Undergraduate,Estonia,4.5,Instagram,Yes,5.9,6,Complicated,3,7,Other,2,Laptop,Sometimes,Poor,2,1st Year,West,2020
+71,18,Male,High School,Latvia,5.4,Snapchat,Yes,5.5,5,Single,4,8,Education,1,Laptop,Yes,Excellent,3,2nd Year,South,2021
+72,21,Female,Graduate,Lithuania,3.2,Facebook,No,6.8,7,In Relationship,2,5,Education,1,Desktop,Sometimes,Poor,3,3rd Year,East,2020
+73,19,Male,Undergraduate,Ukraine,4.9,Whatsapp,Yes,5.7,6,Complicated,3,7,Education,5,Laptop,No,Poor,2,4th Year,North,2022
+74,20,Female,Undergraduate,Moldova,5.8,Instagram,Yes,5.3,5,Single,4,8,Other,4,Tablet,No,Average,5,3rd Year,Central,2022
+75,23,Male,Graduate,Belarus,2.5,LinkedIn,No,7.3,8,In Relationship,1,4,Entertainment,4,Laptop,Yes,Excellent,5,1st Year,West,2020
+76,21,Female,Undergraduate,Kazakhstan,4.6,Snapchat,Yes,5.8,6,Single,3,7,Socializing,5,Laptop,Yes,Average,4,4th Year,Central,2025
+77,19,Male,High School,Uzbekistan,5.5,Whatsapp,Yes,5.4,5,Complicated,4,8,Other,2,Laptop,No,Poor,4,2nd Year,West,2025
+78,22,Female,Graduate,Kyrgyzstan,2.9,Facebook,No,7,7,In Relationship,2,5,Other,5,Desktop,Yes,Poor,5,3rd Year,Central,2025
+79,20,Male,Undergraduate,Tajikistan,4.7,YouTube,Yes,5.9,6,Single,3,7,News,5,Mobile,Sometimes,Excellent,5,2nd Year,North,2023
+80,18,Female,High School,Armenia,5.9,Instagram,Yes,5.2,5,Complicated,4,9,Entertainment,4,Tablet,No,Good,4,1st Year,South,2022
+81,21,Male,Graduate,Georgia,3,LinkedIn,No,7.1,8,In Relationship,1,4,Education,2,Laptop,No,Poor,5,3rd Year,South,2025
+82,19,Female,Undergraduate,Azerbaijan,4.8,Whatsapp,Yes,5.7,6,Single,3,7,Socializing,3,Tablet,Sometimes,Average,2,3rd Year,North,2025
+83,20,Male,Undergraduate,Cyprus,3.8,Facebook,No,6.6,7,Complicated,2,6,Other,1,Laptop,Sometimes,Good,5,4th Year,South,2024
+84,22,Female,Graduate,Malta,2.7,LinkedIn,No,7.2,8,In Relationship,1,4,Education,2,Laptop,Yes,Average,3,3rd Year,Central,2021
+85,18,Male,High School,Luxembourg,5.6,Snapchat,Yes,5.3,5,Single,4,8,News,2,Tablet,Yes,Average,1,2nd Year,South,2022
+86,21,Female,Undergraduate,Monaco,4.5,Instagram,Yes,5.8,6,Complicated,3,7,Education,1,Laptop,Sometimes,Average,2,3rd Year,Central,2025
+87,19,Male,High School,Andorra,5.3,Whatsapp,Yes,5.5,5,In Relationship,4,8,Other,2,Mobile,Yes,Poor,5,2nd Year,Central,2022
+88,23,Female,Graduate,San Marino,2.6,LinkedIn,No,7.3,8,Single,1,4,Other,4,Tablet,No,Excellent,5,3rd Year,South,2025
+89,20,Male,Undergraduate,Vatican City,4.4,YouTube,Yes,6,6,Complicated,3,7,Education,4,Desktop,Sometimes,Excellent,3,3rd Year,Central,2025
+90,18,Female,High School,Liechtenstein,5.8,Instagram,Yes,5.2,5,Single,4,9,Other,2,Mobile,Sometimes,Average,3,4th Year,North,2021
+91,22,Male,Graduate,Montenegro,2.9,Facebook,No,7,7,In Relationship,2,5,News,2,Mobile,Sometimes,Poor,3,4th Year,North,2020
+92,19,Female,Undergraduate,Albania,4.7,Whatsapp,Yes,5.8,6,Complicated,3,7,Education,5,Laptop,Sometimes,Average,1,2nd Year,North,2021
+93,21,Male,Undergraduate,North Macedonia,3.7,Snapchat,No,6.5,7,Single,2,6,Education,5,Laptop,No,Poor,5,4th Year,North,2023
+94,20,Female,High School,Kosovo,5.5,Instagram,Yes,5.4,5,In Relationship,4,8,Socializing,4,Desktop,No,Good,1,1st Year,South,2020
+95,23,Male,Graduate,Bosnia,2.4,LinkedIn,No,7.4,8,Complicated,1,4,Education,4,Tablet,Yes,Poor,3,2nd Year,East,2024
+96,19,Female,Undergraduate,Qatar,4.9,Whatsapp,Yes,5.7,6,Single,3,7,Other,5,Laptop,Yes,Average,2,4th Year,North,2020
+97,18,Male,High School,Kuwait,5.7,Snapchat,Yes,5.3,5,In Relationship,4,8,Education,5,Laptop,Sometimes,Average,5,1st Year,Central,2023
+98,22,Female,Graduate,Bahrain,2.8,LinkedIn,No,7.1,8,Complicated,1,4,Education,4,Laptop,Sometimes,Excellent,5,1st Year,North,2021
+99,20,Male,Undergraduate,Oman,4.6,Instagram,Yes,5.9,6,Single,3,7,News,2,Desktop,Sometimes,Excellent,4,1st Year,East,2024
+100,21,Female,Undergraduate,Jordan,5.4,Whatsapp,Yes,5.5,5,In Relationship,4,8,Entertainment,1,Mobile,Yes,Poor,1,2nd Year,North,2023
+101,19,Male,High School,Lebanon,5.8,YouTube,Yes,5.2,5,Complicated,4,9,News,3,Tablet,Sometimes,Excellent,5,3rd Year,West,2021
+102,23,Female,Graduate,Iraq,2.5,LinkedIn,No,7.3,8,Single,1,4,Other,4,Tablet,No,Average,4,1st Year,South,2024
+103,20,Male,Undergraduate,Yemen,4.7,Facebook,Yes,5.8,6,In Relationship,3,7,Entertainment,2,Tablet,Sometimes,Poor,2,4th Year,Central,2025
+104,18,Female,High School,Syria,5.6,Instagram,Yes,5.4,5,Single,4,8,Other,1,Tablet,Sometimes,Good,3,4th Year,North,2021
+105,22,Male,Graduate,Afghanistan,2.9,LinkedIn,No,7,7,Complicated,2,5,Socializing,5,Laptop,Yes,Excellent,3,4th Year,East,2021
+106,19,Female,Undergraduate,Pakistan,4.8,Whatsapp,Yes,5.7,6,In Relationship,3,7,Education,2,Desktop,No,Excellent,1,1st Year,West,2021
+107,21,Male,Undergraduate,Nepal,3.8,YouTube,No,6.6,7,Single,2,6,Entertainment,4,Laptop,Yes,Average,2,3rd Year,Central,2023
+108,20,Female,High School,Bhutan,5.5,Snapchat,Yes,5.5,5,Complicated,4,8,News,3,Tablet,Sometimes,Poor,2,3rd Year,Central,2021
+109,23,Male,Graduate,Sri Lanka,2.6,LinkedIn,No,7.2,8,In Relationship,1,4,Socializing,5,Laptop,No,Good,5,1st Year,West,2024
+110,19,Female,Undergraduate,Maldives,4.9,Instagram,Yes,5.8,6,Single,3,7,Other,4,Desktop,Sometimes,Good,3,2nd Year,North,2022
+111,20,Male,Undergraduate,Bangladesh,6.1,Instagram,Yes,6.2,5,Single,4,8,News,3,Mobile,Yes,Good,3,3rd Year,Central,2021
+112,21,Female,Undergraduate,India,5.8,Whatsapp,Yes,5.9,6,In Relationship,3,7,Education,4,Desktop,Yes,Average,5,1st Year,South,2024
+113,19,Male,Undergraduate,Nepal,4.9,Facebook,No,7.1,7,Single,2,5,Education,2,Desktop,Yes,Poor,5,1st Year,North,2021
+114,22,Female,Graduate,Pakistan,5.5,Instagram,Yes,6,5,Single,4,8,Other,1,Tablet,Yes,Good,3,1st Year,East,2025
+115,20,Male,Undergraduate,Sri Lanka,5.2,Whatsapp,Yes,6.3,6,In Relationship,3,7,Other,3,Desktop,No,Good,5,4th Year,Central,2025
+116,19,Female,Undergraduate,Maldives,4.8,Instagram,No,7.2,8,Single,2,5,Education,3,Mobile,No,Excellent,3,3rd Year,West,2023
+117,21,Male,Graduate,Bangladesh,6,Facebook,Yes,5.8,5,In Relationship,4,8,Education,4,Mobile,No,Poor,2,2nd Year,West,2023
+118,20,Female,Undergraduate,India,5.7,Instagram,Yes,6.1,6,Single,3,7,Entertainment,5,Laptop,Sometimes,Poor,3,1st Year,West,2022
+119,22,Male,Graduate,Nepal,4.7,Whatsapp,No,7.3,7,Single,2,5,Education,2,Tablet,Sometimes,Poor,2,2nd Year,East,2020
+120,19,Female,Undergraduate,Pakistan,5.4,Instagram,Yes,6.2,5,In Relationship,4,8,Other,5,Tablet,Sometimes,Average,3,4th Year,East,2025
+121,20,Male,Undergraduate,Sri Lanka,5.9,Facebook,Yes,5.9,6,Single,3,7,Socializing,1,Mobile,Sometimes,Excellent,1,1st Year,South,2025
+122,21,Female,Graduate,Maldives,4.6,Instagram,No,7.4,8,In Relationship,2,5,Entertainment,5,Mobile,Yes,Average,3,2nd Year,East,2021
+123,19,Male,Undergraduate,Bangladesh,5.3,Whatsapp,Yes,6.3,5,Single,4,8,Entertainment,1,Tablet,No,Good,2,4th Year,South,2020
+124,22,Female,Graduate,India,5.8,Instagram,Yes,5.8,6,In Relationship,3,7,Education,2,Mobile,Sometimes,Poor,5,1st Year,North,2021
+125,20,Male,Undergraduate,Nepal,4.5,Facebook,No,7.5,7,Single,2,5,News,3,Desktop,No,Good,2,4th Year,Central,2020
+126,21,Female,Graduate,Pakistan,5.2,Instagram,Yes,6.4,5,In Relationship,4,8,Entertainment,1,Desktop,No,Poor,2,4th Year,East,2020
+127,19,Male,Undergraduate,Sri Lanka,5.7,Whatsapp,Yes,5.7,6,Single,3,7,News,5,Desktop,No,Good,1,2nd Year,North,2022
+128,20,Female,Undergraduate,Maldives,4.4,Instagram,No,7.6,8,In Relationship,2,5,Other,5,Desktop,Yes,Poor,2,3rd Year,North,2020
+129,22,Male,Graduate,Bangladesh,5.1,Facebook,Yes,6.5,5,Single,4,8,Socializing,4,Tablet,Sometimes,Poor,5,4th Year,West,2023
+130,21,Female,Graduate,India,5.6,Instagram,Yes,5.6,6,In Relationship,3,7,Socializing,1,Mobile,Sometimes,Excellent,1,4th Year,North,2023
+131,19,Male,Undergraduate,Nepal,4.3,Whatsapp,No,7.7,7,Single,2,5,Entertainment,3,Desktop,Yes,Poor,4,2nd Year,East,2020
+132,20,Female,Undergraduate,Pakistan,5,Instagram,Yes,6.6,5,In Relationship,4,8,Socializing,1,Tablet,Sometimes,Excellent,1,4th Year,East,2022
+133,22,Male,Graduate,Sri Lanka,5.5,Facebook,Yes,5.5,6,Single,3,7,Entertainment,1,Mobile,No,Good,2,4th Year,South,2021
+134,21,Female,Graduate,Maldives,4.2,Instagram,No,7.8,8,In Relationship,2,5,Other,4,Laptop,No,Excellent,1,4th Year,South,2020
+135,19,Male,Undergraduate,Bangladesh,4.9,Whatsapp,Yes,6.7,5,Single,4,8,News,2,Laptop,Sometimes,Excellent,1,4th Year,Central,2025
+136,20,Female,Undergraduate,India,5.4,Instagram,Yes,5.4,6,In Relationship,3,7,Entertainment,2,Mobile,No,Excellent,2,1st Year,South,2020
+137,22,Male,Graduate,Nepal,4.1,Facebook,No,7.9,7,Single,2,5,Education,4,Tablet,No,Excellent,3,2nd Year,West,2021
+138,21,Female,Graduate,Pakistan,4.8,Instagram,Yes,6.8,5,In Relationship,4,8,Entertainment,4,Mobile,Yes,Poor,1,3rd Year,South,2021
+139,19,Male,Undergraduate,Sri Lanka,5.3,Whatsapp,Yes,5.3,6,Single,3,7,News,3,Desktop,Sometimes,Excellent,4,4th Year,Central,2020
+140,20,Female,Undergraduate,Maldives,4,Instagram,No,8,8,In Relationship,2,5,News,3,Tablet,No,Poor,2,1st Year,West,2024
+141,22,Male,Graduate,Bangladesh,4.7,Facebook,Yes,6.9,5,Single,4,8,Other,5,Desktop,No,Poor,1,1st Year,West,2020
+142,21,Female,Graduate,India,5.2,Instagram,Yes,5.2,6,In Relationship,3,7,Entertainment,1,Mobile,No,Excellent,3,3rd Year,East,2022
+143,19,Male,Undergraduate,Nepal,3.9,Whatsapp,No,8.1,7,Single,2,5,Entertainment,3,Desktop,Sometimes,Average,1,1st Year,North,2023
+144,20,Female,Undergraduate,Pakistan,4.6,Instagram,Yes,7,5,In Relationship,4,8,Other,1,Laptop,Yes,Average,5,4th Year,West,2021
+145,22,Male,Graduate,Sri Lanka,5.1,Facebook,Yes,5.1,6,Single,3,7,Socializing,5,Laptop,Yes,Excellent,4,1st Year,Central,2020
+146,21,Female,Graduate,Maldives,3.8,Instagram,No,8.2,8,In Relationship,2,5,Other,3,Laptop,No,Average,2,4th Year,South,2025
+147,19,Male,Undergraduate,Bangladesh,4.5,Whatsapp,Yes,7.1,5,Single,4,8,News,1,Desktop,Yes,Average,1,1st Year,Central,2023
+148,20,Female,Undergraduate,India,5,Instagram,Yes,5,6,In Relationship,3,7,News,3,Desktop,Yes,Poor,5,1st Year,West,2022
+149,22,Male,Graduate,Nepal,3.7,Facebook,No,8.3,7,Single,2,5,Socializing,4,Mobile,No,Good,1,2nd Year,North,2020
+150,21,Female,Graduate,Pakistan,4.4,Instagram,Yes,7.2,5,In Relationship,4,8,Socializing,3,Tablet,Yes,Average,4,4th Year,Central,2022
+151,19,Male,Undergraduate,Sri Lanka,4.9,Whatsapp,Yes,4.9,6,Single,3,7,Socializing,5,Desktop,Yes,Excellent,2,4th Year,Central,2022
+152,20,Female,Undergraduate,Maldives,3.6,Instagram,No,8.4,8,In Relationship,2,5,Socializing,5,Desktop,Sometimes,Excellent,1,3rd Year,East,2022
+153,22,Male,Graduate,Bangladesh,4.3,Facebook,Yes,7.3,5,Single,4,8,Other,5,Desktop,No,Excellent,1,2nd Year,North,2023
+154,21,Female,Graduate,India,4.8,Instagram,Yes,4.8,6,In Relationship,3,7,Entertainment,5,Mobile,No,Excellent,5,2nd Year,North,2024
+155,19,Male,Undergraduate,Nepal,3.5,Whatsapp,No,8.5,7,Single,2,5,Education,2,Laptop,Sometimes,Average,1,3rd Year,South,2025
+156,20,Female,Undergraduate,Pakistan,4.2,Instagram,Yes,7.4,5,In Relationship,4,8,Socializing,2,Mobile,Yes,Excellent,2,3rd Year,North,2025
+157,22,Male,Graduate,Sri Lanka,4.7,Facebook,Yes,4.7,6,Single,3,7,Other,3,Mobile,No,Excellent,2,1st Year,Central,2023
+158,21,Female,Graduate,Maldives,3.4,Instagram,No,8.6,8,In Relationship,2,5,News,2,Laptop,No,Good,5,3rd Year,East,2021
+159,19,Male,Undergraduate,Bangladesh,4.1,Whatsapp,Yes,7.5,5,Single,4,8,Entertainment,3,Desktop,No,Average,1,1st Year,Central,2021
+160,20,Female,Undergraduate,India,4.6,Instagram,Yes,4.6,6,In Relationship,3,7,Socializing,4,Laptop,Sometimes,Average,3,1st Year,South,2024
+161,19,Female,Undergraduate,Bangladesh,5.3,Instagram,Yes,6.1,5,Single,3,7,Entertainment,4,Laptop,Sometimes,Good,1,1st Year,South,2022
+162,21,Male,Graduate,India,4.8,Facebook,No,7.2,7,In Relationship,2,6,News,3,Tablet,No,Excellent,4,3rd Year,West,2024
+163,20,Female,Undergraduate,Nepal,5.5,Whatsapp,Yes,5.9,6,Single,4,8,News,4,Tablet,No,Excellent,5,4th Year,North,2025
+164,22,Male,Graduate,Pakistan,4.7,Instagram,Yes,6.3,5,In Relationship,3,7,Other,4,Tablet,No,Poor,5,3rd Year,East,2022
+165,19,Female,Undergraduate,Sri Lanka,5.1,Facebook,No,7,7,Single,2,5,Education,1,Laptop,No,Average,4,3rd Year,East,2024
+166,21,Male,Graduate,Maldives,5.4,Whatsapp,Yes,6,6,In Relationship,4,8,Education,4,Laptop,Sometimes,Excellent,2,1st Year,Central,2022
+167,20,Female,Undergraduate,Bangladesh,4.9,Instagram,Yes,6.4,5,Single,3,7,News,3,Desktop,Sometimes,Average,2,3rd Year,West,2023
+168,22,Male,Graduate,India,5.2,Facebook,No,7.1,7,In Relationship,2,6,Other,1,Tablet,Yes,Good,5,2nd Year,South,2022
+169,19,Female,Undergraduate,Nepal,5.6,Whatsapp,Yes,5.8,6,Single,4,8,Other,1,Desktop,Yes,Average,1,3rd Year,West,2024
+170,21,Male,Graduate,Pakistan,4.6,Instagram,Yes,6.5,5,In Relationship,3,7,Education,3,Desktop,Sometimes,Excellent,5,2nd Year,South,2025
+171,20,Female,Undergraduate,Sri Lanka,5,Facebook,No,7.3,7,Single,2,5,Socializing,2,Tablet,Yes,Average,4,1st Year,West,2023
+172,22,Male,Graduate,Maldives,5.3,Whatsapp,Yes,5.7,6,In Relationship,4,8,Education,1,Desktop,Sometimes,Average,3,4th Year,Central,2020
+173,19,Female,Undergraduate,Bangladesh,4.8,Instagram,Yes,6.6,5,Single,3,7,Socializing,4,Laptop,Yes,Average,2,1st Year,North,2022
+174,21,Male,Graduate,India,5.1,Facebook,No,7.4,7,In Relationship,2,6,Other,1,Desktop,Yes,Average,1,1st Year,North,2022
+175,20,Female,Undergraduate,Nepal,5.7,Whatsapp,Yes,5.6,6,Single,4,8,News,4,Laptop,No,Excellent,4,4th Year,Central,2023
+176,22,Male,Graduate,Pakistan,4.5,Instagram,Yes,6.7,5,In Relationship,3,7,Socializing,2,Desktop,No,Average,3,2nd Year,South,2025
+177,19,Female,Undergraduate,Sri Lanka,4.9,Facebook,No,7.5,7,Single,2,5,Other,2,Desktop,Sometimes,Excellent,3,4th Year,Central,2024
+178,21,Male,Graduate,Maldives,5.2,Whatsapp,Yes,5.5,6,In Relationship,4,8,Other,1,Laptop,Yes,Good,4,2nd Year,West,2022
+179,20,Female,Undergraduate,Bangladesh,4.7,Instagram,Yes,6.8,5,Single,3,7,Socializing,2,Laptop,Sometimes,Poor,3,1st Year,North,2024
+180,22,Male,Graduate,India,5,Facebook,No,7.6,7,In Relationship,2,6,Socializing,2,Mobile,Sometimes,Poor,2,2nd Year,North,2020
+181,19,Female,Undergraduate,Nepal,5.8,Whatsapp,Yes,5.4,6,Single,4,8,Other,4,Laptop,No,Excellent,1,1st Year,South,2025
+182,21,Male,Graduate,Pakistan,4.4,Instagram,Yes,6.9,5,In Relationship,3,7,Education,1,Desktop,No,Average,2,3rd Year,North,2020
+183,20,Female,Undergraduate,Sri Lanka,4.8,Facebook,No,7.7,7,Single,2,5,Other,1,Tablet,Yes,Good,1,1st Year,Central,2023
+184,22,Male,Graduate,Maldives,5.1,Whatsapp,Yes,5.3,6,In Relationship,4,8,News,3,Desktop,Yes,Good,4,2nd Year,East,2022
+185,19,Female,Undergraduate,Bangladesh,4.6,Instagram,Yes,7,5,Single,3,7,Other,5,Laptop,Sometimes,Excellent,5,4th Year,West,2023
+186,21,Male,Graduate,India,4.9,Facebook,No,7.8,7,In Relationship,2,6,Other,3,Desktop,Sometimes,Average,2,1st Year,East,2021
+187,20,Female,Undergraduate,Nepal,5.9,Whatsapp,Yes,5.2,6,Single,4,8,Education,5,Desktop,Sometimes,Excellent,3,3rd Year,West,2020
+188,22,Male,Graduate,Pakistan,4.3,Instagram,Yes,7.1,5,In Relationship,3,7,Other,3,Mobile,Yes,Good,3,3rd Year,East,2020
+189,19,Female,Undergraduate,Sri Lanka,4.7,Facebook,No,7.9,7,Single,2,5,News,1,Mobile,Sometimes,Good,2,3rd Year,East,2020
+190,21,Male,Graduate,Maldives,5,Whatsapp,Yes,5.1,6,In Relationship,4,8,News,3,Desktop,Sometimes,Poor,4,1st Year,North,2020
+191,20,Female,Undergraduate,Bangladesh,4.5,Instagram,Yes,7.2,5,Single,3,7,Entertainment,3,Desktop,Sometimes,Excellent,5,3rd Year,East,2022
+192,22,Male,Graduate,India,4.8,Facebook,No,8,7,In Relationship,2,6,Socializing,4,Desktop,No,Average,2,4th Year,East,2024
+193,19,Female,Undergraduate,Nepal,6,Whatsapp,Yes,5,6,Single,4,8,Education,5,Mobile,Sometimes,Good,3,2nd Year,East,2025
+194,21,Male,Graduate,Pakistan,4.2,Instagram,Yes,7.3,5,In Relationship,3,7,Other,2,Laptop,No,Average,3,4th Year,South,2025
+195,20,Female,Undergraduate,Sri Lanka,4.6,Facebook,No,8.1,7,Single,2,5,Education,4,Mobile,Yes,Average,5,4th Year,South,2025
+196,22,Male,Graduate,Maldives,4.9,Whatsapp,Yes,4.9,6,In Relationship,4,8,Socializing,1,Laptop,Sometimes,Good,4,2nd Year,North,2020
+197,19,Female,Undergraduate,Bangladesh,4.4,Instagram,Yes,7.4,5,Single,3,7,Entertainment,5,Desktop,Sometimes,Average,4,1st Year,North,2025
+198,21,Male,Graduate,India,4.7,Facebook,No,8.2,7,In Relationship,2,6,Entertainment,3,Tablet,Yes,Good,2,3rd Year,North,2025
+199,20,Female,Undergraduate,Nepal,6.1,Whatsapp,Yes,4.8,6,Single,4,8,Education,1,Desktop,No,Good,5,1st Year,East,2020
+200,22,Male,Graduate,Pakistan,4.1,Instagram,Yes,7.5,5,In Relationship,3,7,Other,2,Laptop,No,Excellent,4,4th Year,Central,2024
+201,19,Female,Undergraduate,Sri Lanka,4.5,Facebook,No,8.3,7,Single,2,5,News,1,Desktop,Sometimes,Poor,1,2nd Year,South,2023
+202,21,Male,Graduate,Maldives,4.8,Whatsapp,Yes,4.7,6,In Relationship,4,8,Other,1,Mobile,Yes,Poor,2,4th Year,Central,2022
+203,20,Female,Undergraduate,Bangladesh,4.3,Instagram,Yes,7.6,5,Single,3,7,Entertainment,1,Laptop,Yes,Poor,3,3rd Year,East,2021
+204,22,Male,Graduate,India,4.6,Facebook,No,8.4,7,In Relationship,2,6,Other,5,Laptop,No,Good,3,3rd Year,East,2020
+205,19,Female,Undergraduate,Nepal,6.2,Whatsapp,Yes,4.6,6,Single,4,8,Other,3,Mobile,No,Average,2,2nd Year,East,2021
+206,21,Male,Graduate,Pakistan,4,Instagram,Yes,7.7,5,In Relationship,3,7,Other,4,Desktop,No,Good,1,2nd Year,South,2024
+207,20,Female,Undergraduate,Sri Lanka,4.4,Facebook,No,8.5,7,Single,2,5,Entertainment,5,Desktop,Sometimes,Average,2,3rd Year,West,2021
+208,22,Male,Graduate,Maldives,4.7,Whatsapp,Yes,4.5,6,In Relationship,4,8,Socializing,3,Desktop,Yes,Average,5,3rd Year,South,2022
+209,19,Female,Undergraduate,Bangladesh,4.2,Instagram,Yes,7.8,5,Single,3,7,Socializing,1,Tablet,Yes,Poor,1,1st Year,West,2024
+210,21,Male,Graduate,India,4.5,Facebook,No,8.6,7,In Relationship,2,6,Education,2,Tablet,Sometimes,Poor,2,4th Year,Central,2025
+211,20,Female,Undergraduate,Nepal,6.3,Whatsapp,Yes,4.4,6,Single,4,8,Socializing,5,Desktop,Sometimes,Excellent,5,3rd Year,South,2022
+212,22,Male,Graduate,Pakistan,3.9,Instagram,Yes,7.9,5,In Relationship,3,7,News,4,Mobile,No,Excellent,4,4th Year,South,2023
+213,19,Female,Undergraduate,Sri Lanka,4.3,Facebook,No,8.7,7,Single,2,5,Education,4,Tablet,Yes,Poor,5,3rd Year,Central,2024
+214,21,Male,Graduate,Maldives,4.6,Whatsapp,Yes,4.3,6,In Relationship,4,8,News,3,Laptop,Yes,Excellent,3,3rd Year,South,2024
+215,20,Female,Undergraduate,Bangladesh,4.1,Instagram,Yes,8,5,Single,3,7,Other,3,Desktop,Yes,Poor,2,3rd Year,Central,2021
+216,22,Male,Graduate,India,4.4,Facebook,No,8.8,7,In Relationship,2,6,Education,1,Tablet,No,Poor,4,2nd Year,Central,2022
+217,19,Female,Undergraduate,Nepal,6.4,Whatsapp,Yes,4.2,6,Single,4,8,Socializing,4,Tablet,Yes,Poor,2,1st Year,North,2024
+218,21,Male,Graduate,Pakistan,3.8,Instagram,Yes,8.1,5,In Relationship,3,7,News,5,Mobile,Yes,Excellent,4,2nd Year,West,2025
+219,20,Female,Undergraduate,Sri Lanka,4.2,Facebook,No,8.9,7,Single,2,5,Socializing,2,Laptop,Sometimes,Average,3,4th Year,North,2023
+220,22,Male,Graduate,Maldives,4.5,Whatsapp,Yes,4.1,6,In Relationship,4,8,News,5,Tablet,Sometimes,Excellent,2,3rd Year,East,2024
+221,19,Female,Undergraduate,USA,6.5,Instagram,Yes,6,5,Single,4,9,Entertainment,2,Desktop,No,Average,4,3rd Year,West,2021
+222,21,Male,Graduate,UK,5.8,Whatsapp,Yes,6.5,6,In Relationship,3,7,News,3,Desktop,Yes,Average,3,3rd Year,North,2020
+223,20,Female,Undergraduate,Australia,4.5,Instagram,No,7.5,8,Single,2,5,Other,1,Laptop,Sometimes,Good,3,1st Year,West,2020
+224,22,Male,Graduate,Germany,4.2,Facebook,No,7.8,7,In Relationship,2,4,News,5,Desktop,No,Good,1,1st Year,East,2022
+225,19,Female,Undergraduate,Japan,3.8,LINE,No,7.9,8,Single,1,3,News,5,Tablet,Sometimes,Poor,3,2nd Year,Central,2024
+226,21,Male,Graduate,Italy,5.5,Instagram,Yes,6.8,6,Single,3,7,Education,4,Tablet,No,Poor,1,1st Year,East,2025
+227,20,Female,Undergraduate,South Korea,5.2,KakaoTalk,Yes,6.5,6,In Relationship,3,6,Socializing,4,Tablet,No,Good,2,2nd Year,North,2025
+228,22,Male,Graduate,Russia,4.8,VKontakte,No,7.2,7,Single,2,5,Education,5,Tablet,Sometimes,Excellent,2,3rd Year,East,2023
+229,19,Female,Undergraduate,USA,7,Whatsapp,Yes,5.8,4,In Relationship,4,9,Socializing,3,Tablet,Yes,Average,5,2nd Year,West,2021
+230,21,Male,Graduate,UK,5.5,Instagram,Yes,6.7,6,Single,3,7,News,3,Laptop,Sometimes,Average,4,1st Year,West,2021
+231,20,Female,Undergraduate,Australia,4.7,Facebook,No,7.4,7,In Relationship,2,5,News,1,Desktop,Yes,Good,1,3rd Year,South,2023
+232,22,Male,Graduate,Germany,4,Instagram,No,7.9,8,Single,1,4,Other,2,Tablet,Sometimes,Excellent,5,1st Year,South,2020
+233,19,Female,Undergraduate,Japan,3.5,LINE,No,8,8,Single,1,3,News,2,Laptop,Yes,Good,3,4th Year,Central,2023
+234,21,Male,Graduate,Italy,5.7,Whatsapp,Yes,6.5,5,In Relationship,3,8,Socializing,5,Mobile,Yes,Excellent,4,1st Year,East,2025
+235,20,Female,Undergraduate,South Korea,5,KakaoTalk,Yes,6.8,6,Single,3,6,Other,2,Tablet,No,Average,3,1st Year,West,2024
+236,22,Male,Graduate,Russia,4.5,VKontakte,No,7.4,7,In Relationship,2,5,Socializing,5,Tablet,Yes,Excellent,5,2nd Year,North,2020
+237,19,Female,Undergraduate,USA,6.8,Instagram,Yes,5.9,4,Single,4,9,Socializing,5,Tablet,No,Excellent,1,1st Year,South,2024
+238,21,Male,Graduate,UK,5.6,Facebook,Yes,6.6,6,In Relationship,3,7,News,3,Tablet,Yes,Average,2,2nd Year,South,2023
+239,20,Female,Undergraduate,Australia,4.6,Instagram,No,7.3,7,Single,2,5,Education,4,Mobile,No,Good,3,3rd Year,Central,2024
+240,22,Male,Graduate,Germany,4.1,Facebook,No,7.7,8,In Relationship,2,4,Other,5,Tablet,No,Poor,5,2nd Year,South,2023
+241,19,Female,Undergraduate,Japan,3.7,LINE,No,7.8,8,Single,1,3,Socializing,4,Laptop,No,Poor,2,3rd Year,South,2024
+242,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5,Single,3,7,News,4,Mobile,Sometimes,Excellent,5,2nd Year,East,2025
+243,20,Female,Undergraduate,South Korea,5.1,KakaoTalk,Yes,6.6,6,In Relationship,3,6,News,3,Laptop,Sometimes,Poor,4,4th Year,South,2021
+244,22,Male,Graduate,Russia,4.7,VKontakte,No,7.3,7,Single,2,5,Socializing,3,Laptop,No,Poor,1,2nd Year,South,2021
+245,19,Female,Undergraduate,USA,6.9,Whatsapp,Yes,5.7,4,In Relationship,4,9,Other,4,Laptop,Sometimes,Excellent,3,4th Year,North,2025
+246,21,Male,Graduate,UK,5.7,Instagram,Yes,6.4,6,Single,3,7,News,1,Desktop,No,Excellent,3,1st Year,East,2024
+247,20,Female,Undergraduate,Australia,4.8,Facebook,No,7.2,7,In Relationship,2,5,Entertainment,1,Laptop,Yes,Average,3,2nd Year,North,2025
+248,22,Male,Graduate,Germany,3.9,Instagram,No,7.8,8,Single,1,4,Other,4,Mobile,Yes,Good,1,3rd Year,East,2021
+249,19,Female,Undergraduate,Japan,3.6,LINE,No,8.1,8,Single,1,3,Education,2,Tablet,Sometimes,Good,2,3rd Year,Central,2021
+250,21,Male,Graduate,Italy,5.6,Whatsapp,Yes,6.6,5,In Relationship,3,8,Other,5,Tablet,Yes,Poor,2,2nd Year,East,2024
+251,20,Female,Undergraduate,South Korea,4.9,KakaoTalk,Yes,6.9,6,Single,3,6,Other,1,Laptop,No,Excellent,3,2nd Year,West,2022
+252,22,Male,Graduate,Russia,4.6,VKontakte,No,7.5,7,In Relationship,2,5,Socializing,3,Mobile,Yes,Average,3,1st Year,North,2025
+253,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.8,4,Single,4,9,Other,4,Desktop,Sometimes,Good,5,1st Year,North,2025
+254,21,Male,Graduate,UK,5.4,Facebook,Yes,6.5,6,In Relationship,3,7,News,5,Desktop,Sometimes,Good,1,4th Year,South,2021
+255,20,Female,Undergraduate,Australia,4.4,Instagram,No,7.4,7,Single,2,5,Entertainment,3,Tablet,Yes,Good,2,3rd Year,Central,2024
+256,22,Male,Graduate,Germany,4,Facebook,No,7.6,8,In Relationship,2,4,Socializing,3,Desktop,No,Average,1,1st Year,South,2023
+257,19,Female,Undergraduate,Japan,3.4,LINE,No,8.2,8,Single,1,3,News,5,Tablet,Sometimes,Good,1,3rd Year,North,2021
+258,21,Male,Graduate,Italy,5.3,Instagram,Yes,6.8,5,Single,3,7,Socializing,1,Tablet,No,Average,2,2nd Year,South,2023
+259,20,Female,Undergraduate,South Korea,5,KakaoTalk,Yes,6.7,6,In Relationship,3,6,Other,1,Laptop,Yes,Average,5,4th Year,East,2025
+260,22,Male,Graduate,Russia,4.4,VKontakte,No,7.6,7,Single,2,5,Socializing,2,Tablet,Yes,Excellent,3,3rd Year,East,2024
+261,19,Female,Undergraduate,USA,6.6,Whatsapp,Yes,5.6,4,In Relationship,4,9,News,4,Mobile,Yes,Poor,2,2nd Year,South,2025
+262,21,Male,Graduate,UK,5.3,Instagram,Yes,6.3,6,Single,3,7,Entertainment,4,Tablet,Yes,Good,4,1st Year,South,2023
+263,20,Female,Undergraduate,Australia,4.3,Facebook,No,7.5,7,In Relationship,2,5,Education,5,Tablet,Sometimes,Poor,2,1st Year,West,2022
+264,22,Male,Graduate,Germany,3.8,Instagram,No,7.7,8,Single,1,4,Entertainment,5,Mobile,Yes,Excellent,5,4th Year,North,2020
+265,19,Female,Undergraduate,Japan,3.3,LINE,No,8.3,8,Single,1,3,Entertainment,1,Tablet,No,Poor,4,3rd Year,North,2023
+266,21,Male,Graduate,Italy,5.2,Whatsapp,Yes,6.9,5,In Relationship,3,8,Other,5,Laptop,No,Average,1,2nd Year,South,2020
+267,20,Female,Undergraduate,South Korea,4.8,KakaoTalk,Yes,7,6,Single,3,6,News,4,Tablet,Sometimes,Good,3,2nd Year,Central,2023
+268,22,Male,Graduate,Russia,4.3,VKontakte,No,7.7,7,In Relationship,2,5,Education,5,Desktop,Sometimes,Excellent,2,2nd Year,East,2021
+269,19,Female,Undergraduate,USA,6.4,Instagram,Yes,5.7,4,Single,4,9,Education,3,Laptop,Yes,Average,4,3rd Year,South,2020
+270,21,Male,Graduate,UK,5.2,Facebook,Yes,6.4,6,In Relationship,3,7,Entertainment,4,Tablet,Sometimes,Good,4,1st Year,East,2025
+271,20,Female,Undergraduate,Australia,4.5,Instagram,No,7.3,7,Single,2,5,News,4,Tablet,Sometimes,Average,1,2nd Year,West,2023
+272,22,Male,Graduate,Germany,3.7,Facebook,No,7.8,8,In Relationship,1,4,Other,5,Laptop,No,Poor,3,2nd Year,Central,2020
+273,19,Female,Undergraduate,Japan,3.2,LINE,No,8.4,8,Single,1,3,Entertainment,5,Mobile,Sometimes,Average,5,2nd Year,Central,2025
+274,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5,Single,3,7,Socializing,4,Laptop,Sometimes,Poor,2,2nd Year,East,2024
+275,20,Female,Undergraduate,South Korea,4.7,KakaoTalk,Yes,7.1,6,In Relationship,3,6,Other,1,Mobile,No,Average,4,1st Year,Central,2023
+276,22,Male,Graduate,Russia,4.2,VKontakte,No,7.8,7,Single,2,5,Socializing,1,Mobile,Yes,Excellent,4,1st Year,West,2022
+277,19,Female,Undergraduate,USA,6.6,Whatsapp,Yes,5.5,4,In Relationship,4,9,Education,2,Laptop,Sometimes,Poor,1,4th Year,North,2023
+278,21,Male,Graduate,UK,5.1,Instagram,Yes,6.5,6,Single,3,7,Socializing,3,Tablet,Sometimes,Poor,2,2nd Year,West,2024
+279,20,Female,Undergraduate,Australia,4.4,Facebook,No,7.4,7,In Relationship,2,5,Other,5,Laptop,Yes,Excellent,1,2nd Year,Central,2021
+280,22,Male,Graduate,Germany,3.6,Instagram,No,7.9,8,Single,1,4,Socializing,3,Desktop,Sometimes,Poor,4,2nd Year,East,2021
+281,19,Female,Undergraduate,Japan,3.1,LINE,No,8.5,8,Single,1,3,Other,4,Mobile,Yes,Average,4,2nd Year,Central,2024
+282,21,Male,Graduate,Italy,5.3,Whatsapp,Yes,6.8,5,In Relationship,3,8,Socializing,4,Tablet,Yes,Good,4,1st Year,West,2020
+283,20,Female,Undergraduate,South Korea,4.6,KakaoTalk,Yes,7.2,6,Single,3,6,News,1,Laptop,Yes,Average,2,4th Year,North,2023
+284,22,Male,Graduate,Russia,4.1,VKontakte,No,7.9,7,In Relationship,2,5,Socializing,3,Mobile,Yes,Excellent,3,1st Year,Central,2020
+285,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.4,4,Single,4,9,Education,5,Desktop,Sometimes,Excellent,4,1st Year,Central,2023
+286,21,Male,Graduate,UK,5,Facebook,Yes,6.6,6,In Relationship,3,7,News,1,Desktop,Sometimes,Average,2,4th Year,West,2022
+287,20,Female,Undergraduate,Australia,4.3,Instagram,No,7.5,7,Single,2,5,Other,2,Desktop,Yes,Average,1,1st Year,North,2023
+288,22,Male,Graduate,Germany,3.5,Facebook,No,8,8,In Relationship,1,4,Other,1,Desktop,No,Excellent,4,4th Year,East,2020
+289,19,Female,Undergraduate,Japan,3,LINE,No,8.6,8,Single,1,3,Socializing,5,Desktop,No,Excellent,1,4th Year,West,2020
+290,21,Male,Graduate,Italy,5.2,Instagram,Yes,6.9,5,Single,3,7,Education,3,Mobile,Yes,Excellent,1,2nd Year,South,2020
+291,20,Female,Undergraduate,South Korea,4.5,KakaoTalk,Yes,7.3,6,In Relationship,3,6,Education,1,Tablet,No,Average,2,4th Year,Central,2020
+292,22,Male,Graduate,Russia,4,VKontakte,No,8,7,Single,2,5,Entertainment,2,Desktop,Sometimes,Average,3,4th Year,South,2021
+293,19,Female,Undergraduate,USA,6.8,Whatsapp,Yes,5.3,4,In Relationship,4,9,Other,3,Laptop,Sometimes,Excellent,2,2nd Year,North,2024
+294,21,Male,Graduate,UK,4.9,Instagram,Yes,6.7,6,Single,3,7,Socializing,1,Mobile,Yes,Good,1,1st Year,North,2022
+295,20,Female,Undergraduate,Australia,4.2,Facebook,No,7.6,7,In Relationship,2,5,Entertainment,1,Laptop,Sometimes,Excellent,1,2nd Year,East,2020
+296,22,Male,Graduate,Germany,3.4,Instagram,No,8.1,8,Single,1,4,Entertainment,3,Desktop,Yes,Good,4,1st Year,East,2020
+297,19,Female,Undergraduate,Japan,2.9,LINE,No,8.7,8,Single,1,3,News,1,Laptop,Yes,Good,4,4th Year,Central,2020
+298,21,Male,Graduate,Italy,5.1,Whatsapp,Yes,7,5,In Relationship,3,8,News,2,Laptop,Sometimes,Average,5,3rd Year,South,2023
+299,20,Female,Undergraduate,South Korea,4.4,KakaoTalk,Yes,7.4,6,Single,3,6,Entertainment,1,Laptop,Yes,Excellent,3,3rd Year,Central,2020
+300,22,Male,Graduate,Russia,3.9,VKontakte,No,8.1,7,In Relationship,2,5,Socializing,5,Desktop,No,Excellent,4,3rd Year,East,2024
+301,19,Female,Undergraduate,USA,6.9,Instagram,Yes,5.2,4,Single,4,9,Entertainment,5,Tablet,No,Excellent,1,2nd Year,South,2020
+302,21,Male,Graduate,UK,4.8,Facebook,Yes,6.8,6,In Relationship,3,7,News,5,Desktop,No,Excellent,2,4th Year,North,2020
+303,20,Female,Undergraduate,Australia,4.1,Instagram,No,7.7,7,Single,2,5,Entertainment,5,Laptop,No,Poor,5,1st Year,West,2020
+304,22,Male,Graduate,Germany,3.3,Facebook,No,8.2,8,In Relationship,1,4,Socializing,1,Desktop,Yes,Excellent,3,4th Year,Central,2022
+305,19,Female,Undergraduate,Japan,2.8,LINE,No,8.8,8,Single,1,3,Education,4,Desktop,Yes,Excellent,5,4th Year,East,2022
+306,21,Male,Graduate,Italy,5,Instagram,Yes,7.1,5,Single,3,7,Socializing,1,Mobile,Sometimes,Excellent,5,4th Year,South,2022
+307,20,Female,Undergraduate,South Korea,4.3,KakaoTalk,Yes,7.5,6,In Relationship,3,6,News,3,Mobile,Sometimes,Good,4,2nd Year,North,2022
+308,22,Male,Graduate,Russia,3.8,VKontakte,No,8.2,7,Single,2,5,Other,5,Desktop,Yes,Average,3,1st Year,West,2020
+309,19,Female,Undergraduate,USA,7,Whatsapp,Yes,5.1,4,In Relationship,4,9,Socializing,1,Tablet,Sometimes,Good,3,1st Year,South,2021
+310,21,Male,Graduate,UK,4.7,Instagram,Yes,6.9,6,Single,3,7,Education,4,Desktop,Sometimes,Excellent,1,3rd Year,North,2020
+311,20,Female,Undergraduate,Australia,4,Facebook,No,7.8,7,In Relationship,2,5,Education,4,Tablet,No,Average,3,3rd Year,West,2024
+312,22,Male,Graduate,Germany,3.2,Instagram,No,8.3,8,Single,1,4,Other,1,Desktop,No,Poor,1,1st Year,Central,2025
+313,19,Female,Undergraduate,Japan,2.7,LINE,No,8.9,8,Single,1,3,Entertainment,2,Mobile,Yes,Good,5,4th Year,South,2024
+314,21,Male,Graduate,Italy,4.9,Whatsapp,Yes,7.2,5,In Relationship,3,8,Other,2,Mobile,Yes,Average,2,1st Year,Central,2025
+315,20,Female,Undergraduate,South Korea,4.2,KakaoTalk,Yes,7.6,6,Single,3,6,News,2,Tablet,No,Average,1,2nd Year,Central,2020
+316,22,Male,Graduate,Russia,3.7,VKontakte,No,8.3,7,In Relationship,2,5,Education,5,Laptop,No,Good,3,1st Year,West,2020
+317,19,Female,Undergraduate,USA,7.1,Instagram,Yes,5,4,Single,4,9,Other,2,Mobile,No,Average,2,1st Year,West,2022
+318,21,Male,Graduate,UK,4.6,Facebook,Yes,7,6,In Relationship,3,7,Other,4,Laptop,Sometimes,Poor,3,1st Year,East,2024
+319,20,Female,Undergraduate,Australia,3.9,Instagram,No,7.9,7,Single,2,5,News,1,Tablet,Sometimes,Excellent,1,2nd Year,South,2023
+320,22,Male,Graduate,Germany,3.1,Facebook,No,8.4,8,In Relationship,1,4,News,3,Mobile,Sometimes,Poor,1,1st Year,North,2024
+321,19,Female,Undergraduate,Spain,5.2,Instagram,Yes,6.8,6,Single,3,7,Education,3,Mobile,Yes,Excellent,3,1st Year,East,2022
+322,21,Male,Graduate,Denmark,4.1,Facebook,No,7.8,8,In Relationship,2,4,Education,3,Mobile,Sometimes,Excellent,3,4th Year,Central,2021
+323,20,Female,Undergraduate,Ireland,5,Instagram,Yes,7,7,Single,3,6,News,4,Laptop,No,Excellent,2,1st Year,East,2024
+324,22,Male,Graduate,India,5.8,WhatsApp,Yes,6.5,5,In Relationship,4,8,News,5,Mobile,No,Poor,3,4th Year,East,2025
+325,19,Female,Undergraduate,Switzerland,4,Instagram,No,7.9,8,Single,2,4,Education,2,Desktop,No,Good,3,4th Year,East,2023
+326,21,Male,Graduate,Turkey,5.5,Instagram,Yes,6.7,6,Single,3,7,Education,3,Mobile,Yes,Average,2,3rd Year,North,2025
+327,20,Female,Undergraduate,USA,6.8,Whatsapp,Yes,5.5,5,In Relationship,4,9,Entertainment,2,Laptop,Sometimes,Poor,1,3rd Year,East,2024
+328,22,Male,Graduate,Mexico,5.6,WhatsApp,Yes,6.6,6,Single,3,7,News,1,Laptop,Sometimes,Good,5,4th Year,North,2023
+329,19,Female,Undergraduate,France,4.5,Instagram,No,7.5,7,In Relationship,2,5,Other,1,Laptop,Yes,Excellent,4,1st Year,North,2025
+330,21,Male,Graduate,Canada,5.3,Instagram,Yes,6.9,6,Single,3,7,Entertainment,5,Desktop,Sometimes,Average,1,2nd Year,Central,2023
+331,20,Female,Undergraduate,Spain,5.1,Whatsapp,Yes,6.7,6,Single,3,7,Entertainment,3,Mobile,Yes,Poor,5,2nd Year,West,2021
+332,22,Male,Graduate,Denmark,3.9,Facebook,No,7.9,8,In Relationship,2,4,News,3,Mobile,No,Good,4,3rd Year,East,2025
+333,19,Female,Undergraduate,Ireland,4.8,Instagram,Yes,7.1,7,Single,3,6,Entertainment,5,Tablet,No,Good,5,3rd Year,East,2021
+334,21,Male,Graduate,India,5.9,WhatsApp,Yes,6.4,5,In Relationship,4,8,Socializing,3,Laptop,Yes,Poor,2,2nd Year,North,2021
+335,20,Female,Undergraduate,Switzerland,3.8,Instagram,No,8,8,Single,2,4,Entertainment,3,Tablet,Yes,Poor,1,1st Year,West,2020
+336,22,Male,Graduate,Turkey,5.4,Whatsapp,Yes,6.8,6,Single,3,7,Education,5,Tablet,Yes,Excellent,1,2nd Year,North,2022
+337,19,Female,Undergraduate,USA,6.9,Instagram,Yes,5.4,5,In Relationship,4,9,Socializing,3,Mobile,Sometimes,Average,1,2nd Year,East,2024
+338,21,Male,Graduate,Mexico,5.7,WhatsApp,Yes,6.5,6,Single,3,7,Entertainment,4,Tablet,No,Excellent,3,4th Year,East,2024
+339,20,Female,Undergraduate,France,4.4,Instagram,No,7.6,7,In Relationship,2,5,Education,2,Laptop,Sometimes,Average,3,4th Year,Central,2021
+340,22,Male,Graduate,Canada,5.2,Whatsapp,Yes,7,6,Single,3,7,Other,2,Tablet,No,Poor,2,1st Year,West,2025
+341,19,Female,Undergraduate,Spain,5,Instagram,Yes,6.9,6,Single,3,7,Education,1,Tablet,Sometimes,Excellent,4,1st Year,Central,2020
+342,21,Male,Graduate,Denmark,3.8,Facebook,No,8,8,In Relationship,2,4,Other,4,Laptop,No,Good,5,4th Year,East,2020
+343,20,Female,Undergraduate,Ireland,4.7,Whatsapp,Yes,7.2,7,Single,3,6,Entertainment,5,Mobile,Yes,Good,5,2nd Year,North,2022
+344,22,Male,Graduate,India,6,WhatsApp,Yes,6.3,5,In Relationship,4,8,Socializing,3,Laptop,Yes,Average,4,4th Year,East,2020
+345,19,Female,Undergraduate,Switzerland,3.7,Instagram,No,8.1,8,Single,2,4,News,2,Mobile,No,Poor,1,2nd Year,North,2020
+346,21,Male,Graduate,Turkey,5.3,Instagram,Yes,6.9,6,Single,3,7,Entertainment,2,Tablet,No,Poor,3,4th Year,North,2024
+347,20,Female,Undergraduate,USA,7,Whatsapp,Yes,5.3,5,In Relationship,4,9,News,1,Tablet,Sometimes,Good,4,1st Year,West,2020
+348,22,Male,Graduate,Mexico,5.8,WhatsApp,Yes,6.4,6,Single,3,7,Other,3,Tablet,No,Excellent,2,1st Year,East,2023
+349,19,Female,Undergraduate,France,4.3,Instagram,No,7.7,7,In Relationship,2,5,Entertainment,3,Laptop,Sometimes,Poor,2,4th Year,South,2021
+350,21,Male,Graduate,Canada,5.1,Instagram,Yes,7.1,6,Single,3,7,Socializing,4,Mobile,No,Poor,4,1st Year,East,2024
+351,20,Female,Undergraduate,Spain,4.9,Whatsapp,Yes,7,6,Single,3,7,Other,5,Desktop,No,Average,2,2nd Year,Central,2020
+352,22,Male,Graduate,Denmark,3.7,Facebook,No,8.1,8,In Relationship,2,4,Education,3,Laptop,Yes,Average,4,1st Year,West,2022
+353,19,Female,Undergraduate,Ireland,4.6,Instagram,Yes,7.3,7,Single,3,6,News,2,Desktop,Sometimes,Average,5,3rd Year,North,2020
+354,21,Male,Graduate,India,6.1,WhatsApp,Yes,6.2,5,In Relationship,4,8,Socializing,4,Mobile,Sometimes,Poor,2,4th Year,East,2023
+355,20,Female,Undergraduate,Switzerland,3.6,Instagram,No,8.2,8,Single,2,4,Education,5,Tablet,No,Good,1,1st Year,North,2025
+356,22,Male,Graduate,Turkey,5.2,Whatsapp,Yes,7,6,Single,3,7,Entertainment,2,Laptop,Sometimes,Poor,3,2nd Year,South,2024
+357,19,Female,Undergraduate,USA,7.1,Instagram,Yes,5.2,5,In Relationship,4,9,Education,1,Laptop,Yes,Poor,3,1st Year,East,2025
+358,21,Male,Graduate,Mexico,5.9,WhatsApp,Yes,6.3,6,Single,3,7,News,2,Desktop,Sometimes,Poor,5,3rd Year,South,2025
+359,20,Female,Undergraduate,France,4.2,Instagram,No,7.8,7,In Relationship,2,5,Other,2,Laptop,Sometimes,Excellent,5,1st Year,East,2020
+360,22,Male,Graduate,Canada,5,Whatsapp,Yes,7.2,6,Single,3,7,Socializing,1,Tablet,Yes,Poor,5,4th Year,Central,2024
+361,19,Female,Undergraduate,Spain,4.8,Instagram,Yes,7.1,6,Single,3,7,Education,1,Desktop,Yes,Average,2,3rd Year,West,2022
+362,21,Male,Graduate,Denmark,3.6,Facebook,No,8.2,8,In Relationship,2,4,News,3,Tablet,Sometimes,Excellent,4,2nd Year,East,2022
+363,20,Female,Undergraduate,Ireland,4.5,Whatsapp,Yes,7.4,7,Single,3,6,Education,1,Laptop,Yes,Average,5,1st Year,North,2022
+364,22,Male,Graduate,India,6.2,WhatsApp,Yes,6.1,5,In Relationship,4,8,Entertainment,3,Tablet,Yes,Poor,5,3rd Year,North,2022
+365,19,Female,Undergraduate,Switzerland,3.5,Instagram,No,8.3,8,Single,2,4,Entertainment,4,Laptop,Sometimes,Average,3,3rd Year,North,2025
+366,21,Male,Graduate,Turkey,5.1,Instagram,Yes,7.1,6,Single,3,7,Education,3,Tablet,Sometimes,Good,5,3rd Year,South,2021
+367,20,Female,Undergraduate,USA,7.2,Whatsapp,Yes,5.1,5,In Relationship,4,9,News,5,Desktop,Sometimes,Poor,5,2nd Year,East,2020
+368,22,Male,Graduate,Mexico,6,WhatsApp,Yes,6.2,6,Single,3,7,Other,1,Mobile,No,Poor,3,3rd Year,Central,2025
+369,19,Female,Undergraduate,France,4.1,Instagram,No,7.9,7,In Relationship,2,5,Education,2,Mobile,Sometimes,Average,1,3rd Year,East,2022
+370,21,Male,Graduate,Canada,4.9,Instagram,Yes,7.3,6,Single,3,7,Other,1,Tablet,No,Average,3,1st Year,East,2024
+371,20,Female,Undergraduate,Spain,4.7,Whatsapp,Yes,7.2,6,Single,3,7,News,4,Desktop,Yes,Good,5,2nd Year,North,2025
+372,22,Male,Graduate,Denmark,3.5,Facebook,No,8.3,8,In Relationship,2,4,News,5,Laptop,No,Good,2,1st Year,North,2022
+373,19,Female,Undergraduate,Ireland,4.4,Instagram,Yes,7.5,7,Single,3,6,Education,4,Laptop,Yes,Excellent,3,2nd Year,Central,2024
+374,21,Male,Graduate,India,6.3,WhatsApp,Yes,6,5,In Relationship,4,8,News,1,Tablet,Sometimes,Poor,3,1st Year,South,2025
+375,20,Female,Undergraduate,Switzerland,3.4,Instagram,No,8.4,8,Single,2,4,Entertainment,1,Desktop,No,Excellent,5,1st Year,Central,2023
+376,22,Male,Graduate,Turkey,5,Whatsapp,Yes,7.2,6,Single,3,7,Socializing,5,Mobile,No,Average,1,3rd Year,West,2025
+377,19,Female,Undergraduate,USA,7.3,Instagram,Yes,5,5,In Relationship,4,9,Education,4,Desktop,No,Good,2,1st Year,Central,2024
+378,21,Male,Graduate,Mexico,6.1,WhatsApp,Yes,6.1,6,Single,3,7,News,1,Tablet,Yes,Good,4,3rd Year,Central,2023
+379,20,Female,Undergraduate,France,4,Instagram,No,8,7,In Relationship,2,5,Other,3,Mobile,Yes,Poor,5,2nd Year,North,2024
+380,22,Male,Graduate,Canada,4.8,Whatsapp,Yes,7.4,6,Single,3,7,Other,2,Desktop,Yes,Poor,4,1st Year,West,2022
+381,19,Female,Undergraduate,Spain,4.6,Instagram,Yes,7.3,6,Single,3,7,News,5,Mobile,No,Poor,2,4th Year,South,2025
+382,21,Male,Graduate,Denmark,3.4,Facebook,No,8.4,8,In Relationship,2,4,Entertainment,4,Tablet,Sometimes,Poor,5,1st Year,East,2022
+383,20,Female,Undergraduate,Ireland,4.3,Whatsapp,Yes,7.6,7,Single,3,6,News,3,Laptop,No,Average,3,3rd Year,East,2024
+384,22,Male,Graduate,India,6.4,WhatsApp,Yes,5.9,5,In Relationship,4,8,Socializing,1,Desktop,Yes,Poor,1,4th Year,West,2021
+385,19,Female,Undergraduate,Switzerland,3.3,Instagram,No,8.5,8,Single,2,4,Education,5,Mobile,Sometimes,Poor,2,1st Year,North,2020
+386,21,Male,Graduate,Turkey,4.9,Instagram,Yes,7.3,6,Single,3,7,Entertainment,2,Desktop,Sometimes,Poor,4,4th Year,East,2021
+387,20,Female,Undergraduate,USA,7.4,Whatsapp,Yes,4.9,5,In Relationship,4,9,Other,1,Laptop,Sometimes,Average,2,2nd Year,Central,2020
+388,22,Male,Graduate,Mexico,6.2,WhatsApp,Yes,6,6,Single,3,7,Entertainment,5,Tablet,Sometimes,Poor,1,1st Year,West,2024
+389,19,Female,Undergraduate,France,3.9,Instagram,No,8.1,7,In Relationship,2,5,Entertainment,1,Desktop,Yes,Poor,4,3rd Year,East,2025
+390,21,Male,Graduate,Canada,4.7,Instagram,Yes,7.5,6,Single,3,7,Education,3,Desktop,Sometimes,Poor,4,2nd Year,East,2023
+391,20,Female,Undergraduate,Spain,4.5,Whatsapp,Yes,7.4,6,Single,3,7,News,2,Tablet,Sometimes,Good,5,4th Year,North,2020
+392,22,Male,Graduate,Denmark,3.3,Facebook,No,8.5,8,In Relationship,2,4,Entertainment,5,Tablet,Sometimes,Good,2,2nd Year,South,2020
+393,19,Female,Undergraduate,Ireland,4.2,Instagram,Yes,7.7,7,Single,3,6,Entertainment,4,Desktop,No,Poor,3,2nd Year,North,2023
+394,21,Male,Graduate,India,6.5,WhatsApp,Yes,5.8,5,In Relationship,4,8,News,3,Tablet,Sometimes,Excellent,2,2nd Year,North,2022
+395,20,Female,Undergraduate,Switzerland,3.2,Instagram,No,8.6,8,Single,2,4,Socializing,5,Mobile,No,Average,3,1st Year,South,2023
+396,22,Male,Graduate,Turkey,4.8,Whatsapp,Yes,7.4,6,Single,3,7,Other,2,Laptop,No,Good,1,1st Year,East,2025
+397,19,Female,Undergraduate,USA,7.5,Instagram,Yes,4.8,5,In Relationship,4,9,Socializing,5,Tablet,Sometimes,Good,4,3rd Year,Central,2024
+398,21,Male,Graduate,Mexico,6.3,WhatsApp,Yes,5.9,6,Single,3,7,Entertainment,4,Mobile,Sometimes,Good,3,1st Year,North,2022
+399,20,Female,Undergraduate,France,3.8,Instagram,No,8.2,7,In Relationship,2,5,Education,2,Laptop,Yes,Average,4,4th Year,Central,2024
+400,22,Male,Graduate,Canada,4.6,Whatsapp,Yes,7.6,6,Single,3,7,Socializing,1,Tablet,Yes,Good,5,3rd Year,West,2020
+401,19,Female,Undergraduate,Spain,4.4,Instagram,Yes,7.5,6,Single,3,7,Socializing,4,Tablet,No,Poor,2,4th Year,North,2023
+402,21,Male,Graduate,Denmark,3.2,Facebook,No,8.6,8,In Relationship,2,4,Other,5,Tablet,Sometimes,Excellent,3,2nd Year,North,2020
+403,20,Female,Undergraduate,Ireland,4.1,Whatsapp,Yes,7.8,7,Single,3,6,Socializing,2,Desktop,No,Poor,2,3rd Year,Central,2025
+404,22,Male,Graduate,India,6.6,WhatsApp,Yes,5.7,5,In Relationship,4,8,Education,5,Mobile,No,Good,2,1st Year,North,2021
+405,19,Female,Undergraduate,Switzerland,3.1,Instagram,No,8.7,8,Single,2,4,Socializing,5,Desktop,Sometimes,Good,4,1st Year,South,2022
+406,21,Male,Graduate,Turkey,4.7,Instagram,Yes,7.5,6,Single,3,7,Entertainment,5,Desktop,Sometimes,Average,1,1st Year,North,2023
+407,20,Female,Undergraduate,USA,7.6,Whatsapp,Yes,4.7,5,In Relationship,4,9,News,4,Tablet,No,Good,4,3rd Year,North,2022
+408,22,Male,Graduate,Mexico,6.4,WhatsApp,Yes,5.8,6,Single,3,7,News,3,Tablet,Sometimes,Average,5,3rd Year,South,2022
+409,19,Female,Undergraduate,France,3.7,Instagram,No,8.3,7,In Relationship,2,5,Education,4,Desktop,Sometimes,Average,1,4th Year,East,2025
+410,21,Male,Graduate,Canada,4.5,Instagram,Yes,7.7,6,Single,3,7,News,1,Desktop,Yes,Good,1,1st Year,West,2023
+411,20,Female,Undergraduate,Spain,4.3,Whatsapp,Yes,7.6,6,Single,3,7,News,3,Tablet,Yes,Excellent,1,4th Year,South,2023
+412,22,Male,Graduate,Denmark,3.1,Facebook,No,8.7,8,In Relationship,2,4,Socializing,2,Tablet,Yes,Average,5,3rd Year,South,2025
+413,19,Female,Undergraduate,Ireland,4,Instagram,Yes,7.9,7,Single,3,6,Education,1,Laptop,No,Poor,1,1st Year,South,2021
+414,21,Male,Graduate,India,6.7,WhatsApp,Yes,5.6,5,In Relationship,4,8,Entertainment,1,Desktop,Yes,Average,3,4th Year,North,2025
+415,20,Female,Undergraduate,Switzerland,3,Instagram,No,8.8,8,Single,2,4,Entertainment,4,Laptop,Sometimes,Good,5,3rd Year,East,2022
+416,22,Male,Graduate,Turkey,4.6,Whatsapp,Yes,7.6,6,Single,3,7,Entertainment,4,Mobile,Sometimes,Average,5,4th Year,Central,2021
+417,19,Female,Undergraduate,USA,7.7,Instagram,Yes,4.6,5,In Relationship,4,9,Other,3,Tablet,Sometimes,Good,5,3rd Year,South,2021
+418,21,Male,Graduate,Mexico,6.5,WhatsApp,Yes,5.7,6,Single,3,7,Entertainment,4,Tablet,Yes,Average,1,2nd Year,North,2024
+419,20,Female,Undergraduate,France,3.6,Instagram,No,8.4,7,In Relationship,2,5,News,3,Tablet,No,Good,2,1st Year,South,2025
+420,22,Male,Graduate,Canada,4.4,Whatsapp,Yes,7.8,6,Single,3,7,News,5,Tablet,No,Poor,1,2nd Year,North,2021
+421,19,Female,Undergraduate,Spain,4.2,Instagram,Yes,7.7,6,Single,3,7,Other,2,Tablet,No,Poor,1,1st Year,East,2020
+422,21,Male,Graduate,Denmark,3,Facebook,No,8.8,8,In Relationship,2,4,News,1,Laptop,No,Excellent,2,1st Year,North,2024
+423,20,Female,Undergraduate,Ireland,3.9,Whatsapp,Yes,8,7,Single,3,6,Entertainment,2,Mobile,Yes,Poor,1,1st Year,North,2024
+424,22,Male,Graduate,India,6.8,WhatsApp,Yes,5.5,5,In Relationship,4,8,Entertainment,2,Mobile,Yes,Poor,1,1st Year,Central,2020
+425,19,Female,Undergraduate,Switzerland,2.9,Instagram,No,8.9,8,Single,2,4,News,2,Laptop,Sometimes,Average,2,1st Year,South,2022
+426,21,Male,Graduate,Turkey,4.5,Instagram,Yes,7.7,6,Single,3,7,Other,3,Tablet,Sometimes,Excellent,1,2nd Year,North,2022
+427,20,Female,Undergraduate,USA,7.8,Whatsapp,Yes,4.5,5,In Relationship,4,9,Entertainment,1,Mobile,No,Good,3,1st Year,North,2024
+428,22,Male,Graduate,Mexico,6.6,WhatsApp,Yes,5.6,6,Single,3,7,Socializing,2,Desktop,Sometimes,Excellent,1,3rd Year,South,2020
+429,19,Female,Undergraduate,France,3.5,Instagram,No,8.5,7,In Relationship,2,5,Socializing,2,Laptop,Sometimes,Good,3,4th Year,West,2025
+430,21,Male,Graduate,Canada,4.3,Instagram,Yes,7.9,6,Single,3,7,Other,3,Mobile,Sometimes,Average,2,2nd Year,West,2021
+431,20,Female,Undergraduate,Spain,4.1,Whatsapp,Yes,7.8,6,Single,3,7,Entertainment,2,Desktop,No,Excellent,5,1st Year,West,2024
+432,22,Male,Graduate,Denmark,2.9,Facebook,No,8.9,8,In Relationship,2,4,Other,2,Tablet,No,Average,4,2nd Year,East,2022
+433,19,Female,Undergraduate,Ireland,3.8,Instagram,Yes,8.1,7,Single,3,6,Socializing,1,Mobile,Yes,Poor,3,4th Year,East,2021
+434,21,Male,Graduate,India,6.9,WhatsApp,Yes,5.4,5,In Relationship,4,8,Socializing,1,Laptop,Sometimes,Poor,5,3rd Year,North,2021
+435,20,Female,Undergraduate,Switzerland,2.8,Instagram,No,9,8,Single,2,4,Education,5,Laptop,No,Average,2,2nd Year,West,2021
+436,22,Male,Graduate,Turkey,4.4,Whatsapp,Yes,7.8,6,Single,3,7,News,3,Desktop,Yes,Poor,4,4th Year,North,2021
+437,19,Female,Undergraduate,USA,7.9,Instagram,Yes,4.4,5,In Relationship,4,9,Other,1,Laptop,Sometimes,Average,2,2nd Year,West,2025
+438,21,Male,Graduate,Mexico,6.7,WhatsApp,Yes,5.5,6,Single,3,7,Socializing,3,Tablet,No,Poor,2,3rd Year,West,2022
+439,20,Female,Undergraduate,France,3.4,Instagram,No,8.6,7,In Relationship,2,5,Entertainment,3,Mobile,No,Poor,1,4th Year,East,2020
+440,22,Male,Graduate,Canada,4.2,Whatsapp,Yes,8,6,Single,3,7,Socializing,1,Laptop,Yes,Good,1,2nd Year,South,2021
+441,19,Female,Undergraduate,Spain,4,Instagram,Yes,7.9,6,Single,3,7,News,4,Mobile,No,Good,3,3rd Year,Central,2020
+442,21,Male,Graduate,Denmark,2.8,Facebook,No,9,8,In Relationship,2,4,Other,5,Desktop,Yes,Average,1,2nd Year,North,2024
+443,20,Female,Undergraduate,Ireland,3.7,Whatsapp,Yes,8.2,7,Single,3,6,Entertainment,2,Laptop,No,Good,2,3rd Year,Central,2025
+444,22,Male,Graduate,India,7,WhatsApp,Yes,5.3,5,In Relationship,4,8,Other,2,Desktop,Yes,Good,1,2nd Year,West,2025
+445,19,Female,Undergraduate,Switzerland,2.7,Instagram,No,9.1,8,Single,2,4,Other,4,Mobile,No,Good,5,1st Year,West,2023
+446,21,Male,Graduate,Turkey,4.3,Instagram,Yes,7.9,6,Single,3,7,News,2,Laptop,Sometimes,Average,4,2nd Year,Central,2022
+447,20,Female,Undergraduate,USA,8,Whatsapp,Yes,4.3,5,In Relationship,4,9,Socializing,2,Tablet,Sometimes,Good,1,3rd Year,East,2025
+448,22,Male,Graduate,Mexico,6.8,WhatsApp,Yes,5.4,6,Single,3,7,News,4,Tablet,No,Excellent,1,4th Year,South,2023
+449,19,Female,Undergraduate,France,3.3,Instagram,No,8.7,7,In Relationship,2,5,Other,2,Mobile,Yes,Average,5,1st Year,West,2023
+450,21,Male,Graduate,Canada,4.1,Instagram,Yes,8.1,6,Single,3,7,News,1,Tablet,No,Good,1,4th Year,East,2024
+451,20,Female,Undergraduate,Spain,3.9,Whatsapp,Yes,8,6,Single,3,7,News,1,Desktop,No,Poor,2,1st Year,West,2024
+452,22,Male,Graduate,Denmark,2.7,Facebook,No,9.1,8,In Relationship,2,4,Entertainment,1,Mobile,Sometimes,Average,5,4th Year,West,2020
+453,19,Female,Undergraduate,Ireland,3.6,Instagram,Yes,8.3,7,Single,3,6,Other,2,Desktop,Yes,Poor,3,4th Year,Central,2020
+454,21,Male,Graduate,India,7.1,WhatsApp,Yes,5.2,5,In Relationship,4,8,Socializing,5,Desktop,Yes,Good,3,2nd Year,Central,2023
+455,20,Female,Undergraduate,Switzerland,2.6,Instagram,No,9.2,8,Single,2,4,News,2,Laptop,Yes,Poor,1,1st Year,Central,2024
+456,22,Male,Graduate,Turkey,4.2,Whatsapp,Yes,8,6,Single,3,7,Other,4,Laptop,Sometimes,Excellent,5,4th Year,North,2024
+457,19,Female,Undergraduate,USA,8.1,Instagram,Yes,4.2,5,In Relationship,4,9,Education,1,Laptop,No,Good,5,3rd Year,South,2020
+458,21,Male,Graduate,Mexico,6.9,WhatsApp,Yes,5.3,6,Single,3,7,Socializing,3,Mobile,Yes,Average,1,4th Year,South,2022
+459,20,Female,Undergraduate,France,3.2,Instagram,No,8.8,7,In Relationship,2,5,Entertainment,4,Mobile,No,Poor,1,1st Year,North,2023
+460,22,Male,Graduate,Canada,4,Whatsapp,Yes,8.2,6,Single,3,7,Other,5,Laptop,No,Average,3,3rd Year,East,2023
+461,19,Female,Undergraduate,Spain,3.8,Instagram,Yes,8.1,6,Single,3,7,Education,3,Desktop,Yes,Good,4,4th Year,South,2023
+462,21,Male,Graduate,Denmark,2.6,Facebook,No,9.2,8,In Relationship,2,4,News,3,Laptop,Sometimes,Poor,2,4th Year,West,2024
+463,20,Female,Undergraduate,Ireland,3.5,Whatsapp,Yes,8.4,7,Single,3,6,Education,5,Tablet,No,Excellent,5,2nd Year,West,2024
+464,22,Male,Graduate,India,7.2,WhatsApp,Yes,5.1,5,In Relationship,4,8,Other,1,Laptop,No,Good,5,1st Year,East,2025
+465,19,Female,Undergraduate,Switzerland,2.5,Instagram,No,9.3,8,Single,2,4,Socializing,1,Mobile,No,Good,4,2nd Year,West,2025
+466,21,Male,Graduate,Turkey,4.1,Instagram,Yes,8.1,6,Single,3,7,Entertainment,2,Mobile,Sometimes,Excellent,1,2nd Year,West,2024
+467,20,Female,Undergraduate,USA,8.2,Whatsapp,Yes,4.1,5,In Relationship,4,9,Education,1,Tablet,No,Average,4,2nd Year,West,2024
+468,22,Male,Graduate,Mexico,7,WhatsApp,Yes,5.2,6,Single,3,7,News,5,Desktop,Sometimes,Average,4,3rd Year,Central,2024
+469,19,Female,Undergraduate,France,3.1,Instagram,No,8.9,7,In Relationship,2,5,Socializing,2,Desktop,Sometimes,Average,3,3rd Year,South,2023
+470,21,Male,Graduate,Canada,3.9,Instagram,Yes,8.3,6,Single,3,7,Other,3,Tablet,Yes,Poor,2,3rd Year,West,2022
+471,20,Female,Undergraduate,Spain,3.7,Whatsapp,Yes,8.2,6,Single,3,7,Socializing,5,Tablet,No,Poor,2,4th Year,West,2023
+472,22,Male,Graduate,Denmark,2.5,Facebook,No,9.3,8,In Relationship,2,4,News,1,Mobile,No,Good,3,3rd Year,Central,2023
+473,19,Female,Undergraduate,Ireland,3.4,Instagram,Yes,8.5,7,Single,3,6,Entertainment,3,Mobile,No,Average,2,2nd Year,Central,2025
+474,21,Male,Graduate,India,7.3,WhatsApp,Yes,5,5,In Relationship,4,8,Entertainment,3,Laptop,Sometimes,Average,2,3rd Year,East,2020
+475,20,Female,Undergraduate,Switzerland,2.4,Instagram,No,9.4,8,Single,2,4,Other,5,Laptop,Sometimes,Average,2,4th Year,East,2020
+476,22,Male,Graduate,Turkey,4,Whatsapp,Yes,8.2,6,Single,3,7,News,1,Mobile,No,Poor,1,1st Year,North,2025
+477,19,Female,Undergraduate,USA,8.3,Instagram,Yes,4,5,In Relationship,4,9,Education,3,Laptop,Sometimes,Poor,1,2nd Year,Central,2022
+478,21,Male,Graduate,Mexico,7.1,WhatsApp,Yes,5.1,6,Single,3,7,Entertainment,5,Mobile,No,Good,1,1st Year,North,2023
+479,20,Female,Undergraduate,France,3,Instagram,No,9,7,In Relationship,2,5,News,3,Mobile,Sometimes,Average,1,3rd Year,North,2023
+480,22,Male,Graduate,Canada,3.8,Whatsapp,Yes,8.4,6,Single,3,7,Entertainment,5,Desktop,Yes,Average,5,2nd Year,South,2023
+481,19,Female,Undergraduate,Spain,3.6,Instagram,Yes,8.3,6,Single,3,7,Entertainment,2,Mobile,Sometimes,Average,2,1st Year,East,2020
+482,21,Male,Graduate,Denmark,2.4,Facebook,No,9.4,8,In Relationship,2,4,Other,4,Tablet,No,Excellent,2,2nd Year,South,2020
+483,20,Female,Undergraduate,Ireland,3.3,Whatsapp,Yes,8.6,7,Single,3,6,Other,3,Mobile,Sometimes,Poor,4,1st Year,West,2023
+484,22,Male,Graduate,India,7.4,WhatsApp,Yes,4.9,5,In Relationship,4,8,News,3,Tablet,Yes,Excellent,2,3rd Year,West,2021
+485,19,Female,Undergraduate,Switzerland,2.3,Instagram,No,9.5,8,Single,2,4,Education,3,Tablet,Sometimes,Poor,1,3rd Year,North,2025
+486,21,Male,Graduate,Turkey,3.9,Instagram,Yes,8.3,6,Single,3,7,Education,2,Desktop,No,Good,1,2nd Year,West,2020
+487,20,Female,Undergraduate,USA,8.4,Whatsapp,Yes,3.9,5,In Relationship,4,9,Education,3,Laptop,Yes,Poor,1,1st Year,Central,2023
+488,22,Male,Graduate,Mexico,7.2,WhatsApp,Yes,5,6,Single,3,7,News,5,Laptop,No,Excellent,1,1st Year,East,2020
+489,19,Female,Undergraduate,France,2.9,Instagram,No,9.1,7,In Relationship,2,5,Socializing,4,Desktop,Yes,Excellent,4,2nd Year,North,2021
+490,21,Male,Graduate,Canada,3.7,Instagram,Yes,8.5,6,Single,3,7,Socializing,4,Desktop,Sometimes,Poor,1,3rd Year,East,2024
+491,20,Female,Undergraduate,Spain,3.5,Whatsapp,Yes,8.4,6,Single,3,7,Socializing,1,Mobile,Sometimes,Excellent,2,3rd Year,East,2024
+492,22,Male,Graduate,Denmark,2.3,Facebook,No,9.5,8,In Relationship,2,4,Socializing,5,Laptop,Sometimes,Good,4,2nd Year,West,2025
+493,19,Female,Undergraduate,Ireland,3.2,Instagram,Yes,8.7,7,Single,3,6,Socializing,1,Tablet,Sometimes,Excellent,5,2nd Year,South,2023
+494,21,Male,Graduate,India,7.5,WhatsApp,Yes,4.8,5,In Relationship,4,8,Socializing,1,Tablet,Yes,Average,4,1st Year,East,2020
+495,20,Female,Undergraduate,Switzerland,2.2,Instagram,No,9.6,8,Single,2,4,Education,2,Mobile,Yes,Good,1,3rd Year,North,2020
+496,22,Male,Graduate,Turkey,3.8,Whatsapp,Yes,8.4,6,Single,3,7,Socializing,4,Mobile,No,Excellent,5,1st Year,South,2024
+497,19,Female,Undergraduate,USA,8.5,Instagram,Yes,3.8,5,In Relationship,4,9,Socializing,2,Laptop,No,Excellent,1,4th Year,Central,2025
+498,21,Male,Graduate,Mexico,7.3,WhatsApp,Yes,4.9,6,Single,3,7,Education,5,Tablet,No,Excellent,1,1st Year,South,2023
+499,20,Female,Undergraduate,France,2.8,Instagram,No,9.2,7,In Relationship,2,5,News,5,Tablet,Yes,Good,2,3rd Year,North,2020
+500,22,Male,Graduate,Canada,3.6,Whatsapp,Yes,8.6,6,Single,3,7,Education,1,Mobile,Yes,Average,3,2nd Year,Central,2024
+501,19,Female,Undergraduate,Brazil,6.2,WhatsApp,Yes,6.3,6,Single,3,7,Socializing,4,Mobile,Yes,Average,5,2nd Year,Central,2025
+502,21,Male,Graduate,China,4.5,WeChat,No,7.8,7,In Relationship,2,5,News,1,Tablet,Sometimes,Poor,5,3rd Year,West,2022
+503,20,Female,Undergraduate,Netherlands,3.8,Instagram,No,8.2,8,Single,2,4,Other,1,Tablet,No,Good,5,2nd Year,Central,2022
+504,22,Male,Graduate,New Zealand,4.7,Instagram,Yes,7.5,7,In Relationship,3,6,Entertainment,4,Mobile,Yes,Average,1,1st Year,West,2022
+505,19,Female,Undergraduate,Singapore,5.1,Whatsapp,Yes,7,6,Single,3,7,Socializing,1,Desktop,No,Poor,1,3rd Year,North,2025
+506,21,Male,Graduate,Malaysia,5.5,WhatsApp,Yes,6.8,6,Single,3,7,Socializing,3,Tablet,No,Good,5,4th Year,East,2025
+507,20,Female,Undergraduate,UAE,6.5,Instagram,Yes,6.5,5,In Relationship,4,8,Education,5,Tablet,Yes,Poor,4,2nd Year,West,2022
+508,22,Male,Graduate,Poland,4.2,Facebook,No,7.9,7,Single,2,5,News,1,Mobile,Sometimes,Poor,1,2nd Year,East,2025
+509,19,Female,Undergraduate,India,6.8,WhatsApp,Yes,6,5,In Relationship,4,8,Education,2,Laptop,Sometimes,Average,5,4th Year,Central,2025
+510,21,Male,Graduate,Canada,4.8,Instagram,Yes,7.4,7,Single,3,6,Other,5,Mobile,Sometimes,Excellent,5,3rd Year,West,2020
+511,20,Female,Undergraduate,Brazil,6.1,Instagram,Yes,6.4,6,Single,3,7,Socializing,1,Tablet,No,Good,3,3rd Year,North,2025
+512,22,Male,Graduate,China,4.4,WeChat,No,7.9,7,In Relationship,2,5,Education,4,Mobile,No,Good,5,3rd Year,Central,2022
+513,19,Female,Undergraduate,Netherlands,3.7,Whatsapp,No,8.3,8,Single,2,4,Education,3,Tablet,No,Good,2,4th Year,West,2022
+514,21,Male,Graduate,New Zealand,4.6,Instagram,Yes,7.6,7,In Relationship,3,6,Entertainment,2,Laptop,Sometimes,Average,4,2nd Year,South,2024
+515,20,Female,Undergraduate,Singapore,5.2,Whatsapp,Yes,6.9,6,Single,3,7,Education,5,Mobile,No,Average,3,1st Year,South,2023
+516,22,Male,Graduate,Malaysia,5.6,WhatsApp,Yes,6.7,6,Single,3,7,Socializing,1,Tablet,Sometimes,Average,2,4th Year,West,2021
+517,19,Female,Undergraduate,UAE,6.6,Instagram,Yes,6.4,5,In Relationship,4,8,Education,2,Mobile,No,Excellent,5,1st Year,South,2020
+518,21,Male,Graduate,Poland,4.1,Facebook,No,8,7,Single,2,5,Entertainment,4,Tablet,Sometimes,Poor,3,1st Year,North,2023
+519,20,Female,Undergraduate,India,6.9,WhatsApp,Yes,5.9,5,In Relationship,4,8,Education,5,Mobile,Sometimes,Excellent,5,1st Year,South,2020
+520,22,Male,Graduate,Canada,4.7,Whatsapp,Yes,7.5,7,Single,3,6,Entertainment,3,Mobile,Yes,Poor,3,3rd Year,North,2023
+521,19,Female,Undergraduate,Brazil,6,WhatsApp,Yes,6.5,6,Single,3,7,News,4,Laptop,Sometimes,Poor,5,2nd Year,East,2025
+522,21,Male,Graduate,China,4.3,WeChat,No,8,7,In Relationship,2,5,Other,4,Desktop,Sometimes,Average,3,1st Year,North,2025
+523,20,Female,Undergraduate,Netherlands,3.6,Instagram,No,8.4,8,Single,2,4,Education,2,Tablet,Sometimes,Excellent,5,2nd Year,North,2021
+524,22,Male,Graduate,New Zealand,4.5,Facebook,Yes,7.7,7,In Relationship,3,6,Socializing,2,Desktop,Yes,Good,5,2nd Year,North,2025
+525,19,Female,Undergraduate,Singapore,5.3,Whatsapp,Yes,6.8,6,Single,3,7,Socializing,5,Desktop,Sometimes,Excellent,5,4th Year,West,2023
+526,21,Male,Graduate,Malaysia,5.7,WhatsApp,Yes,6.6,6,Single,3,7,Other,2,Mobile,Sometimes,Excellent,1,3rd Year,Central,2021
+527,20,Female,Undergraduate,UAE,6.7,Instagram,Yes,6.3,5,In Relationship,4,8,Education,4,Tablet,No,Excellent,1,2nd Year,East,2023
+528,22,Male,Graduate,Poland,4,Facebook,No,8.1,7,Single,2,5,Other,3,Tablet,No,Average,3,3rd Year,Central,2024
+529,19,Female,Undergraduate,India,7,WhatsApp,Yes,5.8,5,In Relationship,4,8,Other,2,Desktop,Sometimes,Poor,4,4th Year,North,2024
+530,21,Male,Graduate,Canada,4.6,Instagram,Yes,7.6,7,Single,3,6,Other,3,Laptop,No,Excellent,1,2nd Year,North,2023
+531,20,Female,Undergraduate,Brazil,5.9,Whatsapp,Yes,6.6,6,Single,3,7,News,5,Desktop,No,Average,3,1st Year,West,2023
+532,22,Male,Graduate,China,4.2,WeChat,No,8.1,7,In Relationship,2,5,News,4,Mobile,Yes,Excellent,4,3rd Year,South,2024
+533,19,Female,Undergraduate,Netherlands,3.5,Instagram,No,8.5,8,Single,2,4,Entertainment,3,Mobile,Yes,Excellent,5,3rd Year,Central,2024
+534,21,Male,Graduate,New Zealand,4.4,Facebook,Yes,7.8,7,In Relationship,3,6,News,4,Laptop,Sometimes,Good,3,4th Year,West,2024
+535,20,Female,Undergraduate,Singapore,5.4,Whatsapp,Yes,6.7,6,Single,3,7,Entertainment,3,Laptop,Sometimes,Good,3,3rd Year,West,2023
+536,22,Male,Graduate,Malaysia,5.8,WhatsApp,Yes,6.5,6,Single,3,7,Other,1,Desktop,Yes,Poor,4,3rd Year,Central,2021
+537,19,Female,Undergraduate,UAE,6.8,Instagram,Yes,6.2,5,In Relationship,4,8,Socializing,5,Mobile,Yes,Average,5,1st Year,West,2023
+538,21,Male,Graduate,Poland,3.9,Facebook,No,8.2,7,Single,2,5,News,3,Laptop,Sometimes,Good,4,4th Year,West,2025
+539,20,Female,Undergraduate,India,7.1,WhatsApp,Yes,5.7,5,In Relationship,4,8,Socializing,4,Desktop,Sometimes,Average,4,1st Year,South,2024
+540,22,Male,Graduate,Canada,4.5,Whatsapp,Yes,7.7,7,Single,3,6,Education,2,Desktop,No,Excellent,4,4th Year,East,2023
+541,19,Female,Undergraduate,Brazil,5.8,WhatsApp,Yes,6.7,6,Single,3,7,Other,1,Desktop,Sometimes,Excellent,4,1st Year,North,2025
+542,21,Male,Graduate,China,4.1,WeChat,No,8.2,7,In Relationship,2,5,Entertainment,1,Mobile,Sometimes,Good,1,3rd Year,North,2022
+543,20,Female,Undergraduate,Netherlands,3.4,Instagram,No,8.6,8,Single,2,4,Education,5,Tablet,Sometimes,Excellent,4,3rd Year,South,2024
+544,22,Male,Graduate,New Zealand,4.3,Instagram,Yes,7.9,7,In Relationship,3,6,News,4,Laptop,Sometimes,Good,5,1st Year,West,2025
+545,19,Female,Undergraduate,Singapore,5.5,Whatsapp,Yes,6.6,6,Single,3,7,Entertainment,2,Mobile,Sometimes,Average,3,2nd Year,East,2022
+546,21,Male,Graduate,Malaysia,5.9,WhatsApp,Yes,6.4,6,Single,3,7,Entertainment,5,Tablet,No,Average,2,1st Year,South,2025
+547,20,Female,Undergraduate,UAE,6.9,Instagram,Yes,6.1,5,In Relationship,4,8,Education,1,Desktop,Sometimes,Average,5,4th Year,East,2020
+548,22,Male,Graduate,Poland,3.8,Facebook,No,8.3,7,Single,2,5,Other,2,Tablet,No,Excellent,1,2nd Year,Central,2024
+549,19,Female,Undergraduate,India,7.2,WhatsApp,Yes,5.6,5,In Relationship,4,8,Other,4,Mobile,No,Average,4,1st Year,West,2023
+550,21,Male,Graduate,Canada,4.4,Instagram,Yes,7.8,7,Single,3,6,News,1,Desktop,No,Good,1,3rd Year,North,2023
+551,20,Female,Undergraduate,Brazil,5.7,Whatsapp,Yes,6.8,6,Single,3,7,Education,3,Desktop,Sometimes,Average,5,3rd Year,Central,2020
+552,22,Male,Graduate,China,4,WeChat,No,8.3,7,In Relationship,2,5,Education,4,Laptop,No,Poor,1,2nd Year,South,2021
+553,19,Female,Undergraduate,Netherlands,3.3,Instagram,No,8.7,8,Single,2,4,Socializing,2,Tablet,Yes,Poor,4,3rd Year,East,2022
+554,21,Male,Graduate,New Zealand,4.2,Facebook,Yes,8,7,In Relationship,3,6,Entertainment,4,Laptop,No,Average,1,2nd Year,Central,2023
+555,20,Female,Undergraduate,Singapore,5.6,Whatsapp,Yes,6.5,6,Single,3,7,Entertainment,1,Tablet,Sometimes,Poor,4,3rd Year,East,2025
+556,22,Male,Graduate,Malaysia,6,WhatsApp,Yes,6.3,6,Single,3,7,Other,3,Laptop,Yes,Average,1,4th Year,North,2024
+557,19,Female,Undergraduate,UAE,7,Instagram,Yes,6,5,In Relationship,4,8,Other,3,Desktop,Yes,Excellent,5,3rd Year,North,2024
+558,21,Male,Graduate,Poland,3.7,Facebook,No,8.4,7,Single,2,5,Other,3,Desktop,Sometimes,Average,1,4th Year,South,2021
+559,20,Female,Undergraduate,India,7.3,WhatsApp,Yes,5.5,5,In Relationship,4,8,Other,2,Tablet,Yes,Excellent,2,2nd Year,West,2023
+560,22,Male,Graduate,Canada,4.3,Whatsapp,Yes,7.9,7,Single,3,6,Education,4,Desktop,Yes,Excellent,3,1st Year,West,2025
+561,19,Female,Undergraduate,Brazil,5.6,WhatsApp,Yes,6.9,6,Single,3,7,Other,2,Mobile,No,Good,3,4th Year,West,2021
+562,21,Male,Graduate,China,3.9,WeChat,No,8.4,7,In Relationship,2,5,News,1,Tablet,Sometimes,Excellent,5,1st Year,North,2023
+563,20,Female,Undergraduate,Netherlands,3.2,Instagram,No,8.8,8,Single,2,4,News,3,Mobile,No,Excellent,2,2nd Year,Central,2025
+564,22,Male,Graduate,New Zealand,4.1,Instagram,Yes,8.1,7,In Relationship,3,6,Entertainment,2,Laptop,No,Poor,1,3rd Year,North,2021
+565,19,Female,Undergraduate,Singapore,5.7,Whatsapp,Yes,6.4,6,Single,3,7,News,5,Laptop,No,Excellent,5,4th Year,North,2021
+566,21,Male,Graduate,Malaysia,6.1,WhatsApp,Yes,6.2,6,Single,3,7,Entertainment,2,Desktop,Yes,Excellent,4,2nd Year,East,2023
+567,20,Female,Undergraduate,UAE,7.1,Instagram,Yes,5.9,5,In Relationship,4,8,Entertainment,5,Laptop,No,Good,1,4th Year,North,2025
+568,22,Male,Graduate,Poland,3.6,Facebook,No,8.5,7,Single,2,5,Other,4,Desktop,Sometimes,Excellent,5,4th Year,Central,2022
+569,19,Female,Undergraduate,India,7.4,WhatsApp,Yes,5.4,5,In Relationship,4,8,Other,3,Tablet,No,Excellent,1,4th Year,Central,2025
+570,21,Male,Graduate,Canada,4.2,Instagram,Yes,8,7,Single,3,6,Entertainment,1,Tablet,No,Excellent,4,3rd Year,West,2024
+571,20,Female,Undergraduate,Spain,6.1,Instagram,Yes,7.2,5,Single,4,7,Education,4,Desktop,No,Poor,1,2nd Year,South,2024
+572,23,Male,Graduate,Denmark,3.8,X,No,7.8,8,In Relationship,2,4,Entertainment,1,Laptop,Yes,Poor,1,1st Year,North,2020
+573,19,Female,Undergraduate,Ireland,5.5,Whatsapp,Yes,6.8,6,Single,4,8,News,4,Mobile,Yes,Good,4,4th Year,Central,2024
+574,22,Male,Graduate,India,7.2,Facebook,Yes,5.9,4,Single,5,9,News,3,Mobile,No,Excellent,5,2nd Year,West,2021
+575,21,Female,Undergraduate,Switzerland,4.2,Instagram,No,7.5,7,In Relationship,2,5,Education,2,Tablet,No,Excellent,1,3rd Year,Central,2025
+576,24,Male,Graduate,Turkey,6.8,Whatsapp,Yes,6.2,5,Single,4,8,Socializing,5,Laptop,Sometimes,Average,4,4th Year,West,2023
+577,20,Female,Undergraduate,USA,5.9,Instagram,Yes,6.7,6,In Relationship,3,7,News,5,Tablet,No,Good,3,2nd Year,Central,2025
+578,22,Male,Graduate,Mexico,6.5,Facebook,Yes,6.1,5,Single,4,8,Education,2,Tablet,Yes,Excellent,3,2nd Year,West,2020
+579,19,Female,Undergraduate,France,4.7,X,No,7.4,7,Single,2,5,Education,1,Tablet,Yes,Good,1,1st Year,West,2020
+580,23,Male,Graduate,Canada,5.2,Instagram,Yes,7,6,In Relationship,3,6,Socializing,4,Desktop,Sometimes,Average,2,3rd Year,South,2020
+581,21,Female,Undergraduate,UK,6.3,Whatsapp,Yes,6.4,5,Single,4,8,Entertainment,1,Laptop,Sometimes,Poor,5,4th Year,South,2020
+582,24,Male,Graduate,Italy,4.9,Facebook,No,7.3,7,In Relationship,2,5,Education,3,Laptop,No,Excellent,2,1st Year,North,2025
+583,20,Female,Undergraduate,Russia,6.7,Instagram,Yes,6,5,Single,4,8,News,2,Desktop,Sometimes,Excellent,2,2nd Year,Central,2024
+584,22,Male,Graduate,China,5.8,WeChat,Yes,6.5,6,In Relationship,3,7,News,2,Desktop,Yes,Good,2,1st Year,Central,2025
+585,19,Female,Undergraduate,Japan,4.5,X,No,7.6,8,Single,2,4,Education,3,Desktop,Sometimes,Average,2,4th Year,North,2024
+586,23,Male,Graduate,Poland,6.4,Facebook,Yes,6.3,5,Single,4,8,Other,5,Laptop,Sometimes,Excellent,2,2nd Year,East,2023
+587,21,Female,Undergraduate,Finland,4.1,Instagram,No,7.7,7,In Relationship,2,5,Other,3,Laptop,Yes,Good,2,3rd Year,North,2022
+588,24,Male,Graduate,Spain,6.6,Whatsapp,Yes,6.2,5,Single,4,8,News,1,Tablet,Yes,Poor,4,2nd Year,Central,2023
+589,20,Female,Undergraduate,Denmark,4.4,Instagram,No,7.4,7,In Relationship,2,5,Entertainment,1,Desktop,Yes,Poor,2,1st Year,South,2024
+590,22,Male,Graduate,Ireland,5.7,X,Yes,6.8,6,Single,3,7,Other,2,Mobile,No,Poor,3,1st Year,Central,2023
+591,19,Female,Undergraduate,India,7,Instagram,Yes,5.8,4,Single,5,9,Other,2,Mobile,Yes,Poor,1,2nd Year,East,2022
+592,23,Male,Graduate,Switzerland,4.3,Facebook,No,7.5,7,In Relationship,2,5,News,5,Desktop,No,Poor,2,4th Year,South,2024
+593,21,Female,Undergraduate,Turkey,6.9,Whatsapp,Yes,6.1,5,Single,4,8,Socializing,2,Laptop,Yes,Good,1,2nd Year,North,2022
+594,24,Male,Graduate,USA,5.6,Instagram,Yes,6.9,6,In Relationship,3,7,Education,4,Desktop,Yes,Average,5,4th Year,North,2025
+595,20,Female,Undergraduate,Mexico,6.2,Facebook,Yes,6.3,5,Single,4,8,Entertainment,5,Laptop,No,Excellent,3,4th Year,South,2020
+596,21,Male,Undergraduate,France,5.8,Instagram,Yes,6.7,6,Single,3,7,Other,2,Tablet,Yes,Average,1,3rd Year,North,2025
+597,23,Female,Graduate,Canada,4.9,Whatsapp,No,7.3,7,In Relationship,2,5,News,2,Mobile,No,Poor,4,2nd Year,East,2025
+598,20,Male,Undergraduate,UK,6.4,Facebook,Yes,6.2,5,Single,4,8,Socializing,2,Laptop,No,Good,4,1st Year,East,2023
+599,22,Female,Graduate,Italy,5.1,X,No,7.1,7,In Relationship,2,5,News,1,Mobile,Yes,Poor,3,4th Year,West,2021
+600,19,Male,Undergraduate,Russia,6.7,Instagram,Yes,6,4,Single,4,8,Entertainment,2,Mobile,Yes,Average,2,3rd Year,Central,2023
+601,24,Female,Graduate,China,5.5,WeChat,Yes,6.8,6,In Relationship,3,7,Education,5,Desktop,Sometimes,Average,2,1st Year,West,2022
+602,21,Male,Undergraduate,Japan,4.3,X,No,7.6,8,Single,2,4,Other,5,Desktop,Yes,Average,5,2nd Year,North,2025
+603,23,Female,Graduate,Poland,6.2,Instagram,Yes,6.4,5,Single,4,8,Other,1,Laptop,Sometimes,Excellent,1,4th Year,South,2025
+604,20,Male,Undergraduate,Finland,4.5,Facebook,No,7.4,7,In Relationship,2,5,Socializing,3,Tablet,Sometimes,Excellent,5,4th Year,East,2023
+605,22,Female,Graduate,Spain,6.3,Whatsapp,Yes,6.3,5,Single,4,8,Socializing,2,Mobile,Sometimes,Average,2,1st Year,North,2020
+606,19,Male,Undergraduate,Denmark,4.7,Instagram,No,7.2,7,In Relationship,2,5,Other,3,Laptop,Yes,Average,4,3rd Year,Central,2022
+607,24,Female,Graduate,Ireland,5.9,X,Yes,6.6,6,Single,3,7,Other,3,Desktop,Yes,Poor,3,3rd Year,North,2024
+608,21,Male,Undergraduate,India,7.1,Facebook,Yes,5.7,4,Single,5,9,Other,1,Laptop,Yes,Excellent,5,2nd Year,South,2025
+609,23,Female,Graduate,Switzerland,4.4,Instagram,No,7.4,7,In Relationship,2,5,Education,2,Laptop,No,Excellent,2,1st Year,East,2022
+610,20,Male,Undergraduate,Turkey,6.6,Whatsapp,Yes,6.2,5,Single,4,8,Entertainment,2,Desktop,Yes,Excellent,4,4th Year,South,2025
+611,22,Female,Graduate,USA,5.4,Instagram,Yes,6.9,6,In Relationship,3,7,Education,5,Desktop,Sometimes,Poor,2,3rd Year,West,2025
+612,19,Male,Undergraduate,Mexico,6.5,Facebook,Yes,6.1,5,Single,4,8,Education,2,Mobile,Yes,Poor,1,4th Year,South,2020
+613,24,Female,Graduate,France,4.8,X,No,7.3,7,In Relationship,2,5,Other,3,Tablet,Sometimes,Excellent,2,2nd Year,West,2025
+614,21,Male,Undergraduate,Canada,5.7,Instagram,Yes,6.7,6,Single,3,7,Other,2,Mobile,Yes,Good,3,4th Year,Central,2025
+615,23,Female,Graduate,UK,6.1,Whatsapp,Yes,6.4,5,Single,4,8,Socializing,1,Tablet,No,Good,3,4th Year,North,2024
+616,20,Male,Undergraduate,Italy,4.6,Facebook,No,7.2,7,In Relationship,2,5,Socializing,4,Laptop,Yes,Excellent,2,1st Year,North,2022
+617,22,Female,Graduate,Russia,6.8,Instagram,Yes,5.9,4,Single,5,9,News,3,Mobile,No,Poor,3,3rd Year,South,2021
+618,19,Male,Undergraduate,China,5.6,WeChat,Yes,6.8,6,In Relationship,3,7,Entertainment,4,Tablet,Sometimes,Good,2,4th Year,Central,2024
+619,24,Female,Graduate,Japan,4.2,X,No,7.5,8,Single,2,4,Other,4,Tablet,Sometimes,Excellent,4,2nd Year,East,2020
+620,21,Male,Undergraduate,Poland,6.3,Whatsapp,Yes,6.3,5,Single,4,8,Other,5,Desktop,No,Poor,5,2nd Year,South,2020
+621,23,Female,Graduate,Finland,4.4,Instagram,No,7.4,7,In Relationship,2,5,Other,4,Mobile,Yes,Poor,4,3rd Year,South,2023
+622,20,Male,Undergraduate,Spain,6.5,Facebook,Yes,6.2,5,Single,4,8,Education,5,Tablet,Yes,Average,2,3rd Year,Central,2025
+623,22,Female,Graduate,Denmark,4.6,X,No,7.3,7,In Relationship,2,5,Other,4,Laptop,Yes,Poor,1,1st Year,West,2024
+624,19,Male,Undergraduate,Ireland,5.8,Instagram,Yes,6.6,6,Single,3,7,News,4,Laptop,Sometimes,Poor,4,1st Year,West,2023
+625,24,Female,Graduate,India,7,Whatsapp,Yes,5.8,4,Single,5,9,Socializing,4,Desktop,No,Excellent,5,2nd Year,East,2022
+626,21,Male,Undergraduate,Switzerland,4.5,Facebook,No,7.3,7,In Relationship,2,5,Socializing,4,Laptop,Yes,Poor,5,4th Year,Central,2021
+627,23,Female,Graduate,Turkey,6.7,Instagram,Yes,6.1,5,Single,4,8,News,2,Tablet,No,Poor,3,3rd Year,East,2024
+628,20,Male,Undergraduate,USA,5.5,X,Yes,6.8,6,In Relationship,3,7,News,2,Desktop,No,Excellent,4,2nd Year,West,2020
+629,22,Female,Graduate,Mexico,6.4,Facebook,Yes,6.2,5,Single,4,8,Other,3,Laptop,Sometimes,Poor,4,1st Year,East,2020
+630,19,Male,Undergraduate,France,4.7,Instagram,No,7.2,7,In Relationship,2,5,Other,3,Desktop,No,Good,1,4th Year,North,2023
+631,24,Female,Graduate,Canada,5.6,Whatsapp,Yes,6.7,6,Single,3,7,Entertainment,1,Laptop,Sometimes,Excellent,3,2nd Year,Central,2024
+632,21,Male,Undergraduate,UK,6.2,Facebook,Yes,6.3,5,Single,4,8,Education,2,Mobile,No,Good,1,2nd Year,Central,2025
+633,23,Female,Graduate,Italy,4.8,X,No,7.1,7,In Relationship,2,5,Other,5,Laptop,Yes,Excellent,4,4th Year,North,2021
+634,20,Male,Undergraduate,Russia,6.9,Instagram,Yes,5.9,4,Single,5,9,News,3,Mobile,Sometimes,Good,4,4th Year,South,2024
+635,22,Female,Graduate,China,5.7,WeChat,Yes,6.7,6,In Relationship,3,7,Other,1,Tablet,Yes,Poor,4,4th Year,Central,2023
+636,19,Male,Undergraduate,Japan,4.4,X,No,7.4,8,Single,2,4,News,1,Laptop,Yes,Excellent,3,4th Year,East,2024
+637,24,Female,Graduate,Poland,6.1,Whatsapp,Yes,6.4,5,Single,4,8,Education,4,Desktop,No,Poor,2,1st Year,West,2022
+638,21,Male,Undergraduate,Finland,4.3,Instagram,No,7.5,7,In Relationship,2,5,Other,2,Laptop,No,Average,4,2nd Year,East,2025
+639,23,Female,Graduate,Spain,6.4,Facebook,Yes,6.2,5,Single,4,8,Socializing,1,Laptop,No,Excellent,5,1st Year,North,2024
+640,20,Male,Undergraduate,Denmark,4.5,X,No,7.3,7,In Relationship,2,5,Entertainment,1,Laptop,Yes,Excellent,4,2nd Year,Central,2024
+641,22,Female,Graduate,Ireland,5.9,Instagram,Yes,6.5,6,Single,3,7,Education,5,Desktop,Yes,Average,5,2nd Year,South,2022
+642,19,Male,Undergraduate,India,7.2,Whatsapp,Yes,5.7,4,Single,5,9,News,2,Mobile,No,Excellent,1,1st Year,North,2020
+643,24,Female,Graduate,Switzerland,4.6,Facebook,No,7.2,7,In Relationship,2,5,Socializing,5,Desktop,No,Average,3,1st Year,West,2024
+644,21,Male,Undergraduate,Turkey,6.8,Instagram,Yes,6,5,Single,4,8,Entertainment,4,Mobile,No,Good,1,3rd Year,Central,2024
+645,23,Female,Graduate,USA,5.3,X,Yes,6.8,6,In Relationship,3,7,Socializing,1,Laptop,No,Poor,5,4th Year,Central,2020
+646,22,Male,Graduate,Mexico,6.3,Facebook,Yes,6.2,5,Single,4,8,Other,2,Laptop,No,Excellent,4,4th Year,North,2022
+647,20,Female,Undergraduate,France,4.8,Instagram,No,7.1,7,In Relationship,2,5,Socializing,1,Desktop,Yes,Average,1,3rd Year,West,2021
+648,23,Male,Graduate,Canada,5.7,Whatsapp,Yes,6.6,6,Single,3,7,Socializing,4,Tablet,Sometimes,Average,5,3rd Year,East,2021
+649,21,Female,Undergraduate,UK,6.2,X,Yes,6.3,5,Single,4,8,Entertainment,1,Laptop,No,Good,3,4th Year,South,2021
+650,24,Male,Graduate,Italy,4.7,Facebook,No,7.2,7,In Relationship,2,5,Entertainment,5,Tablet,Yes,Good,2,2nd Year,Central,2020
+651,19,Female,Undergraduate,Russia,6.8,Instagram,Yes,5.9,4,Single,5,9,Education,5,Tablet,No,Average,3,1st Year,North,2024
+652,22,Male,Graduate,China,5.6,WeChat,Yes,6.7,6,In Relationship,3,7,Entertainment,4,Desktop,Yes,Excellent,3,3rd Year,South,2025
+653,20,Female,Undergraduate,Japan,4.3,X,No,7.5,8,Single,2,4,News,3,Tablet,No,Excellent,2,3rd Year,East,2025
+654,23,Male,Graduate,Poland,6.2,Whatsapp,Yes,6.3,5,Single,4,8,Socializing,5,Mobile,Yes,Excellent,3,4th Year,West,2021
+655,21,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,7,In Relationship,2,5,Other,5,Tablet,Sometimes,Excellent,2,2nd Year,South,2022
+656,24,Male,Graduate,Spain,6.5,Facebook,Yes,6.1,5,Single,4,8,Education,2,Tablet,No,Average,1,1st Year,Central,2024
+657,19,Female,Undergraduate,Denmark,4.6,X,No,7.3,7,In Relationship,2,5,Other,5,Desktop,Yes,Excellent,2,1st Year,West,2025
+658,22,Male,Graduate,Ireland,5.8,Instagram,Yes,6.6,6,Single,3,7,Entertainment,4,Laptop,Sometimes,Poor,4,1st Year,South,2022
+659,20,Female,Undergraduate,India,7.1,Whatsapp,Yes,5.8,4,Single,5,9,Socializing,3,Mobile,Yes,Good,3,3rd Year,East,2025
+660,23,Male,Graduate,Switzerland,4.5,Facebook,No,7.3,7,In Relationship,2,5,Socializing,2,Tablet,No,Excellent,2,4th Year,East,2022
+661,21,Female,Undergraduate,Turkey,6.7,Instagram,Yes,6,5,Single,4,8,Entertainment,5,Laptop,Yes,Good,1,2nd Year,South,2024
+662,24,Male,Graduate,USA,5.4,X,Yes,6.8,6,In Relationship,3,7,Socializing,5,Tablet,No,Excellent,1,3rd Year,West,2025
+663,19,Female,Undergraduate,Mexico,6.4,Whatsapp,Yes,6.2,5,Single,4,8,News,4,Mobile,No,Average,4,2nd Year,Central,2023
+664,22,Male,Graduate,France,4.7,Facebook,No,7.2,7,In Relationship,2,5,Education,1,Desktop,Sometimes,Excellent,5,3rd Year,Central,2024
+665,20,Female,Undergraduate,Canada,5.6,Instagram,Yes,6.7,6,Single,3,7,Other,2,Laptop,Yes,Excellent,5,2nd Year,East,2020
+666,23,Male,Graduate,UK,6.3,X,Yes,6.2,5,Single,4,8,Socializing,5,Mobile,Yes,Excellent,3,1st Year,Central,2025
+667,21,Female,Undergraduate,Italy,4.8,Whatsapp,No,7.1,7,In Relationship,2,5,Entertainment,5,Desktop,Yes,Average,1,1st Year,East,2021
+668,24,Male,Graduate,Russia,6.9,Instagram,Yes,5.9,4,Single,5,9,News,4,Tablet,No,Average,5,1st Year,East,2022
+669,19,Female,Undergraduate,China,5.7,WeChat,Yes,6.7,6,In Relationship,3,7,News,4,Desktop,No,Good,2,2nd Year,East,2021
+670,22,Male,Graduate,Japan,4.4,X,No,7.4,8,Single,2,4,Other,5,Laptop,Yes,Excellent,1,3rd Year,West,2022
+671,20,Female,Undergraduate,Poland,6.1,Facebook,Yes,6.4,5,Single,4,8,News,5,Desktop,Yes,Excellent,4,3rd Year,East,2022
+672,23,Male,Graduate,Finland,4.3,Instagram,No,7.5,7,In Relationship,2,5,Other,5,Mobile,Sometimes,Poor,5,1st Year,North,2025
+673,21,Female,Undergraduate,Spain,6.4,Whatsapp,Yes,6.2,5,Single,4,8,Entertainment,3,Laptop,Yes,Good,2,2nd Year,West,2020
+674,24,Male,Graduate,Denmark,4.5,X,No,7.3,7,In Relationship,2,5,Education,3,Tablet,Sometimes,Average,2,2nd Year,South,2022
+675,19,Female,Undergraduate,Ireland,5.9,Instagram,Yes,6.5,6,Single,3,7,Entertainment,3,Mobile,No,Average,2,1st Year,South,2020
+676,22,Male,Graduate,India,7.2,Facebook,Yes,5.7,4,Single,5,9,Entertainment,1,Tablet,Sometimes,Poor,4,2nd Year,South,2024
+677,20,Female,Undergraduate,Switzerland,4.6,Whatsapp,No,7.2,7,In Relationship,2,5,News,1,Mobile,Yes,Good,1,1st Year,East,2022
+678,23,Male,Graduate,Turkey,6.8,Instagram,Yes,6,5,Single,4,8,Socializing,2,Desktop,Yes,Poor,4,2nd Year,Central,2022
+679,21,Female,Undergraduate,USA,5.3,X,Yes,6.8,6,In Relationship,3,7,Education,5,Desktop,Sometimes,Average,4,2nd Year,South,2020
+680,24,Male,Graduate,Mexico,6.2,Facebook,Yes,6.3,5,Single,4,8,Entertainment,3,Laptop,No,Excellent,1,1st Year,South,2024
+681,19,Female,Undergraduate,France,4.7,Instagram,No,7.2,7,In Relationship,2,5,Other,5,Mobile,No,Average,5,2nd Year,West,2024
+682,22,Male,Graduate,Canada,5.8,Whatsapp,Yes,6.6,6,Single,3,7,News,5,Mobile,Sometimes,Excellent,4,3rd Year,Central,2025
+683,20,Female,Undergraduate,UK,6.1,X,Yes,6.4,5,Single,4,8,News,4,Desktop,Yes,Good,4,1st Year,East,2023
+684,23,Male,Graduate,Italy,4.8,Facebook,No,7.1,7,In Relationship,2,5,Entertainment,4,Mobile,Yes,Average,3,2nd Year,South,2020
+685,21,Female,Undergraduate,Russia,6.7,Instagram,Yes,6,4,Single,5,9,Socializing,3,Tablet,Yes,Excellent,4,4th Year,Central,2022
+686,24,Male,Graduate,China,5.5,WeChat,Yes,6.8,6,In Relationship,3,7,Entertainment,2,Tablet,Yes,Average,2,2nd Year,West,2024
+687,19,Female,Undergraduate,Japan,4.2,X,No,7.5,8,Single,2,4,Education,4,Desktop,No,Good,3,3rd Year,North,2022
+688,22,Male,Graduate,Poland,6.3,Whatsapp,Yes,6.2,5,Single,4,8,Socializing,1,Desktop,Sometimes,Average,3,4th Year,East,2024
+689,20,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,7,In Relationship,2,5,News,1,Tablet,No,Excellent,3,1st Year,North,2025
+690,23,Male,Graduate,Spain,6.5,Facebook,Yes,6.1,5,Single,4,8,Entertainment,3,Tablet,No,Average,3,2nd Year,South,2020
+691,21,Female,Undergraduate,Denmark,4.6,X,No,7.3,7,In Relationship,2,5,News,3,Mobile,No,Average,5,1st Year,Central,2023
+692,24,Male,Graduate,Ireland,5.9,Instagram,Yes,6.5,6,Single,3,7,Education,3,Tablet,Yes,Average,2,2nd Year,West,2025
+693,19,Female,Undergraduate,India,7,Whatsapp,Yes,5.8,4,Single,5,9,Education,2,Tablet,Sometimes,Good,1,3rd Year,Central,2022
+694,22,Male,Graduate,Switzerland,4.5,Facebook,No,7.3,7,In Relationship,2,5,Education,1,Mobile,Yes,Good,5,4th Year,West,2022
+695,20,Female,Undergraduate,Turkey,6.6,Instagram,Yes,6.1,5,Single,4,8,Entertainment,3,Desktop,No,Average,1,2nd Year,East,2024
+696,23,Male,Graduate,USA,5.5,X,Yes,6.7,6,In Relationship,3,7,News,2,Mobile,Sometimes,Good,2,3rd Year,East,2022
+697,21,Female,Undergraduate,Mexico,6.3,Whatsapp,Yes,6.2,5,Single,4,8,Entertainment,4,Desktop,Sometimes,Poor,3,4th Year,West,2020
+698,24,Male,Graduate,France,4.8,Facebook,No,7.1,7,In Relationship,2,5,Other,1,Tablet,Yes,Poor,4,1st Year,East,2023
+699,19,Female,Undergraduate,Canada,5.7,Instagram,Yes,6.6,6,Single,3,7,Education,2,Desktop,Sometimes,Poor,3,3rd Year,South,2023
+700,22,Male,Graduate,UK,6.2,X,Yes,6.3,5,Single,4,8,Other,3,Desktop,Sometimes,Good,3,3rd Year,South,2023
+701,20,Female,Undergraduate,Italy,4.7,Whatsapp,No,7.2,7,In Relationship,2,5,Entertainment,5,Desktop,No,Average,5,4th Year,Central,2023
+702,23,Male,Graduate,Russia,6.8,Instagram,Yes,5.9,4,Single,5,9,News,3,Laptop,Yes,Excellent,5,3rd Year,North,2022
+703,21,Female,Undergraduate,China,5.6,WeChat,Yes,6.7,6,In Relationship,3,7,Education,3,Desktop,Yes,Good,5,3rd Year,Central,2025
+704,24,Male,Graduate,Japan,4.3,X,No,7.5,8,Single,2,4,Other,2,Tablet,Sometimes,Poor,4,3rd Year,West,2020
+705,19,Female,Undergraduate,Poland,6.2,Facebook,Yes,6.3,5,Single,4,8,Other,3,Laptop,Yes,Excellent,5,1st Year,East,2024
+706,22,Male,Graduate,Nepal,3.7,Facebook,No,8.3,7,Single,2,5,Socializing,4,Mobile,No,Good,1,2nd Year,North,2025
+707,18,Female,High School,Armenia,5.9,Instagram,Yes,5.2,5,Complicated,4,9,Entertainment,4,Tablet,No,Good,4,1st Year,South,2025
+708,19,Female,Undergraduate,Sri Lanka,4.3,Facebook,No,8.7,7,Single,2,5,Education,4,Tablet,Yes,Poor,5,3rd Year,Central,2022
+709,20,Female,Undergraduate,Bangladesh,4.3,Instagram,Yes,7.6,5,Single,3,7,Entertainment,1,Laptop,Yes,Poor,3,3rd Year,East,2024
+710,19,Female,Undergraduate,USA,7,Whatsapp,Yes,5.8,4,In Relationship,4,9,Socializing,3,Tablet,Yes,Average,5,2nd Year,West,2025
+711,22,Male,Graduate,India,7.2,Facebook,Yes,5.7,4,Single,5,9,Entertainment,1,Tablet,Sometimes,Poor,4,2nd Year,South,2023
+712,20,Female,Undergraduate,South Korea,5.2,KakaoTalk,Yes,6.5,6,In Relationship,3,6,Socializing,4,Tablet,No,Good,2,2nd Year,North,2024
+713,20,Female,Undergraduate,India,7.1,Whatsapp,Yes,5.8,4,Single,5,9,Socializing,3,Mobile,Yes,Good,3,3rd Year,East,2022
+714,22,Male,Graduate,China,4.2,WeChat,No,8.1,7,In Relationship,2,5,News,4,Mobile,Yes,Excellent,4,3rd Year,South,2023
+715,19,Female,Undergraduate,Spain,4,Instagram,Yes,7.9,6,Single,3,7,News,4,Mobile,No,Good,3,3rd Year,Central,2023
+716,21,Male,Graduate,Denmark,3.2,Facebook,No,8.6,8,In Relationship,2,4,Other,5,Tablet,Sometimes,Excellent,3,2nd Year,North,2021
+717,19,Male,Undergraduate,Colombia,4.8,Instagram,Yes,5.9,6,In Relationship,3,7,Entertainment,1,Desktop,Yes,Average,1,1st Year,Central,2025
+718,19,Female,Undergraduate,Japan,3.5,LINE,No,8,8,Single,1,3,News,2,Laptop,Yes,Good,3,4th Year,Central,2021
+719,19,Female,Undergraduate,Japan,2.8,LINE,No,8.8,8,Single,1,3,Education,4,Desktop,Yes,Excellent,5,4th Year,East,2022
+720,21,Male,Graduate,Malaysia,5.7,WhatsApp,Yes,6.6,6,Single,3,7,Other,2,Mobile,Sometimes,Excellent,1,3rd Year,Central,2021
+721,19,Male,Undergraduate,Nepal,3.9,Whatsapp,No,8.1,7,Single,2,5,Entertainment,3,Desktop,Sometimes,Average,1,1st Year,North,2024
+722,20,Female,Undergraduate,Switzerland,3,Instagram,No,8.8,8,Single,2,4,Entertainment,4,Laptop,Sometimes,Good,5,3rd Year,East,2024
+723,19,Female,Undergraduate,Netherlands,3.7,Whatsapp,No,8.3,8,Single,2,4,Education,3,Tablet,No,Good,2,4th Year,West,2020
+724,19,Female,Undergraduate,Ireland,4.4,Instagram,Yes,7.5,7,Single,3,6,Education,4,Laptop,Yes,Excellent,3,2nd Year,Central,2024
+725,21,Male,Graduate,Malaysia,6.1,WhatsApp,Yes,6.2,6,Single,3,7,Entertainment,2,Desktop,Yes,Excellent,4,2nd Year,East,2025
+726,20,Female,Undergraduate,South Korea,5,KakaoTalk,Yes,6.7,6,In Relationship,3,6,Other,1,Laptop,Yes,Average,5,4th Year,East,2021
+727,24,Male,Graduate,Spain,6.5,Facebook,Yes,6.1,5,Single,4,8,Education,2,Tablet,No,Average,1,1st Year,Central,2024
+728,20,Female,Undergraduate,Spain,3.7,Whatsapp,Yes,8.2,6,Single,3,7,Socializing,5,Tablet,No,Poor,2,4th Year,West,2024
+729,20,Female,Undergraduate,Spain,5.5,Whatsapp,Yes,5.8,6,In Relationship,2,8,Education,3,Tablet,Yes,Poor,1,1st Year,North,2024
+730,21,Male,Graduate,Canada,5.3,Instagram,Yes,6.9,6,Single,3,7,Entertainment,5,Desktop,Sometimes,Average,1,2nd Year,Central,2022
+731,21,Male,Graduate,Mexico,5.9,WhatsApp,Yes,6.3,6,Single,3,7,News,2,Desktop,Sometimes,Poor,5,3rd Year,South,2024
+732,22,Male,Graduate,Mexico,6.4,WhatsApp,Yes,5.8,6,Single,3,7,News,3,Tablet,Sometimes,Average,5,3rd Year,South,2021
+733,24,Male,Graduate,Russia,6.9,Instagram,Yes,5.9,4,Single,5,9,News,4,Tablet,No,Average,5,1st Year,East,2024
+734,19,Female,Undergraduate,Ireland,4.4,Instagram,Yes,7.5,7,Single,3,6,Education,4,Laptop,Yes,Excellent,3,2nd Year,Central,2024
+735,20,Female,Undergraduate,Brazil,5.8,Snapchat,Yes,6,6,In Relationship,2,8,News,1,Desktop,Sometimes,Poor,4,4th Year,Central,2025
+736,21,Female,Graduate,Maldives,4.6,Instagram,No,7.4,8,In Relationship,2,5,Entertainment,5,Mobile,Yes,Average,3,2nd Year,East,2021
+737,22,Male,Graduate,Mexico,5.8,WhatsApp,Yes,6.4,6,Single,3,7,Other,3,Tablet,No,Excellent,2,1st Year,East,2021
+738,22,Male,Graduate,India,7.2,Facebook,Yes,5.7,4,Single,5,9,Entertainment,1,Tablet,Sometimes,Poor,4,2nd Year,South,2025
+739,18,Female,High School,Liechtenstein,5.8,Instagram,Yes,5.2,5,Single,4,9,Other,2,Mobile,Sometimes,Average,3,4th Year,North,2025
+740,23,Male,Graduate,Canada,5.7,Whatsapp,Yes,6.6,6,Single,3,7,Socializing,4,Tablet,Sometimes,Average,5,3rd Year,East,2020
+741,24,Male,Graduate,France,4.8,Facebook,No,7.1,7,In Relationship,2,5,Other,1,Tablet,Yes,Poor,4,1st Year,East,2023
+742,22,Male,Graduate,Russia,3.7,VKontakte,No,8.3,7,In Relationship,2,5,Education,5,Laptop,No,Good,3,1st Year,West,2025
+743,21,Male,Graduate,Maldives,5.2,Whatsapp,Yes,5.5,6,In Relationship,4,8,Other,1,Laptop,Yes,Good,4,2nd Year,West,2025
+744,22,Male,Graduate,Canada,4.5,Whatsapp,Yes,7.7,7,Single,3,6,Education,2,Desktop,No,Excellent,4,4th Year,East,2021
+745,24,Male,Graduate,South Africa,2.3,LinkedIn,No,7.3,8,In Relationship,1,4,Education,4,Laptop,Sometimes,Average,4,1st Year,East,2021
+746,24,Male,Graduate,Japan,4.3,X,No,7.5,8,Single,2,4,Other,2,Tablet,Sometimes,Poor,4,3rd Year,West,2022
+747,21,Male,Graduate,China,4.5,WeChat,No,7.8,7,In Relationship,2,5,News,1,Tablet,Sometimes,Poor,5,3rd Year,West,2020
+748,22,Male,Graduate,Sri Lanka,5.1,Facebook,Yes,5.1,6,Single,3,7,Socializing,5,Laptop,Yes,Excellent,4,1st Year,Central,2021
+749,19,Female,Undergraduate,Sri Lanka,4.5,Facebook,No,8.3,7,Single,2,5,News,1,Desktop,Sometimes,Poor,1,2nd Year,South,2023
+750,19,Female,Undergraduate,Spain,3.8,Instagram,Yes,8.1,6,Single,3,7,Education,3,Desktop,Yes,Good,4,4th Year,South,2024
+751,21,Male,Graduate,Poland,3.7,Facebook,No,8.4,7,Single,2,5,Other,3,Desktop,Sometimes,Average,1,4th Year,South,2020
+752,20,Female,Undergraduate,UAE,6.9,Instagram,Yes,6.1,5,In Relationship,4,8,Education,1,Desktop,Sometimes,Average,5,4th Year,East,2025
+753,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.8,4,Single,4,9,Other,4,Desktop,Sometimes,Good,5,1st Year,North,2025
+754,21,Male,Graduate,Canada,4.7,Instagram,Yes,7.5,6,Single,3,7,Education,3,Desktop,Sometimes,Poor,4,2nd Year,East,2025
+755,24,Male,Graduate,USA,5.6,Instagram,Yes,6.9,6,In Relationship,3,7,Education,4,Desktop,Yes,Average,5,4th Year,North,2022
+756,22,Male,Graduate,Germany,4,Facebook,No,7.6,8,In Relationship,2,4,Socializing,3,Desktop,No,Average,1,1st Year,South,2022
+757,21,Male,Graduate,Canada,4.1,Instagram,Yes,8.1,6,Single,3,7,News,1,Tablet,No,Good,1,4th Year,East,2022
+758,21,Female,Graduate,South Korea,3.3,Instagram,No,7,7,In Relationship,1,4,Education,2,Mobile,No,Good,4,2nd Year,East,2024
+759,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5,Single,3,7,News,4,Mobile,Sometimes,Excellent,5,2nd Year,East,2023
+760,20,Female,Undergraduate,South Korea,4.9,KakaoTalk,Yes,6.9,6,Single,3,6,Other,1,Laptop,No,Excellent,3,2nd Year,West,2021
+761,21,Male,Graduate,Canada,4.5,Facebook,Yes,6,6,In Relationship,2,7,Education,4,Desktop,Sometimes,Average,2,1st Year,West,2022
+762,22,Male,Graduate,Nepal,4.7,Whatsapp,No,7.3,7,Single,2,5,Education,2,Tablet,Sometimes,Poor,2,2nd Year,East,2025
+763,21,Male,Graduate,India,6.3,WhatsApp,Yes,6,5,In Relationship,4,8,News,1,Tablet,Sometimes,Poor,3,1st Year,South,2022
+764,23,Male,Graduate,Slovakia,2.3,LinkedIn,No,7.4,8,In Relationship,1,3,Education,4,Tablet,No,Good,2,3rd Year,North,2023
+765,21,Female,Graduate,Maldives,3.8,Instagram,No,8.2,8,In Relationship,2,5,Other,3,Laptop,No,Average,2,4th Year,South,2024
+766,22,Male,Graduate,Germany,4.2,Facebook,No,7.8,7,In Relationship,2,4,News,5,Desktop,No,Good,1,1st Year,East,2024
+767,20,Female,Undergraduate,Australia,4.6,Instagram,No,7.3,7,Single,2,5,Education,4,Mobile,No,Good,3,3rd Year,Central,2025
+768,19,Female,Undergraduate,Sri Lanka,4.9,Facebook,No,7.5,7,Single,2,5,Other,2,Desktop,Sometimes,Excellent,3,4th Year,Central,2025
+769,21,Male,Graduate,Italy,5.3,Whatsapp,Yes,6.8,5,In Relationship,3,8,Socializing,4,Tablet,Yes,Good,4,1st Year,West,2023
+770,20,Male,Undergraduate,Hungary,4.2,Whatsapp,Yes,6,6,Complicated,3,7,Socializing,5,Mobile,Sometimes,Poor,4,1st Year,West,2023
+771,19,Female,Undergraduate,Nepal,6.4,Whatsapp,Yes,4.2,6,Single,4,8,Socializing,4,Tablet,Yes,Poor,2,1st Year,North,2023
+772,20,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,7,In Relationship,2,5,News,1,Tablet,No,Excellent,3,1st Year,North,2025
+773,19,Female,Undergraduate,Spain,3.8,Instagram,Yes,8.1,6,Single,3,7,Education,3,Desktop,Yes,Good,4,4th Year,South,2024
+774,20,Male,Undergraduate,Turkey,6.6,Whatsapp,Yes,6.2,5,Single,4,8,Entertainment,2,Desktop,Yes,Excellent,4,4th Year,South,2024
+775,22,Male,Graduate,Afghanistan,2.9,LinkedIn,No,7,7,Complicated,2,5,Socializing,5,Laptop,Yes,Excellent,3,4th Year,East,2021
+776,20,Male,Undergraduate,Oman,4.6,Instagram,Yes,5.9,6,Single,3,7,News,2,Desktop,Sometimes,Excellent,4,1st Year,East,2025
+777,20,Female,Undergraduate,Brazil,6.1,Instagram,Yes,6.4,6,Single,3,7,Socializing,1,Tablet,No,Good,3,3rd Year,North,2021
+778,19,Female,Undergraduate,Switzerland,3.3,Instagram,No,8.5,8,Single,2,4,Education,5,Mobile,Sometimes,Poor,2,1st Year,North,2025
+779,19,Female,Undergraduate,Switzerland,3.1,Instagram,No,8.7,8,Single,2,4,Socializing,5,Desktop,Sometimes,Good,4,1st Year,South,2020
+780,21,Male,Graduate,Poland,4.1,Facebook,No,8,7,Single,2,5,Entertainment,4,Tablet,Sometimes,Poor,3,1st Year,North,2025
+781,22,Male,Graduate,Turkey,4,Whatsapp,Yes,8.2,6,Single,3,7,News,1,Mobile,No,Poor,1,1st Year,North,2022
+782,23,Female,Graduate,USA,5.3,X,Yes,6.8,6,In Relationship,3,7,Socializing,1,Laptop,No,Poor,5,4th Year,Central,2021
+783,19,Female,Undergraduate,USA,7.9,Instagram,Yes,4.4,5,In Relationship,4,9,Other,1,Laptop,Sometimes,Average,2,2nd Year,West,2022
+784,19,Male,Undergraduate,Austria,4.9,Instagram,Yes,5.8,6,Complicated,3,7,Education,1,Desktop,Yes,Average,2,3rd Year,North,2025
+785,19,Female,Undergraduate,Singapore,5.7,Whatsapp,Yes,6.4,6,Single,3,7,News,5,Laptop,No,Excellent,5,4th Year,North,2024
+786,20,Female,Undergraduate,Switzerland,4.6,Whatsapp,No,7.2,7,In Relationship,2,5,News,1,Mobile,Yes,Good,1,1st Year,East,2022
+787,21,Male,Graduate,Mexico,6.9,WhatsApp,Yes,5.3,6,Single,3,7,Socializing,3,Mobile,Yes,Average,1,4th Year,South,2023
+788,20,Male,Undergraduate,Cyprus,3.8,Facebook,No,6.6,7,Complicated,2,6,Other,1,Laptop,Sometimes,Good,5,4th Year,South,2024
+789,22,Male,Graduate,Sri Lanka,5.1,Facebook,Yes,5.1,6,Single,3,7,Socializing,5,Laptop,Yes,Excellent,4,1st Year,Central,2025
+790,18,Male,High School,Luxembourg,5.6,Snapchat,Yes,5.3,5,Single,4,8,News,2,Tablet,Yes,Average,1,2nd Year,South,2020
+791,22,Female,Graduate,Kyrgyzstan,2.9,Facebook,No,7,7,In Relationship,2,5,Other,5,Desktop,Yes,Poor,5,3rd Year,Central,2021
+792,19,Female,Undergraduate,USA,8.1,Instagram,Yes,4.2,5,In Relationship,4,9,Education,1,Laptop,No,Good,5,3rd Year,South,2024
+793,19,Female,Undergraduate,Bangladesh,5.2,Instagram,Yes,6.5,6,In Relationship,3,8,Socializing,5,Mobile,Sometimes,Average,4,4th Year,East,2023
+794,21,Male,Undergraduate,Uruguay,3.8,YouTube,No,6.4,7,Single,2,6,Other,4,Desktop,Yes,Excellent,1,1st Year,South,2024
+795,21,Female,Undergraduate,Russia,6.7,Instagram,Yes,6,4,Single,5,9,Socializing,3,Tablet,Yes,Excellent,4,4th Year,Central,2023
+796,21,Male,Graduate,Turkey,4.3,Instagram,Yes,7.9,6,Single,3,7,News,2,Laptop,Sometimes,Average,4,2nd Year,Central,2021
+797,19,Female,Undergraduate,France,3.3,Instagram,No,8.7,7,In Relationship,2,5,Other,2,Mobile,Yes,Average,5,1st Year,West,2025
+798,22,Male,Graduate,Mexico,7.2,WhatsApp,Yes,5,6,Single,3,7,News,5,Laptop,No,Excellent,1,1st Year,East,2022
+799,23,Female,Graduate,Taiwan,2.6,LinkedIn,No,7.2,8,Single,1,4,Education,1,Laptop,Sometimes,Poor,3,2nd Year,North,2025
+800,22,Male,Graduate,Mexico,5.8,WhatsApp,Yes,6.4,6,Single,3,7,Other,3,Tablet,No,Excellent,2,1st Year,East,2025
+801,23,Male,Graduate,Bosnia,2.4,LinkedIn,No,7.4,8,Complicated,1,4,Education,4,Tablet,Yes,Poor,3,2nd Year,East,2024
+802,21,Female,Graduate,Lithuania,3.2,Facebook,No,6.8,7,In Relationship,2,5,Education,1,Desktop,Sometimes,Poor,3,3rd Year,East,2022
+803,20,Female,Undergraduate,Brazil,5.7,Whatsapp,Yes,6.8,6,Single,3,7,Education,3,Desktop,Sometimes,Average,5,3rd Year,Central,2023
+804,21,Female,Graduate,India,4.8,Instagram,Yes,4.8,6,In Relationship,3,7,Entertainment,5,Mobile,No,Excellent,5,2nd Year,North,2024
+805,21,Male,Graduate,Italy,5.6,Whatsapp,Yes,6.6,5,In Relationship,3,8,Other,5,Tablet,Yes,Poor,2,2nd Year,East,2023
+806,24,Male,Graduate,Denmark,4.5,X,No,7.3,7,In Relationship,2,5,Education,3,Tablet,Sometimes,Average,2,2nd Year,South,2021
+807,21,Male,Graduate,Mexico,6.7,WhatsApp,Yes,5.5,6,Single,3,7,Socializing,3,Tablet,No,Poor,2,3rd Year,West,2021
+808,20,Female,Undergraduate,India,5.7,Instagram,Yes,6.1,6,Single,3,7,Entertainment,5,Laptop,Sometimes,Poor,3,1st Year,West,2021
+809,21,Male,Graduate,Italy,5,Instagram,Yes,7.1,5,Single,3,7,Socializing,1,Mobile,Sometimes,Excellent,5,4th Year,South,2024
+810,22,Male,Graduate,Russia,4.3,VKontakte,No,7.7,7,In Relationship,2,5,Education,5,Desktop,Sometimes,Excellent,2,2nd Year,East,2020
+811,19,Female,High School,Costa Rica,5.7,Instagram,Yes,5.5,5,Single,4,8,Other,1,Desktop,Sometimes,Excellent,3,3rd Year,East,2021
+812,22,Male,Graduate,Russia,4.5,VKontakte,No,7.4,7,In Relationship,2,5,Socializing,5,Tablet,Yes,Excellent,5,2nd Year,North,2024
+813,19,Female,Undergraduate,France,3.9,Instagram,No,8.1,7,In Relationship,2,5,Entertainment,1,Desktop,Yes,Poor,4,3rd Year,East,2023
+814,19,Female,Undergraduate,Spain,4.4,Instagram,Yes,7.5,6,Single,3,7,Socializing,4,Tablet,No,Poor,2,4th Year,North,2021
+815,19,Male,Undergraduate,Ireland,5.8,Instagram,Yes,6.6,6,Single,3,7,News,4,Laptop,Sometimes,Poor,4,1st Year,West,2022
+816,20,Female,Undergraduate,Australia,4.1,Instagram,No,7.7,7,Single,2,5,Entertainment,5,Laptop,No,Poor,5,1st Year,West,2024
+817,20,Female,Undergraduate,Sri Lanka,4.4,Facebook,No,8.5,7,Single,2,5,Entertainment,5,Desktop,Sometimes,Average,2,3rd Year,West,2021
+818,19,Female,Undergraduate,USA,7,Whatsapp,Yes,5.8,4,In Relationship,4,9,Socializing,3,Tablet,Yes,Average,5,2nd Year,West,2021
+819,22,Male,Graduate,Mexico,6.5,Facebook,Yes,6.1,5,Single,4,8,Education,2,Tablet,Yes,Excellent,3,2nd Year,West,2025
+820,23,Male,Graduate,Belarus,2.5,LinkedIn,No,7.3,8,In Relationship,1,4,Entertainment,4,Laptop,Yes,Excellent,5,1st Year,West,2022
+821,20,Female,Undergraduate,Switzerland,2.8,Instagram,No,9,8,Single,2,4,Education,5,Laptop,No,Average,2,2nd Year,West,2023
+822,20,Male,Undergraduate,Yemen,4.7,Facebook,Yes,5.8,6,In Relationship,3,7,Entertainment,2,Tablet,Sometimes,Poor,2,4th Year,Central,2021
+823,21,Male,Graduate,Denmark,3,Facebook,No,8.8,8,In Relationship,2,4,News,1,Laptop,No,Excellent,2,1st Year,North,2021
+824,24,Male,Graduate,Japan,4.3,X,No,7.5,8,Single,2,4,Other,2,Tablet,Sometimes,Poor,4,3rd Year,West,2022
+825,21,Male,Graduate,Italy,5,Instagram,Yes,7.1,5,Single,3,7,Socializing,1,Mobile,Sometimes,Excellent,5,4th Year,South,2021
+826,22,Female,Graduate,Bahrain,2.8,LinkedIn,No,7.1,8,Complicated,1,4,Education,4,Laptop,Sometimes,Excellent,5,1st Year,North,2024
+827,20,Female,Undergraduate,Switzerland,3.8,Instagram,No,8,8,Single,2,4,Entertainment,3,Tablet,Yes,Poor,1,1st Year,West,2024
+828,20,Female,Undergraduate,Switzerland,2.8,Instagram,No,9,8,Single,2,4,Education,5,Laptop,No,Average,2,2nd Year,West,2025
+829,20,Female,Undergraduate,USA,8,Whatsapp,Yes,4.3,5,In Relationship,4,9,Socializing,2,Tablet,Sometimes,Good,1,3rd Year,East,2023
+830,22,Male,Graduate,Russia,3.8,VKontakte,No,8.2,7,Single,2,5,Other,5,Desktop,Yes,Average,3,1st Year,West,2020
+831,19,Female,Undergraduate,Japan,3.6,LINE,No,8.1,8,Single,1,3,Education,2,Tablet,Sometimes,Good,2,3rd Year,Central,2022
+832,21,Male,Graduate,Maldives,5.4,Whatsapp,Yes,6,6,In Relationship,4,8,Education,4,Laptop,Sometimes,Excellent,2,1st Year,Central,2022
+833,19,Female,Undergraduate,Spain,3.6,Instagram,Yes,8.3,6,Single,3,7,Entertainment,2,Mobile,Sometimes,Average,2,1st Year,East,2024
+834,20,Female,Undergraduate,Switzerland,3.8,Instagram,No,8,8,Single,2,4,Entertainment,3,Tablet,Yes,Poor,1,1st Year,West,2023
+835,21,Male,Graduate,China,4.1,WeChat,No,8.2,7,In Relationship,2,5,Entertainment,1,Mobile,Sometimes,Good,1,3rd Year,North,2020
+836,19,Female,Undergraduate,Pakistan,4.8,Whatsapp,Yes,5.7,6,In Relationship,3,7,Education,2,Desktop,No,Excellent,1,1st Year,West,2020
+837,20,Female,Undergraduate,Netherlands,3.2,Instagram,No,8.8,8,Single,2,4,News,3,Mobile,No,Excellent,2,2nd Year,Central,2020
+838,21,Male,Graduate,Georgia,3,LinkedIn,No,7.1,8,In Relationship,1,4,Education,2,Laptop,No,Poor,5,3rd Year,South,2023
+839,22,Male,Graduate,Sri Lanka,5.5,Facebook,Yes,5.5,6,Single,3,7,Entertainment,1,Mobile,No,Good,2,4th Year,South,2020
+840,21,Female,Graduate,Pakistan,4.8,Instagram,Yes,6.8,5,In Relationship,4,8,Entertainment,4,Mobile,Yes,Poor,1,3rd Year,South,2025
+841,22,Male,Graduate,Maldives,5.1,Whatsapp,Yes,5.3,6,In Relationship,4,8,News,3,Desktop,Yes,Good,4,2nd Year,East,2022
+842,19,Female,Undergraduate,Spain,4.4,Instagram,Yes,7.5,6,Single,3,7,Socializing,4,Tablet,No,Poor,2,4th Year,North,2020
+843,21,Male,Graduate,Canada,5.3,Instagram,Yes,6.9,6,Single,3,7,Entertainment,5,Desktop,Sometimes,Average,1,2nd Year,Central,2024
+844,22,Male,Graduate,Poland,4.2,Facebook,No,7.9,7,Single,2,5,News,1,Mobile,Sometimes,Poor,1,2nd Year,East,2024
+845,22,Male,Graduate,Bulgaria,2.8,LinkedIn,No,7.2,8,Single,1,4,News,1,Desktop,No,Average,5,1st Year,North,2025
+846,21,Male,Graduate,Malaysia,5.9,WhatsApp,Yes,6.4,6,Single,3,7,Entertainment,5,Tablet,No,Average,2,1st Year,South,2025
+847,24,Male,Graduate,Bolivia,2.4,LinkedIn,No,7.2,8,Complicated,1,4,Socializing,4,Mobile,No,Excellent,3,2nd Year,East,2020
+848,21,Male,Graduate,Canada,4.1,Instagram,Yes,8.1,6,Single,3,7,News,1,Tablet,No,Good,1,4th Year,East,2025
+849,19,Female,Undergraduate,Nepal,6.2,Whatsapp,Yes,4.6,6,Single,4,8,Other,3,Mobile,No,Average,2,2nd Year,East,2025
+850,21,Female,Graduate,Pakistan,5.2,Instagram,Yes,6.4,5,In Relationship,4,8,Entertainment,1,Desktop,No,Poor,2,4th Year,East,2021
+851,21,Male,Undergraduate,Kenya,3.7,Facebook,No,6.6,7,Single,2,5,Socializing,3,Mobile,Sometimes,Average,4,4th Year,Central,2025
+852,20,Male,Undergraduate,Bangladesh,6.1,Instagram,Yes,6.2,5,Single,4,8,News,3,Mobile,Yes,Good,3,3rd Year,Central,2022
+853,19,Female,Undergraduate,Mexico,6.4,Whatsapp,Yes,6.2,5,Single,4,8,News,4,Mobile,No,Average,4,2nd Year,Central,2022
+854,20,Female,Undergraduate,Sri Lanka,4.8,Facebook,No,7.7,7,Single,2,5,Other,1,Tablet,Yes,Good,1,1st Year,Central,2021
+855,23,Male,Graduate,Bosnia,2.4,LinkedIn,No,7.4,8,Complicated,1,4,Education,4,Tablet,Yes,Poor,3,2nd Year,East,2021
+856,21,Male,Graduate,India,6.3,WhatsApp,Yes,6,5,In Relationship,4,8,News,1,Tablet,Sometimes,Poor,3,1st Year,South,2023
+857,22,Male,Graduate,Canada,4.7,Whatsapp,Yes,7.5,7,Single,3,6,Entertainment,3,Mobile,Yes,Poor,3,3rd Year,North,2023
+858,22,Male,Graduate,Canada,5,Whatsapp,Yes,7.2,6,Single,3,7,Socializing,1,Tablet,Yes,Poor,5,4th Year,Central,2022
+859,23,Male,Graduate,USA,5.5,X,Yes,6.7,6,In Relationship,3,7,News,2,Mobile,Sometimes,Good,2,3rd Year,East,2020
+860,19,Female,Undergraduate,Japan,3.1,LINE,No,8.5,8,Single,1,3,Other,4,Mobile,Yes,Average,4,2nd Year,Central,2023
+861,20,Female,Undergraduate,Sri Lanka,4.6,Facebook,No,8.1,7,Single,2,5,Education,4,Mobile,Yes,Average,5,4th Year,South,2024
+862,20,Female,Undergraduate,Sri Lanka,4.6,Facebook,No,8.1,7,Single,2,5,Education,4,Mobile,Yes,Average,5,4th Year,South,2025
+863,21,Female,Undergraduate,Italy,4.8,Whatsapp,No,7.1,7,In Relationship,2,5,Entertainment,5,Desktop,Yes,Average,1,1st Year,East,2021
+864,21,Male,Undergraduate,North Macedonia,3.7,Snapchat,No,6.5,7,Single,2,6,Education,5,Laptop,No,Poor,5,4th Year,North,2022
+865,23,Male,Graduate,Finland,4.3,Instagram,No,7.5,7,In Relationship,2,5,Other,5,Mobile,Sometimes,Poor,5,1st Year,North,2021
+866,22,Male,Graduate,Poland,3.1,Facebook,No,7.1,7,Single,1,5,Entertainment,2,Laptop,Sometimes,Good,3,1st Year,West,2021
+867,20,Male,Undergraduate,Russia,6.9,Instagram,Yes,5.9,4,Single,5,9,News,3,Mobile,Sometimes,Good,4,4th Year,South,2022
+868,21,Male,Undergraduate,Uruguay,3.8,YouTube,No,6.4,7,Single,2,6,Other,4,Desktop,Yes,Excellent,1,1st Year,South,2022
+869,20,Female,Undergraduate,Ireland,4.1,Whatsapp,Yes,7.8,7,Single,3,6,Socializing,2,Desktop,No,Poor,2,3rd Year,Central,2023
+870,21,Male,Graduate,Canada,4.5,Facebook,Yes,6,6,In Relationship,2,7,Education,4,Desktop,Sometimes,Average,2,1st Year,West,2022
+871,21,Male,Graduate,Turkey,4.1,Instagram,Yes,8.1,6,Single,3,7,Entertainment,2,Mobile,Sometimes,Excellent,1,2nd Year,West,2023
+872,20,Male,Undergraduate,Finland,4.5,Facebook,No,7.4,7,In Relationship,2,5,Socializing,3,Tablet,Sometimes,Excellent,5,4th Year,East,2024
+873,22,Male,Graduate,Canada,5.8,Whatsapp,Yes,6.6,6,Single,3,7,News,5,Mobile,Sometimes,Excellent,4,3rd Year,Central,2025
+874,21,Male,Graduate,New Zealand,4.4,Facebook,Yes,7.8,7,In Relationship,3,6,News,4,Laptop,Sometimes,Good,3,4th Year,West,2025
+875,19,Female,Undergraduate,Switzerland,3.1,Instagram,No,8.7,8,Single,2,4,Socializing,5,Desktop,Sometimes,Good,4,1st Year,South,2021
+876,19,Female,Undergraduate,Netherlands,3.7,Whatsapp,No,8.3,8,Single,2,4,Education,3,Tablet,No,Good,2,4th Year,West,2024
+877,23,Female,Graduate,USA,5.3,X,Yes,6.8,6,In Relationship,3,7,Socializing,1,Laptop,No,Poor,5,4th Year,Central,2020
+878,19,Female,Undergraduate,Japan,3.5,LINE,No,8,8,Single,1,3,News,2,Laptop,Yes,Good,3,4th Year,Central,2024
+879,22,Male,Graduate,New Zealand,4.5,Facebook,Yes,7.7,7,In Relationship,3,6,Socializing,2,Desktop,Yes,Good,5,2nd Year,North,2022
+880,21,Male,Graduate,Turkey,5.3,Instagram,Yes,6.9,6,Single,3,7,Entertainment,2,Tablet,No,Poor,3,4th Year,North,2024
+881,23,Female,Graduate,Chile,2.7,LinkedIn,No,7.1,8,Complicated,1,4,Entertainment,5,Desktop,Sometimes,Average,5,3rd Year,West,2022
+882,21,Male,Graduate,Malaysia,5.9,WhatsApp,Yes,6.4,6,Single,3,7,Entertainment,5,Tablet,No,Average,2,1st Year,South,2024
+883,22,Female,Graduate,Kyrgyzstan,2.9,Facebook,No,7,7,In Relationship,2,5,Other,5,Desktop,Yes,Poor,5,3rd Year,Central,2024
+884,19,Male,Undergraduate,Ukraine,4.9,Whatsapp,Yes,5.7,6,Complicated,3,7,Education,5,Laptop,No,Poor,2,4th Year,North,2020
+885,19,Female,Undergraduate,Japan,3.6,LINE,No,8.1,8,Single,1,3,Education,2,Tablet,Sometimes,Good,2,3rd Year,Central,2025
+886,19,Male,Undergraduate,Colombia,4.8,Instagram,Yes,5.9,6,In Relationship,3,7,Entertainment,1,Desktop,Yes,Average,1,1st Year,Central,2023
+887,20,Male,Undergraduate,Sri Lanka,5.9,Facebook,Yes,5.9,6,Single,3,7,Socializing,1,Mobile,Sometimes,Excellent,1,1st Year,South,2021
+888,21,Male,Graduate,Maldives,4.6,Whatsapp,Yes,4.3,6,In Relationship,4,8,News,3,Laptop,Yes,Excellent,3,3rd Year,South,2021
+889,20,Female,Undergraduate,Australia,4.6,Instagram,No,7.3,7,Single,2,5,Education,4,Mobile,No,Good,3,3rd Year,Central,2021
+890,20,Female,Undergraduate,Jamaica,4.9,Snapchat,Yes,5.6,6,Complicated,3,7,Education,4,Laptop,No,Good,4,1st Year,North,2025
+891,21,Male,Graduate,Canada,5.1,Instagram,Yes,7.1,6,Single,3,7,Socializing,4,Mobile,No,Poor,4,1st Year,East,2020
+892,21,Male,Undergraduate,Nepal,3.8,YouTube,No,6.6,7,Single,2,6,Entertainment,4,Laptop,Yes,Average,2,3rd Year,Central,2020
+893,20,Female,Undergraduate,Peru,5.5,Whatsapp,Yes,5.6,5,Single,4,8,Other,1,Tablet,Sometimes,Average,5,2nd Year,West,2020
+894,19,Female,Undergraduate,Ireland,5.5,Whatsapp,Yes,6.8,6,Single,4,8,News,4,Mobile,Yes,Good,4,4th Year,Central,2021
+895,19,Female,Undergraduate,USA,6.9,Instagram,Yes,5.4,5,In Relationship,4,9,Socializing,3,Mobile,Sometimes,Average,1,2nd Year,East,2022
+896,19,Female,High School,Ireland,6.1,Instagram,Yes,5.2,5,Complicated,4,9,Entertainment,2,Mobile,Sometimes,Poor,3,3rd Year,South,2025
+897,19,Female,Undergraduate,Japan,3.4,LINE,No,8.2,8,Single,1,3,News,5,Tablet,Sometimes,Good,1,3rd Year,North,2021
+898,20,Female,Undergraduate,Brazil,5.8,Snapchat,Yes,6,6,In Relationship,2,8,News,1,Desktop,Sometimes,Poor,4,4th Year,Central,2020
+899,24,Female,Graduate,India,7,Whatsapp,Yes,5.8,4,Single,5,9,Socializing,4,Desktop,No,Excellent,5,2nd Year,East,2022
+900,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.8,4,Single,4,9,Other,4,Desktop,Sometimes,Good,5,1st Year,North,2023
+901,24,Male,Graduate,Ireland,5.9,Instagram,Yes,6.5,6,Single,3,7,Education,3,Tablet,Yes,Average,2,2nd Year,West,2025
+902,20,Female,Undergraduate,Australia,4.1,Instagram,No,7.7,7,Single,2,5,Entertainment,5,Laptop,No,Poor,5,1st Year,West,2021
+903,23,Female,Graduate,Spain,6.4,Facebook,Yes,6.2,5,Single,4,8,Socializing,1,Laptop,No,Excellent,5,1st Year,North,2025
+904,20,Female,Undergraduate,Jamaica,4.9,Snapchat,Yes,5.6,6,Complicated,3,7,Education,4,Laptop,No,Good,4,1st Year,North,2025
+905,21,Male,Graduate,Malaysia,5.7,WhatsApp,Yes,6.6,6,Single,3,7,Other,2,Mobile,Sometimes,Excellent,1,3rd Year,Central,2025
+906,21,Male,Graduate,India,7.3,WhatsApp,Yes,5,5,In Relationship,4,8,Entertainment,3,Laptop,Sometimes,Average,2,3rd Year,East,2025
+907,20,Female,Undergraduate,Singapore,4.4,Whatsapp,Yes,5.9,6,In Relationship,3,7,Other,4,Mobile,No,Average,5,2nd Year,East,2025
+908,22,Female,Graduate,Kyrgyzstan,2.9,Facebook,No,7,7,In Relationship,2,5,Other,5,Desktop,Yes,Poor,5,3rd Year,Central,2021
+909,22,Male,Graduate,India,4.4,Facebook,No,8.8,7,In Relationship,2,6,Education,1,Tablet,No,Poor,4,2nd Year,Central,2024
+910,21,Male,Graduate,Turkey,4.9,Instagram,Yes,7.3,6,Single,3,7,Entertainment,2,Desktop,Sometimes,Poor,4,4th Year,East,2021
+911,19,Female,Undergraduate,Switzerland,3.5,Instagram,No,8.3,8,Single,2,4,Entertainment,4,Laptop,Sometimes,Average,3,3rd Year,North,2023
+912,23,Male,Graduate,UK,6.3,X,Yes,6.2,5,Single,4,8,Socializing,5,Mobile,Yes,Excellent,3,1st Year,Central,2024
+913,21,Male,Graduate,Malaysia,5.7,WhatsApp,Yes,6.6,6,Single,3,7,Other,2,Mobile,Sometimes,Excellent,1,3rd Year,Central,2020
+914,19,Female,Undergraduate,Canada,5.7,Instagram,Yes,6.6,6,Single,3,7,Education,2,Desktop,Sometimes,Poor,3,3rd Year,South,2022
+915,22,Male,Graduate,Germany,3.2,Instagram,No,8.3,8,Single,1,4,Other,1,Desktop,No,Poor,1,1st Year,Central,2024
+916,23,Male,Graduate,Germany,1.5,LinkedIn,No,8,9,Single,0,2,News,1,Desktop,Sometimes,Poor,1,3rd Year,Central,2024
+917,20,Female,Undergraduate,USA,6,Whatsapp,Yes,5,5,Complicated,4,9,Socializing,4,Laptop,Sometimes,Excellent,5,4th Year,South,2024
+918,22,Female,Graduate,Denmark,4.6,X,No,7.3,7,In Relationship,2,5,Other,4,Laptop,Yes,Poor,1,1st Year,West,2024
+919,20,Female,Undergraduate,Ireland,4.5,Whatsapp,Yes,7.4,7,Single,3,6,Education,1,Laptop,Yes,Average,5,1st Year,North,2021
+920,22,Male,Graduate,Poland,4.2,Facebook,No,7.9,7,Single,2,5,News,1,Mobile,Sometimes,Poor,1,2nd Year,East,2021
+921,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5,Single,3,7,Socializing,4,Laptop,Sometimes,Poor,2,2nd Year,East,2025
+922,21,Male,Graduate,Malaysia,5.5,WhatsApp,Yes,6.8,6,Single,3,7,Socializing,3,Tablet,No,Good,5,4th Year,East,2025
+923,21,Male,Undergraduate,Russia,3.7,YouTube,No,6.8,7,In Relationship,2,5,Education,2,Mobile,Yes,Poor,1,1st Year,West,2021
+924,22,Male,Graduate,India,4.8,Facebook,No,8,7,In Relationship,2,6,Socializing,4,Desktop,No,Average,2,4th Year,East,2022
+925,24,Female,Graduate,Canada,5.6,Whatsapp,Yes,6.7,6,Single,3,7,Entertainment,1,Laptop,Sometimes,Excellent,3,2nd Year,Central,2022
+926,19,Female,Undergraduate,Switzerland,2.3,Instagram,No,9.5,8,Single,2,4,Education,3,Tablet,Sometimes,Poor,1,3rd Year,North,2020
+927,20,Female,Undergraduate,Singapore,4.4,Whatsapp,Yes,5.9,6,In Relationship,3,7,Other,4,Mobile,No,Average,5,2nd Year,East,2023
+928,21,Male,Undergraduate,Egypt,3.9,YouTube,No,6.5,7,Complicated,2,6,Socializing,1,Desktop,Yes,Average,3,1st Year,South,2024
+929,19,Female,Undergraduate,Japan,3.2,LINE,No,8.4,8,Single,1,3,Entertainment,5,Mobile,Sometimes,Average,5,2nd Year,Central,2021
+930,20,Female,Undergraduate,Australia,4.7,Facebook,No,7.4,7,In Relationship,2,5,News,1,Desktop,Yes,Good,1,3rd Year,South,2024
+931,21,Female,Undergraduate,Monaco,4.5,Instagram,Yes,5.8,6,Complicated,3,7,Education,1,Laptop,Sometimes,Average,2,3rd Year,Central,2021
+932,21,Male,Graduate,India,7.3,WhatsApp,Yes,5,5,In Relationship,4,8,Entertainment,3,Laptop,Sometimes,Average,2,3rd Year,East,2021
+933,21,Female,Graduate,Pakistan,5.2,Instagram,Yes,6.4,5,In Relationship,4,8,Entertainment,1,Desktop,No,Poor,2,4th Year,East,2020
+934,19,Female,Undergraduate,UAE,6.8,Instagram,Yes,6.2,5,In Relationship,4,8,Socializing,5,Mobile,Yes,Average,5,1st Year,West,2020
+935,22,Male,Graduate,Sri Lanka,5.1,Facebook,Yes,5.1,6,Single,3,7,Socializing,5,Laptop,Yes,Excellent,4,1st Year,Central,2020
+936,19,Female,Undergraduate,Singapore,5.3,Whatsapp,Yes,6.8,6,Single,3,7,Socializing,5,Desktop,Sometimes,Excellent,5,4th Year,West,2021
+937,22,Male,Graduate,Pakistan,3.9,Instagram,Yes,7.9,5,In Relationship,3,7,News,4,Mobile,No,Excellent,4,4th Year,South,2024
+938,22,Male,Graduate,Greece,3.2,Facebook,No,6.9,7,In Relationship,2,5,Other,5,Tablet,Sometimes,Average,3,4th Year,South,2020
+939,23,Male,Graduate,Canada,5.2,Instagram,Yes,7,6,In Relationship,3,6,Socializing,4,Desktop,Sometimes,Average,2,3rd Year,South,2021
+940,21,Male,Graduate,India,6.5,WhatsApp,Yes,5.8,5,In Relationship,4,8,News,3,Tablet,Sometimes,Excellent,2,2nd Year,North,2020
+941,20,Male,Undergraduate,Serbia,3.9,YouTube,No,6.5,7,Complicated,2,6,Education,5,Mobile,Sometimes,Poor,5,3rd Year,West,2024
+942,19,Female,Undergraduate,Japan,3.5,LINE,No,8,8,Single,1,3,News,2,Laptop,Yes,Good,3,4th Year,Central,2024
+943,23,Male,Graduate,Sri Lanka,2.6,LinkedIn,No,7.2,8,In Relationship,1,4,Socializing,5,Laptop,No,Good,5,1st Year,West,2020
+944,21,Female,Graduate,Maldives,3.8,Instagram,No,8.2,8,In Relationship,2,5,Other,3,Laptop,No,Average,2,4th Year,South,2025
+945,20,Male,Undergraduate,Bangladesh,6.1,Instagram,Yes,6.2,5,Single,4,8,News,3,Mobile,Yes,Good,3,3rd Year,Central,2022
+946,22,Male,Graduate,Russia,4.8,VKontakte,No,7.2,7,Single,2,5,Education,5,Tablet,Sometimes,Excellent,2,3rd Year,East,2024
+947,20,Male,Undergraduate,Bangladesh,6.1,Instagram,Yes,6.2,5,Single,4,8,News,3,Mobile,Yes,Good,3,3rd Year,Central,2023
+948,21,Male,Graduate,Canada,3.9,Instagram,Yes,8.3,6,Single,3,7,Other,3,Tablet,Yes,Poor,2,3rd Year,West,2023
+949,23,Female,Graduate,Taiwan,2.6,LinkedIn,No,7.2,8,Single,1,4,Education,1,Laptop,Sometimes,Poor,3,2nd Year,North,2025
+950,22,Female,Graduate,Denmark,4.6,X,No,7.3,7,In Relationship,2,5,Other,4,Laptop,Yes,Poor,1,1st Year,West,2023
+951,19,Female,Undergraduate,France,4.1,Instagram,No,7.9,7,In Relationship,2,5,Education,2,Mobile,Sometimes,Average,1,3rd Year,East,2021
+952,20,Female,Undergraduate,Mexico,6.2,Facebook,Yes,6.3,5,Single,4,8,Entertainment,5,Laptop,No,Excellent,3,4th Year,South,2025
+953,21,Male,Graduate,New Zealand,4.2,Facebook,Yes,8,7,In Relationship,3,6,Entertainment,4,Laptop,No,Average,1,2nd Year,Central,2020
+954,19,Female,Undergraduate,Switzerland,2.9,Instagram,No,8.9,8,Single,2,4,News,2,Laptop,Sometimes,Average,2,1st Year,South,2025
+955,24,Female,Graduate,France,4.8,X,No,7.3,7,In Relationship,2,5,Other,3,Tablet,Sometimes,Excellent,2,2nd Year,West,2022
+956,21,Male,Graduate,Poland,4.1,Facebook,No,8,7,Single,2,5,Entertainment,4,Tablet,Sometimes,Poor,3,1st Year,North,2024
+957,24,Male,Graduate,Ireland,5.9,Instagram,Yes,6.5,6,Single,3,7,Education,3,Tablet,Yes,Average,2,2nd Year,West,2020
+958,21,Male,Graduate,Italy,5.3,Whatsapp,Yes,6.8,5,In Relationship,3,8,Socializing,4,Tablet,Yes,Good,4,1st Year,West,2020
+959,22,Male,Graduate,Germany,3.1,Facebook,No,8.4,8,In Relationship,1,4,News,3,Mobile,Sometimes,Poor,1,1st Year,North,2023
+960,20,Female,Undergraduate,Ireland,3.7,Whatsapp,Yes,8.2,7,Single,3,6,Entertainment,2,Laptop,No,Good,2,3rd Year,Central,2020
+961,20,Female,Undergraduate,South Korea,4.2,KakaoTalk,Yes,7.6,6,Single,3,6,News,2,Tablet,No,Average,1,2nd Year,Central,2025
+962,19,Female,Undergraduate,USA,7.3,Instagram,Yes,5,5,In Relationship,4,9,Education,4,Desktop,No,Good,2,1st Year,Central,2023
+963,19,Female,Undergraduate,Japan,3,LINE,No,8.6,8,Single,1,3,Socializing,5,Desktop,No,Excellent,1,4th Year,West,2021
+964,19,Female,Undergraduate,USA,7.9,Instagram,Yes,4.4,5,In Relationship,4,9,Other,1,Laptop,Sometimes,Average,2,2nd Year,West,2022
+965,24,Male,Graduate,USA,5.4,X,Yes,6.8,6,In Relationship,3,7,Socializing,5,Tablet,No,Excellent,1,3rd Year,West,2021
+966,19,Female,Undergraduate,USA,6.6,Whatsapp,Yes,5.5,4,In Relationship,4,9,Education,2,Laptop,Sometimes,Poor,1,4th Year,North,2020
+967,24,Male,Graduate,Italy,4.9,Facebook,No,7.3,7,In Relationship,2,5,Education,3,Laptop,No,Excellent,2,1st Year,North,2024
+968,20,Female,Undergraduate,Netherlands,3.8,Instagram,No,8.2,8,Single,2,4,Other,1,Tablet,No,Good,5,2nd Year,Central,2022
+969,19,Male,Undergraduate,Ireland,5.8,Instagram,Yes,6.6,6,Single,3,7,News,4,Laptop,Sometimes,Poor,4,1st Year,West,2020
+970,22,Male,Graduate,Malaysia,5.6,WhatsApp,Yes,6.7,6,Single,3,7,Socializing,1,Tablet,Sometimes,Average,2,4th Year,West,2021
+971,21,Male,Graduate,Canada,5.1,Instagram,Yes,7.1,6,Single,3,7,Socializing,4,Mobile,No,Poor,4,1st Year,East,2023
+972,21,Male,Graduate,Turkey,4.3,Instagram,Yes,7.9,6,Single,3,7,News,2,Laptop,Sometimes,Average,4,2nd Year,Central,2022
+973,21,Male,Graduate,Canada,5.1,Instagram,Yes,7.1,6,Single,3,7,Socializing,4,Mobile,No,Poor,4,1st Year,East,2020
+974,24,Female,Graduate,Ireland,5.9,X,Yes,6.6,6,Single,3,7,Other,3,Desktop,Yes,Poor,3,3rd Year,North,2024
+975,22,Male,Graduate,France,4.7,Facebook,No,7.2,7,In Relationship,2,5,Education,1,Desktop,Sometimes,Excellent,5,3rd Year,Central,2020
+976,22,Male,Graduate,Nepal,4.1,Facebook,No,7.9,7,Single,2,5,Education,4,Tablet,No,Excellent,3,2nd Year,West,2023
+977,20,Female,Undergraduate,South Korea,5.1,KakaoTalk,Yes,6.6,6,In Relationship,3,6,News,3,Laptop,Sometimes,Poor,4,4th Year,South,2024
+978,20,Female,Undergraduate,Netherlands,3.4,Instagram,No,8.6,8,Single,2,4,Education,5,Tablet,Sometimes,Excellent,4,3rd Year,South,2020
+979,20,Female,Undergraduate,Morocco,4.5,Whatsapp,Yes,5.8,6,Single,3,7,Entertainment,2,Tablet,Sometimes,Poor,5,3rd Year,North,2022
+980,19,Female,Undergraduate,USA,7,Whatsapp,Yes,5.8,4,In Relationship,4,9,Socializing,3,Tablet,Yes,Average,5,2nd Year,West,2020
+981,22,Male,Graduate,Poland,3.8,Facebook,No,8.3,7,Single,2,5,Other,2,Tablet,No,Excellent,1,2nd Year,Central,2024
+982,20,Female,Undergraduate,Australia,4.5,Instagram,No,7.5,8,Single,2,5,Other,1,Laptop,Sometimes,Good,3,1st Year,West,2023
+983,19,Female,Undergraduate,Australia,7.2,Instagram,Yes,4.5,4,Complicated,5,9,Education,2,Mobile,Sometimes,Poor,5,1st Year,Central,2023
+984,21,Male,Graduate,Denmark,4.1,Facebook,No,7.8,8,In Relationship,2,4,Education,3,Mobile,Sometimes,Excellent,3,4th Year,Central,2024
+985,22,Male,Graduate,Mexico,7,WhatsApp,Yes,5.2,6,Single,3,7,News,5,Desktop,Sometimes,Average,4,3rd Year,Central,2025
+986,23,Male,Graduate,Belarus,2.5,LinkedIn,No,7.3,8,In Relationship,1,4,Entertainment,4,Laptop,Yes,Excellent,5,1st Year,West,2025
+987,18,Male,High School,UK,3,YouTube,No,7,7,Single,1,4,Other,3,Desktop,Yes,Good,1,2nd Year,South,2025
+988,22,Male,Graduate,Mexico,6.3,Facebook,Yes,6.2,5,Single,4,8,Other,2,Laptop,No,Excellent,4,4th Year,North,2023
+989,20,Female,Undergraduate,India,5.7,Instagram,Yes,6.1,6,Single,3,7,Entertainment,5,Laptop,Sometimes,Poor,3,1st Year,West,2021
+990,19,Male,Undergraduate,Denmark,4.7,Instagram,No,7.2,7,In Relationship,2,5,Other,3,Laptop,Yes,Average,4,3rd Year,Central,2020
+991,22,Male,Graduate,New Zealand,4.7,Instagram,Yes,7.5,7,In Relationship,3,6,Entertainment,4,Mobile,Yes,Average,1,1st Year,West,2020
+992,22,Male,Graduate,India,7.2,Facebook,Yes,5.9,4,Single,5,9,News,3,Mobile,No,Excellent,5,2nd Year,West,2023
+993,19,Female,Undergraduate,Spain,4,Instagram,Yes,7.9,6,Single,3,7,News,4,Mobile,No,Good,3,3rd Year,Central,2025
+994,21,Male,Graduate,Pakistan,4.2,Instagram,Yes,7.3,5,In Relationship,3,7,Other,2,Laptop,No,Average,3,4th Year,South,2022
+995,22,Male,Graduate,Denmark,3.3,Facebook,No,8.5,8,In Relationship,2,4,Entertainment,5,Tablet,Sometimes,Good,2,2nd Year,South,2021
+996,19,Female,High School,Ireland,6.1,Instagram,Yes,5.2,5,Complicated,4,9,Entertainment,2,Mobile,Sometimes,Poor,3,3rd Year,South,2024
+997,20,Female,Undergraduate,Switzerland,2.8,Instagram,No,9,8,Single,2,4,Education,5,Laptop,No,Average,2,2nd Year,West,2025
+998,19,Female,Undergraduate,Bangladesh,4.8,Instagram,Yes,6.6,5,Single,3,7,Socializing,4,Laptop,Yes,Average,2,1st Year,North,2025
+999,22,Male,Graduate,Russia,3.9,VKontakte,No,8.1,7,In Relationship,2,5,Socializing,5,Desktop,No,Excellent,4,3rd Year,East,2021
+1000,23,Female,Graduate,USA,5.3,X,Yes,6.8,6,In Relationship,3,7,Socializing,1,Laptop,No,Poor,5,4th Year,Central,2025
+1001,21,Male,Graduate,Turkey,5.5,Instagram,Yes,6.7,6,Single,3,7,Education,3,Mobile,Yes,Average,2,3rd Year,North,2021
+1002,21,Male,Graduate,Canada,4.5,Instagram,Yes,7.7,6,Single,3,7,News,1,Desktop,Yes,Good,1,1st Year,West,2022
+1003,20,Female,Undergraduate,India,5.7,Instagram,Yes,6.1,6,Single,3,7,Entertainment,5,Laptop,Sometimes,Poor,3,1st Year,West,2022
+1004,19,Female,Undergraduate,Japan,3.8,LINE,No,7.9,8,Single,1,3,News,5,Tablet,Sometimes,Poor,3,2nd Year,Central,2021
+1005,22,Male,Graduate,China,4.2,WeChat,No,8.1,7,In Relationship,2,5,News,4,Mobile,Yes,Excellent,4,3rd Year,South,2020
+1006,19,Male,Undergraduate,Nepal,4.9,Facebook,No,7.1,7,Single,2,5,Education,2,Desktop,Yes,Poor,5,1st Year,North,2024
+1007,20,Female,Undergraduate,Maldives,4,Instagram,No,8,8,In Relationship,2,5,News,3,Tablet,No,Poor,2,1st Year,West,2020
+1008,20,Female,Undergraduate,India,7.3,WhatsApp,Yes,5.5,5,In Relationship,4,8,Other,2,Tablet,Yes,Excellent,2,2nd Year,West,2020
+1009,19,Female,Undergraduate,Bangladesh,5.2,Instagram,Yes,6.5,6,In Relationship,3,8,Socializing,5,Mobile,Sometimes,Average,4,4th Year,East,2024
+1010,18,Female,High School,Liechtenstein,5.8,Instagram,Yes,5.2,5,Single,4,9,Other,2,Mobile,Sometimes,Average,3,4th Year,North,2025
+1011,23,Male,Graduate,Poland,6.2,Whatsapp,Yes,6.3,5,Single,4,8,Socializing,5,Mobile,Yes,Excellent,3,4th Year,West,2022
+1012,22,Male,Graduate,Germany,3.1,Facebook,No,8.4,8,In Relationship,1,4,News,3,Mobile,Sometimes,Poor,1,1st Year,North,2022
+1013,21,Male,Graduate,Canada,4.4,Instagram,Yes,7.8,7,Single,3,6,News,1,Desktop,No,Good,1,3rd Year,North,2022
+1014,21,Male,Graduate,Italy,5.6,Whatsapp,Yes,6.6,5,In Relationship,3,8,Other,5,Tablet,Yes,Poor,2,2nd Year,East,2025
+1015,19,Female,Undergraduate,Ireland,5.5,Whatsapp,Yes,6.8,6,Single,4,8,News,4,Mobile,Yes,Good,4,4th Year,Central,2025
+1016,19,Male,Undergraduate,Sri Lanka,5.3,Whatsapp,Yes,5.3,6,Single,3,7,News,3,Desktop,Sometimes,Excellent,4,4th Year,Central,2024
+1017,20,Female,Undergraduate,Brazil,6.1,Instagram,Yes,6.4,6,Single,3,7,Socializing,1,Tablet,No,Good,3,3rd Year,North,2020
+1018,21,Male,Undergraduate,Uruguay,3.8,YouTube,No,6.4,7,Single,2,6,Other,4,Desktop,Yes,Excellent,1,1st Year,South,2024
+1019,22,Male,Graduate,Bulgaria,2.8,LinkedIn,No,7.2,8,Single,1,4,News,1,Desktop,No,Average,5,1st Year,North,2024
+1020,20,Female,Undergraduate,India,5.7,Instagram,Yes,6.1,6,Single,3,7,Entertainment,5,Laptop,Sometimes,Poor,3,1st Year,West,2025
+1021,20,Female,Undergraduate,South Korea,5,KakaoTalk,Yes,6.7,6,In Relationship,3,6,Other,1,Laptop,Yes,Average,5,4th Year,East,2022
+1022,21,Female,Undergraduate,Spain,6.4,Whatsapp,Yes,6.2,5,Single,4,8,Entertainment,3,Laptop,Yes,Good,2,2nd Year,West,2021
+1023,20,Female,Undergraduate,Australia,4.1,Instagram,No,7.7,7,Single,2,5,Entertainment,5,Laptop,No,Poor,5,1st Year,West,2020
+1024,23,Male,Graduate,Spain,6.5,Facebook,Yes,6.1,5,Single,4,8,Entertainment,3,Tablet,No,Average,3,2nd Year,South,2025
+1025,21,Female,Graduate,South Korea,3.3,Instagram,No,7,7,In Relationship,1,4,Education,2,Mobile,No,Good,4,2nd Year,East,2022
+1026,19,Female,Undergraduate,USA,6.6,Whatsapp,Yes,5.6,4,In Relationship,4,9,News,4,Mobile,Yes,Poor,2,2nd Year,South,2021
+1027,20,Female,Undergraduate,Ireland,4.5,Whatsapp,Yes,7.4,7,Single,3,6,Education,1,Laptop,Yes,Average,5,1st Year,North,2021
+1028,24,Male,Graduate,Italy,4.7,Facebook,No,7.2,7,In Relationship,2,5,Entertainment,5,Tablet,Yes,Good,2,2nd Year,Central,2025
+1029,22,Male,Graduate,Maldives,5.3,Whatsapp,Yes,5.7,6,In Relationship,4,8,Education,1,Desktop,Sometimes,Average,3,4th Year,Central,2023
+1030,20,Female,Undergraduate,Brazil,5.8,Snapchat,Yes,6,6,In Relationship,2,8,News,1,Desktop,Sometimes,Poor,4,4th Year,Central,2020
+1031,22,Male,Graduate,Italy,2.8,LinkedIn,No,7.2,8,Single,1,4,Other,2,Laptop,No,Excellent,3,1st Year,East,2021
+1032,22,Male,Graduate,India,5.2,Facebook,No,7.1,7,In Relationship,2,6,Other,1,Tablet,Yes,Good,5,2nd Year,South,2025
+1033,19,Male,Undergraduate,India,7.2,Whatsapp,Yes,5.7,4,Single,5,9,News,2,Mobile,No,Excellent,1,1st Year,North,2025
+1034,21,Male,Undergraduate,France,5.8,Instagram,Yes,6.7,6,Single,3,7,Other,2,Tablet,Yes,Average,1,3rd Year,North,2022
+1035,19,Female,Undergraduate,Spain,5.2,Instagram,Yes,6.8,6,Single,3,7,Education,3,Mobile,Yes,Excellent,3,1st Year,East,2023
+1036,20,Female,Undergraduate,Australia,3.9,Instagram,No,7.9,7,Single,2,5,News,1,Tablet,Sometimes,Excellent,1,2nd Year,South,2020
+1037,24,Female,Graduate,France,4.8,X,No,7.3,7,In Relationship,2,5,Other,3,Tablet,Sometimes,Excellent,2,2nd Year,West,2024
+1038,19,Female,Undergraduate,France,4.5,Instagram,No,7.5,7,In Relationship,2,5,Other,1,Laptop,Yes,Excellent,4,1st Year,North,2022
+1039,19,Female,Undergraduate,Singapore,5.7,Whatsapp,Yes,6.4,6,Single,3,7,News,5,Laptop,No,Excellent,5,4th Year,North,2021
+1040,20,Female,Undergraduate,Brazil,6.1,Instagram,Yes,6.4,6,Single,3,7,Socializing,1,Tablet,No,Good,3,3rd Year,North,2021
+1041,21,Male,Graduate,Canada,5.1,Instagram,Yes,7.1,6,Single,3,7,Socializing,4,Mobile,No,Poor,4,1st Year,East,2022
+1042,19,Female,Undergraduate,Switzerland,3.5,Instagram,No,8.3,8,Single,2,4,Entertainment,4,Laptop,Sometimes,Average,3,3rd Year,North,2025
+1043,22,Male,Graduate,Poland,4.2,Facebook,No,7.9,7,Single,2,5,News,1,Mobile,Sometimes,Poor,1,2nd Year,East,2021
+1044,21,Male,Graduate,Canada,4.4,Instagram,Yes,7.8,7,Single,3,6,News,1,Desktop,No,Good,1,3rd Year,North,2023
+1045,20,Female,Undergraduate,France,3.6,Instagram,No,8.4,7,In Relationship,2,5,News,3,Tablet,No,Good,2,1st Year,South,2020
+1046,19,Male,Undergraduate,Denmark,4.7,Instagram,No,7.2,7,In Relationship,2,5,Other,3,Laptop,Yes,Average,4,3rd Year,Central,2023
+1047,23,Male,Graduate,Bosnia,2.4,LinkedIn,No,7.4,8,Complicated,1,4,Education,4,Tablet,Yes,Poor,3,2nd Year,East,2021
+1048,20,Female,Undergraduate,Sri Lanka,4.4,Facebook,No,8.5,7,Single,2,5,Entertainment,5,Desktop,Sometimes,Average,2,3rd Year,West,2024
+1049,21,Female,Undergraduate,UK,6.3,Whatsapp,Yes,6.4,5,Single,4,8,Entertainment,1,Laptop,Sometimes,Poor,5,4th Year,South,2020
+1050,21,Male,Graduate,UK,4.6,Facebook,Yes,7,6,In Relationship,3,7,Other,4,Laptop,Sometimes,Poor,3,1st Year,East,2020
+1051,21,Male,Graduate,Poland,4.1,Facebook,No,8,7,Single,2,5,Entertainment,4,Tablet,Sometimes,Poor,3,1st Year,North,2022
+1052,22,Male,Graduate,Russia,4.5,VKontakte,No,7.4,7,In Relationship,2,5,Socializing,5,Tablet,Yes,Excellent,5,2nd Year,North,2022
+1053,22,Male,Graduate,Russia,4.8,VKontakte,No,7.2,7,Single,2,5,Education,5,Tablet,Sometimes,Excellent,2,3rd Year,East,2024
+1054,21,Male,Graduate,India,5.9,WhatsApp,Yes,6.4,5,In Relationship,4,8,Socializing,3,Laptop,Yes,Poor,2,2nd Year,North,2025
+1055,19,Female,Undergraduate,Japan,3.6,LINE,No,8.1,8,Single,1,3,Education,2,Tablet,Sometimes,Good,2,3rd Year,Central,2020
+1056,22,Male,Graduate,Turkey,5,Whatsapp,Yes,7.2,6,Single,3,7,Socializing,5,Mobile,No,Average,1,3rd Year,West,2024
+1057,20,Female,Undergraduate,France,3.2,Instagram,No,8.8,7,In Relationship,2,5,Entertainment,4,Mobile,No,Poor,1,1st Year,North,2022
+1058,22,Male,Graduate,Nepal,4.1,Facebook,No,7.9,7,Single,2,5,Education,4,Tablet,No,Excellent,3,2nd Year,West,2022
+1059,20,Female,Undergraduate,Australia,4.7,Facebook,No,7.4,7,In Relationship,2,5,News,1,Desktop,Yes,Good,1,3rd Year,South,2020
+1060,24,Male,Graduate,Spain,6.6,Whatsapp,Yes,6.2,5,Single,4,8,News,1,Tablet,Yes,Poor,4,2nd Year,Central,2023
+1061,22,Male,Graduate,Denmark,3.3,Facebook,No,8.5,8,In Relationship,2,4,Entertainment,5,Tablet,Sometimes,Good,2,2nd Year,South,2021
+1062,20,Female,Undergraduate,UAE,6.9,Instagram,Yes,6.1,5,In Relationship,4,8,Education,1,Desktop,Sometimes,Average,5,4th Year,East,2022
+1063,19,Female,Undergraduate,Netherlands,3.7,Whatsapp,No,8.3,8,Single,2,4,Education,3,Tablet,No,Good,2,4th Year,West,2025
+1064,22,Male,Graduate,Germany,3.4,Instagram,No,8.1,8,Single,1,4,Entertainment,3,Desktop,Yes,Good,4,1st Year,East,2025
+1065,22,Male,Graduate,Germany,3.1,Facebook,No,8.4,8,In Relationship,1,4,News,3,Mobile,Sometimes,Poor,1,1st Year,North,2022
+1066,22,Female,Graduate,Denmark,4.6,X,No,7.3,7,In Relationship,2,5,Other,4,Laptop,Yes,Poor,1,1st Year,West,2023
+1067,23,Male,Graduate,Denmark,3.8,X,No,7.8,8,In Relationship,2,4,Entertainment,1,Laptop,Yes,Poor,1,1st Year,North,2023
+1068,21,Male,Graduate,Maldives,5.4,Whatsapp,Yes,6,6,In Relationship,4,8,Education,4,Laptop,Sometimes,Excellent,2,1st Year,Central,2024
+1069,19,Female,Undergraduate,France,4.3,Instagram,No,7.7,7,In Relationship,2,5,Entertainment,3,Laptop,Sometimes,Poor,2,4th Year,South,2025
+1070,21,Female,Graduate,Pakistan,4.8,Instagram,Yes,6.8,5,In Relationship,4,8,Entertainment,4,Mobile,Yes,Poor,1,3rd Year,South,2024
+1071,19,Female,Undergraduate,Switzerland,3.1,Instagram,No,8.7,8,Single,2,4,Socializing,5,Desktop,Sometimes,Good,4,1st Year,South,2025
+1072,22,Male,Graduate,Canada,5.8,Whatsapp,Yes,6.6,6,Single,3,7,News,5,Mobile,Sometimes,Excellent,4,3rd Year,Central,2021
+1073,19,Female,Undergraduate,USA,7,Whatsapp,Yes,5.8,4,In Relationship,4,9,Socializing,3,Tablet,Yes,Average,5,2nd Year,West,2021
+1074,21,Male,Graduate,UK,5.2,Facebook,Yes,6.4,6,In Relationship,3,7,Entertainment,4,Tablet,Sometimes,Good,4,1st Year,East,2020
+1075,20,Female,Undergraduate,Switzerland,2.8,Instagram,No,9,8,Single,2,4,Education,5,Laptop,No,Average,2,2nd Year,West,2024
+1076,22,Male,Graduate,Mexico,7.2,WhatsApp,Yes,5,6,Single,3,7,News,5,Laptop,No,Excellent,1,1st Year,East,2022
+1077,20,Female,Undergraduate,South Korea,4.5,KakaoTalk,Yes,7.3,6,In Relationship,3,6,Education,1,Tablet,No,Average,2,4th Year,Central,2024
+1078,21,Male,Graduate,Malaysia,6.1,WhatsApp,Yes,6.2,6,Single,3,7,Entertainment,2,Desktop,Yes,Excellent,4,2nd Year,East,2022
+1079,19,Female,Undergraduate,Sri Lanka,5.1,Facebook,No,7,7,Single,2,5,Education,1,Laptop,No,Average,4,3rd Year,East,2023
+1080,21,Male,Graduate,Canada,4.5,Facebook,Yes,6,6,In Relationship,2,7,Education,4,Desktop,Sometimes,Average,2,1st Year,West,2024
+1081,21,Male,Undergraduate,Kenya,3.7,Facebook,No,6.6,7,Single,2,5,Socializing,3,Mobile,Sometimes,Average,4,4th Year,Central,2023
+1082,20,Female,Undergraduate,France,4,Instagram,No,8,7,In Relationship,2,5,Other,3,Mobile,Yes,Poor,5,2nd Year,North,2021
+1083,22,Female,Graduate,Kyrgyzstan,2.9,Facebook,No,7,7,In Relationship,2,5,Other,5,Desktop,Yes,Poor,5,3rd Year,Central,2021
+1084,21,Male,Graduate,Canada,4.5,Instagram,Yes,7.7,6,Single,3,7,News,1,Desktop,Yes,Good,1,1st Year,West,2020
+1085,22,Male,Graduate,India,7.2,Facebook,Yes,5.9,4,Single,5,9,News,3,Mobile,No,Excellent,5,2nd Year,West,2024
+1086,20,Female,Undergraduate,Pakistan,5,Instagram,Yes,6.6,5,In Relationship,4,8,Socializing,1,Tablet,Sometimes,Excellent,1,4th Year,East,2023
+1087,24,Female,Graduate,China,5.5,WeChat,Yes,6.8,6,In Relationship,3,7,Education,5,Desktop,Sometimes,Average,2,1st Year,West,2022
+1088,19,Female,Undergraduate,Sri Lanka,4.5,Facebook,No,8.3,7,Single,2,5,News,1,Desktop,Sometimes,Poor,1,2nd Year,South,2021
+1089,19,Female,High School,Nigeria,5.8,Instagram,Yes,5.4,5,Complicated,4,8,Education,2,Mobile,Yes,Excellent,3,3rd Year,Central,2021
+1090,20,Male,Undergraduate,Vatican City,4.4,YouTube,Yes,6,6,Complicated,3,7,Education,4,Desktop,Sometimes,Excellent,3,3rd Year,Central,2022
+1091,21,Male,Graduate,Denmark,3.2,Facebook,No,8.6,8,In Relationship,2,4,Other,5,Tablet,Sometimes,Excellent,3,2nd Year,North,2023
+1092,22,Male,Graduate,Germany,3.4,Instagram,No,8.1,8,Single,1,4,Entertainment,3,Desktop,Yes,Good,4,1st Year,East,2023
+1093,21,Female,Graduate,Pakistan,4.8,Instagram,Yes,6.8,5,In Relationship,4,8,Entertainment,4,Mobile,Yes,Poor,1,3rd Year,South,2024
+1094,20,Female,Undergraduate,Australia,4.2,Facebook,No,7.6,7,In Relationship,2,5,Entertainment,1,Laptop,Sometimes,Excellent,1,2nd Year,East,2024
+1095,20,Male,Undergraduate,Italy,4.6,Facebook,No,7.2,7,In Relationship,2,5,Socializing,4,Laptop,Yes,Excellent,2,1st Year,North,2025
+1096,21,Male,Graduate,Malaysia,5.7,WhatsApp,Yes,6.6,6,Single,3,7,Other,2,Mobile,Sometimes,Excellent,1,3rd Year,Central,2025
+1097,22,Male,Graduate,Mexico,5.8,WhatsApp,Yes,6.4,6,Single,3,7,Other,3,Tablet,No,Excellent,2,1st Year,East,2020
+1098,21,Female,Undergraduate,Denmark,4.6,X,No,7.3,7,In Relationship,2,5,News,3,Mobile,No,Average,5,1st Year,Central,2021
+1099,24,Female,Graduate,Poland,6.1,Whatsapp,Yes,6.4,5,Single,4,8,Education,4,Desktop,No,Poor,2,1st Year,West,2024
+1100,21,Male,Graduate,Denmark,3,Facebook,No,8.8,8,In Relationship,2,4,News,1,Laptop,No,Excellent,2,1st Year,North,2023
+1101,23,Male,Graduate,Finland,4.3,Instagram,No,7.5,7,In Relationship,2,5,Other,5,Mobile,Sometimes,Poor,5,1st Year,North,2022
+1102,19,Male,Undergraduate,Austria,4.9,Instagram,Yes,5.8,6,Complicated,3,7,Education,1,Desktop,Yes,Average,2,3rd Year,North,2023
+1103,21,Female,Undergraduate,Switzerland,4.2,Instagram,No,7.5,7,In Relationship,2,5,Education,2,Tablet,No,Excellent,1,3rd Year,Central,2021
+1104,19,Male,Undergraduate,Nepal,3.9,Whatsapp,No,8.1,7,Single,2,5,Entertainment,3,Desktop,Sometimes,Average,1,1st Year,North,2025
+1105,19,Female,Undergraduate,Spain,4,Instagram,Yes,7.9,6,Single,3,7,News,4,Mobile,No,Good,3,3rd Year,Central,2023
+1106,20,Female,Undergraduate,Canada,5.6,Instagram,Yes,6.7,6,Single,3,7,Other,2,Laptop,Yes,Excellent,5,2nd Year,East,2020
+1107,22,Male,Graduate,Sri Lanka,5.1,Facebook,Yes,5.1,6,Single,3,7,Socializing,5,Laptop,Yes,Excellent,4,1st Year,Central,2021
+1108,19,Female,Undergraduate,Japan,3.8,LINE,No,7.9,8,Single,1,3,News,5,Tablet,Sometimes,Poor,3,2nd Year,Central,2025
+1109,20,Female,Undergraduate,Netherlands,3.8,Instagram,No,8.2,8,Single,2,4,Other,1,Tablet,No,Good,5,2nd Year,Central,2022
+1110,19,Female,Undergraduate,USA,7.3,Instagram,Yes,5,5,In Relationship,4,9,Education,4,Desktop,No,Good,2,1st Year,Central,2025
+1111,24,Female,Graduate,Ireland,5.9,X,Yes,6.6,6,Single,3,7,Other,3,Desktop,Yes,Poor,3,3rd Year,North,2020
+1112,20,Female,Undergraduate,Switzerland,2.8,Instagram,No,9,8,Single,2,4,Education,5,Laptop,No,Average,2,2nd Year,West,2021
+1113,20,Male,Undergraduate,Italy,4.6,Facebook,No,7.2,7,In Relationship,2,5,Socializing,4,Laptop,Yes,Excellent,2,1st Year,North,2022
+1114,18,Female,High School,Syria,5.6,Instagram,Yes,5.4,5,Single,4,8,Other,1,Tablet,Sometimes,Good,3,4th Year,North,2020
+1115,20,Male,Undergraduate,Bangladesh,6.1,Instagram,Yes,6.2,5,Single,4,8,News,3,Mobile,Yes,Good,3,3rd Year,Central,2025
+1116,21,Male,Undergraduate,Egypt,3.9,YouTube,No,6.5,7,Complicated,2,6,Socializing,1,Desktop,Yes,Average,3,1st Year,South,2020
+1117,20,Male,Undergraduate,Bangladesh,6.1,Instagram,Yes,6.2,5,Single,4,8,News,3,Mobile,Yes,Good,3,3rd Year,Central,2021
+1118,21,Male,Graduate,India,4.7,Facebook,No,8.2,7,In Relationship,2,6,Entertainment,3,Tablet,Yes,Good,2,3rd Year,North,2024
+1119,22,Male,Graduate,Mexico,6.3,Facebook,Yes,6.2,5,Single,4,8,Other,2,Laptop,No,Excellent,4,4th Year,North,2020
+1120,19,Female,Undergraduate,France,4.7,X,No,7.4,7,Single,2,5,Education,1,Tablet,Yes,Good,1,1st Year,West,2020
+1121,20,Female,Undergraduate,Spain,4.5,Whatsapp,Yes,7.4,6,Single,3,7,News,2,Tablet,Sometimes,Good,5,4th Year,North,2025
+1122,20,Female,Undergraduate,Bangladesh,4.7,Instagram,Yes,6.8,5,Single,3,7,Socializing,2,Laptop,Sometimes,Poor,3,1st Year,North,2025
+1123,20,Female,Undergraduate,Netherlands,3.8,Instagram,No,8.2,8,Single,2,4,Other,1,Tablet,No,Good,5,2nd Year,Central,2022
+1124,21,Male,Graduate,New Zealand,4.2,Facebook,Yes,8,7,In Relationship,3,6,Entertainment,4,Laptop,No,Average,1,2nd Year,Central,2025
+1125,22,Male,Graduate,Mexico,6.8,WhatsApp,Yes,5.4,6,Single,3,7,News,4,Tablet,No,Excellent,1,4th Year,South,2023
+1126,22,Male,Graduate,Canada,3.6,Whatsapp,Yes,8.6,6,Single,3,7,Education,1,Mobile,Yes,Average,3,2nd Year,Central,2021
+1127,21,Male,Undergraduate,Russia,3.7,YouTube,No,6.8,7,In Relationship,2,5,Education,2,Mobile,Yes,Poor,1,1st Year,West,2021
+1128,22,Female,Graduate,Denmark,4.6,X,No,7.3,7,In Relationship,2,5,Other,4,Laptop,Yes,Poor,1,1st Year,West,2024
+1129,19,Female,Undergraduate,China,5.7,WeChat,Yes,6.7,6,In Relationship,3,7,News,4,Desktop,No,Good,2,2nd Year,East,2024
+1130,19,Female,Undergraduate,Japan,3,LINE,No,8.6,8,Single,1,3,Socializing,5,Desktop,No,Excellent,1,4th Year,West,2021
+1131,21,Male,Graduate,Mexico,7.1,WhatsApp,Yes,5.1,6,Single,3,7,Entertainment,5,Mobile,No,Good,1,1st Year,North,2024
+1132,20,Female,Undergraduate,Australia,4.7,Facebook,No,7.4,7,In Relationship,2,5,News,1,Desktop,Yes,Good,1,3rd Year,South,2022
+1133,21,Male,Undergraduate,Russia,3.7,YouTube,No,6.8,7,In Relationship,2,5,Education,2,Mobile,Yes,Poor,1,1st Year,West,2025
+1134,22,Male,Graduate,Canada,4.4,Whatsapp,Yes,7.8,6,Single,3,7,News,5,Tablet,No,Poor,1,2nd Year,North,2021
+1135,22,Male,Graduate,Sri Lanka,4.7,Facebook,Yes,4.7,6,Single,3,7,Other,3,Mobile,No,Excellent,2,1st Year,Central,2024
+1136,21,Male,Graduate,Canada,4.4,Instagram,Yes,7.8,7,Single,3,6,News,1,Desktop,No,Good,1,3rd Year,North,2021
+1137,19,Female,Undergraduate,Spain,4,Instagram,Yes,7.9,6,Single,3,7,News,4,Mobile,No,Good,3,3rd Year,Central,2023
+1138,18,Male,High School,Kuwait,5.7,Snapchat,Yes,5.3,5,In Relationship,4,8,Education,5,Laptop,Sometimes,Average,5,1st Year,Central,2020
+1139,20,Female,Undergraduate,Switzerland,2.8,Instagram,No,9,8,Single,2,4,Education,5,Laptop,No,Average,2,2nd Year,West,2025
+1140,20,Female,Undergraduate,Spain,4.3,Whatsapp,Yes,7.6,6,Single,3,7,News,3,Tablet,Yes,Excellent,1,4th Year,South,2021
+1141,19,Female,Undergraduate,France,4.1,Instagram,No,7.9,7,In Relationship,2,5,Education,2,Mobile,Sometimes,Average,1,3rd Year,East,2020
+1142,19,Female,Undergraduate,Japan,3,LINE,No,8.6,8,Single,1,3,Socializing,5,Desktop,No,Excellent,1,4th Year,West,2024
+1143,21,Male,Graduate,UK,5.4,Facebook,Yes,6.5,6,In Relationship,3,7,News,5,Desktop,Sometimes,Good,1,4th Year,South,2020
+1144,22,Male,Graduate,Maldives,4.9,Whatsapp,Yes,4.9,6,In Relationship,4,8,Socializing,1,Laptop,Sometimes,Good,4,2nd Year,North,2025
+1145,20,Male,Undergraduate,UK,6.4,Facebook,Yes,6.2,5,Single,4,8,Socializing,2,Laptop,No,Good,4,1st Year,East,2021
+1146,20,Female,Undergraduate,Switzerland,3.8,Instagram,No,8,8,Single,2,4,Entertainment,3,Tablet,Yes,Poor,1,1st Year,West,2023
+1147,21,Male,Graduate,China,4.3,WeChat,No,8,7,In Relationship,2,5,Other,4,Desktop,Sometimes,Average,3,1st Year,North,2024
+1148,19,Female,Undergraduate,UAE,6.6,Instagram,Yes,6.4,5,In Relationship,4,8,Education,2,Mobile,No,Excellent,5,1st Year,South,2021
+1149,22,Female,Graduate,China,5.7,WeChat,Yes,6.7,6,In Relationship,3,7,Other,1,Tablet,Yes,Poor,4,4th Year,Central,2025
+1150,19,Female,Undergraduate,Spain,4.4,Instagram,Yes,7.5,6,Single,3,7,Socializing,4,Tablet,No,Poor,2,4th Year,North,2024
+1151,23,Male,Graduate,Finland,4.3,Instagram,No,7.5,7,In Relationship,2,5,Other,5,Mobile,Sometimes,Poor,5,1st Year,North,2022
+1152,20,Female,Undergraduate,India,5.7,Instagram,Yes,6.1,6,Single,3,7,Entertainment,5,Laptop,Sometimes,Poor,3,1st Year,West,2020
+1153,24,Male,Graduate,Denmark,4.5,X,No,7.3,7,In Relationship,2,5,Education,3,Tablet,Sometimes,Average,2,2nd Year,South,2025
+1154,22,Male,Graduate,India,4.4,Facebook,No,8.8,7,In Relationship,2,6,Education,1,Tablet,No,Poor,4,2nd Year,Central,2022
+1155,19,Male,Undergraduate,Bangladesh,4.1,Whatsapp,Yes,7.5,5,Single,4,8,Entertainment,3,Desktop,No,Average,1,1st Year,Central,2021
+1156,19,Male,Undergraduate,Ireland,5.8,Instagram,Yes,6.6,6,Single,3,7,News,4,Laptop,Sometimes,Poor,4,1st Year,West,2023
+1157,22,Male,Graduate,Russia,4.8,VKontakte,No,7.2,7,Single,2,5,Education,5,Tablet,Sometimes,Excellent,2,3rd Year,East,2024
+1158,23,Female,Graduate,USA,5.3,X,Yes,6.8,6,In Relationship,3,7,Socializing,1,Laptop,No,Poor,5,4th Year,Central,2020
+1159,22,Male,Graduate,India,4.4,Facebook,No,8.8,7,In Relationship,2,6,Education,1,Tablet,No,Poor,4,2nd Year,Central,2024
+1160,21,Male,Graduate,Canada,3.9,Instagram,Yes,8.3,6,Single,3,7,Other,3,Tablet,Yes,Poor,2,3rd Year,West,2021
+1161,23,Male,Graduate,USA,5.5,X,Yes,6.7,6,In Relationship,3,7,News,2,Mobile,Sometimes,Good,2,3rd Year,East,2024
+1162,21,Male,Undergraduate,Russia,3.7,YouTube,No,6.8,7,In Relationship,2,5,Education,2,Mobile,Yes,Poor,1,1st Year,West,2020
+1163,22,Male,Graduate,Sri Lanka,4.7,Facebook,Yes,4.7,6,Single,3,7,Other,3,Mobile,No,Excellent,2,1st Year,Central,2021
+1164,23,Male,Graduate,Canada,5.7,Whatsapp,Yes,6.6,6,Single,3,7,Socializing,4,Tablet,Sometimes,Average,5,3rd Year,East,2024
+1165,19,Female,Undergraduate,USA,6.6,Whatsapp,Yes,5.6,4,In Relationship,4,9,News,4,Mobile,Yes,Poor,2,2nd Year,South,2023
+1166,22,Male,Graduate,Sri Lanka,4.7,Facebook,Yes,4.7,6,Single,3,7,Other,3,Mobile,No,Excellent,2,1st Year,Central,2025
+1167,19,Male,Undergraduate,Colombia,4.8,Instagram,Yes,5.9,6,In Relationship,3,7,Entertainment,1,Desktop,Yes,Average,1,1st Year,Central,2021
+1168,22,Male,Graduate,India,5.8,WhatsApp,Yes,6.5,5,In Relationship,4,8,News,5,Mobile,No,Poor,3,4th Year,East,2025
+1169,22,Male,Graduate,Poland,4.2,Facebook,No,7.9,7,Single,2,5,News,1,Mobile,Sometimes,Poor,1,2nd Year,East,2021
+1170,21,Female,Undergraduate,Russia,6.7,Instagram,Yes,6,4,Single,5,9,Socializing,3,Tablet,Yes,Excellent,4,4th Year,Central,2023
+1171,21,Female,Graduate,India,5.6,Instagram,Yes,5.6,6,In Relationship,3,7,Socializing,1,Mobile,Sometimes,Excellent,1,4th Year,North,2025
+1172,20,Female,Undergraduate,Spain,4.3,Whatsapp,Yes,7.6,6,Single,3,7,News,3,Tablet,Yes,Excellent,1,4th Year,South,2022
+1173,23,Male,Graduate,Bosnia,2.4,LinkedIn,No,7.4,8,Complicated,1,4,Education,4,Tablet,Yes,Poor,3,2nd Year,East,2020
+1174,23,Female,Graduate,Turkey,6.7,Instagram,Yes,6.1,5,Single,4,8,News,2,Tablet,No,Poor,3,3rd Year,East,2022
+1175,24,Male,Graduate,USA,5.6,Instagram,Yes,6.9,6,In Relationship,3,7,Education,4,Desktop,Yes,Average,5,4th Year,North,2024
+1176,21,Male,Graduate,India,7.3,WhatsApp,Yes,5,5,In Relationship,4,8,Entertainment,3,Laptop,Sometimes,Average,2,3rd Year,East,2023
+1177,22,Male,Graduate,Russia,4,VKontakte,No,8,7,Single,2,5,Entertainment,2,Desktop,Sometimes,Average,3,4th Year,South,2022
+1178,21,Male,Undergraduate,Uruguay,3.8,YouTube,No,6.4,7,Single,2,6,Other,4,Desktop,Yes,Excellent,1,1st Year,South,2021
+1179,19,Female,High School,Costa Rica,5.7,Instagram,Yes,5.5,5,Single,4,8,Other,1,Desktop,Sometimes,Excellent,3,3rd Year,East,2024
+1180,20,Female,Undergraduate,South Korea,4.6,KakaoTalk,Yes,7.2,6,Single,3,6,News,1,Laptop,Yes,Average,2,4th Year,North,2024
+1181,22,Male,Graduate,Bulgaria,2.8,LinkedIn,No,7.2,8,Single,1,4,News,1,Desktop,No,Average,5,1st Year,North,2022
+1182,23,Male,Graduate,Switzerland,4.5,Facebook,No,7.3,7,In Relationship,2,5,Socializing,2,Tablet,No,Excellent,2,4th Year,East,2022
+1183,19,Male,Undergraduate,France,4.8,Snapchat,Yes,6.2,5,Complicated,3,7,Socializing,5,Mobile,No,Good,3,2nd Year,East,2023
+1184,21,Male,Graduate,UK,5.4,Facebook,Yes,6.5,6,In Relationship,3,7,News,5,Desktop,Sometimes,Good,1,4th Year,South,2020
+1185,19,Female,Undergraduate,Spain,4.4,Instagram,Yes,7.5,6,Single,3,7,Socializing,4,Tablet,No,Poor,2,4th Year,North,2022
+1186,20,Male,Undergraduate,Finland,4.5,Facebook,No,7.4,7,In Relationship,2,5,Socializing,3,Tablet,Sometimes,Excellent,5,4th Year,East,2022
+1187,21,Male,Graduate,Canada,4.4,Instagram,Yes,7.8,7,Single,3,6,News,1,Desktop,No,Good,1,3rd Year,North,2025
+1188,21,Female,Graduate,Maldives,4.2,Instagram,No,7.8,8,In Relationship,2,5,Other,4,Laptop,No,Excellent,1,4th Year,South,2021
+1189,20,Female,Undergraduate,South Korea,5.2,KakaoTalk,Yes,6.5,6,In Relationship,3,6,Socializing,4,Tablet,No,Good,2,2nd Year,North,2025
+1190,19,Male,Undergraduate,Austria,4.9,Instagram,Yes,5.8,6,Complicated,3,7,Education,1,Desktop,Yes,Average,2,3rd Year,North,2025
+1191,19,Male,Undergraduate,Ireland,5.8,Instagram,Yes,6.6,6,Single,3,7,News,4,Laptop,Sometimes,Poor,4,1st Year,West,2024
+1192,21,Male,Graduate,Turkey,5.3,Instagram,Yes,6.9,6,Single,3,7,Entertainment,2,Tablet,No,Poor,3,4th Year,North,2020
+1193,21,Male,Graduate,UK,4.8,Facebook,Yes,6.8,6,In Relationship,3,7,News,5,Desktop,No,Excellent,2,4th Year,North,2021
+1194,20,Female,Undergraduate,Ireland,4.5,Whatsapp,Yes,7.4,7,Single,3,6,Education,1,Laptop,Yes,Average,5,1st Year,North,2023
+1195,22,Male,Graduate,Turkey,4.8,Whatsapp,Yes,7.4,6,Single,3,7,Other,2,Laptop,No,Good,1,1st Year,East,2023
+1196,21,Male,Graduate,Pakistan,3.8,Instagram,Yes,8.1,5,In Relationship,3,7,News,5,Mobile,Yes,Excellent,4,2nd Year,West,2022
+1197,22,Male,Graduate,Bangladesh,4.7,Facebook,Yes,6.9,5,Single,4,8,Other,5,Desktop,No,Poor,1,1st Year,West,2022
+1198,20,Male,Undergraduate,Italy,4.6,Facebook,No,7.2,7,In Relationship,2,5,Socializing,4,Laptop,Yes,Excellent,2,1st Year,North,2023
+1199,21,Male,Graduate,Italy,5.3,Whatsapp,Yes,6.8,5,In Relationship,3,8,Socializing,4,Tablet,Yes,Good,4,1st Year,West,2022
+1200,21,Male,Graduate,India,4.5,Facebook,No,8.6,7,In Relationship,2,6,Education,2,Tablet,Sometimes,Poor,2,4th Year,Central,2020
+1201,22,Male,Graduate,Mexico,7,WhatsApp,Yes,5.2,6,Single,3,7,News,5,Desktop,Sometimes,Average,4,3rd Year,Central,2025
+1202,19,Female,Undergraduate,Spain,4,Instagram,Yes,7.9,6,Single,3,7,News,4,Mobile,No,Good,3,3rd Year,Central,2022
+1203,22,Female,Graduate,Denmark,4.6,X,No,7.3,7,In Relationship,2,5,Other,4,Laptop,Yes,Poor,1,1st Year,West,2024
+1204,20,Male,Undergraduate,Italy,4.6,Facebook,No,7.2,7,In Relationship,2,5,Socializing,4,Laptop,Yes,Excellent,2,1st Year,North,2022
+1205,20,Female,Undergraduate,Switzerland,2.8,Instagram,No,9,8,Single,2,4,Education,5,Laptop,No,Average,2,2nd Year,West,2021
+1206,20,Female,Undergraduate,UK,6.1,X,Yes,6.4,5,Single,4,8,News,4,Desktop,Yes,Good,4,1st Year,East,2020
+1207,22,Male,Graduate,Canada,4,Whatsapp,Yes,8.2,6,Single,3,7,Other,5,Laptop,No,Average,3,3rd Year,East,2021
+1208,19,Female,Undergraduate,Japan,3.8,LINE,No,7.9,8,Single,1,3,News,5,Tablet,Sometimes,Poor,3,2nd Year,Central,2021
+1209,22,Male,Graduate,Turkey,5.2,Whatsapp,Yes,7,6,Single,3,7,Entertainment,2,Laptop,Sometimes,Poor,3,2nd Year,South,2024
+1210,22,Male,Graduate,India,5.8,WhatsApp,Yes,6.5,5,In Relationship,4,8,News,5,Mobile,No,Poor,3,4th Year,East,2020
+1211,22,Male,Graduate,Sri Lanka,5.5,Facebook,Yes,5.5,6,Single,3,7,Entertainment,1,Mobile,No,Good,2,4th Year,South,2020
+1212,21,Male,Graduate,Maldives,4.6,Whatsapp,Yes,4.3,6,In Relationship,4,8,News,3,Laptop,Yes,Excellent,3,3rd Year,South,2020
+1213,21,Male,Graduate,Italy,5.6,Whatsapp,Yes,6.6,5,In Relationship,3,8,Other,5,Tablet,Yes,Poor,2,2nd Year,East,2020
+1214,21,Female,Graduate,Pakistan,4.8,Instagram,Yes,6.8,5,In Relationship,4,8,Entertainment,4,Mobile,Yes,Poor,1,3rd Year,South,2020
+1215,19,Male,Undergraduate,Sri Lanka,5.7,Whatsapp,Yes,5.7,6,Single,3,7,News,5,Desktop,No,Good,1,2nd Year,North,2024
+1216,19,Female,Undergraduate,Pakistan,4.8,Whatsapp,Yes,5.7,6,In Relationship,3,7,Education,2,Desktop,No,Excellent,1,1st Year,West,2022
+1217,20,Male,Undergraduate,Finland,4.5,Facebook,No,7.4,7,In Relationship,2,5,Socializing,3,Tablet,Sometimes,Excellent,5,4th Year,East,2021
+1218,23,Female,Graduate,Taiwan,2.6,LinkedIn,No,7.2,8,Single,1,4,Education,1,Laptop,Sometimes,Poor,3,2nd Year,North,2020
+1219,21,Male,Graduate,Mexico,6.1,WhatsApp,Yes,6.1,6,Single,3,7,News,1,Tablet,Yes,Good,4,3rd Year,Central,2022
+1220,21,Male,Graduate,Malaysia,5.7,WhatsApp,Yes,6.6,6,Single,3,7,Other,2,Mobile,Sometimes,Excellent,1,3rd Year,Central,2022
+1221,21,Male,Undergraduate,Uruguay,3.8,YouTube,No,6.4,7,Single,2,6,Other,4,Desktop,Yes,Excellent,1,1st Year,South,2021
+1222,24,Male,Graduate,Malaysia,2.2,LinkedIn,No,7.4,8,Single,0,3,Other,5,Laptop,Yes,Average,1,2nd Year,North,2024
+1223,21,Male,Graduate,Denmark,2.6,Facebook,No,9.2,8,In Relationship,2,4,News,3,Laptop,Sometimes,Poor,2,4th Year,West,2023
+1224,22,Male,Graduate,Germany,3.4,Instagram,No,8.1,8,Single,1,4,Entertainment,3,Desktop,Yes,Good,4,1st Year,East,2023
+1225,19,Female,Undergraduate,Japan,2.9,LINE,No,8.7,8,Single,1,3,News,1,Laptop,Yes,Good,4,4th Year,Central,2022
+1226,20,Female,Undergraduate,South Korea,5,KakaoTalk,Yes,6.7,6,In Relationship,3,6,Other,1,Laptop,Yes,Average,5,4th Year,East,2025
+1227,19,Female,Undergraduate,Switzerland,3.1,Instagram,No,8.7,8,Single,2,4,Socializing,5,Desktop,Sometimes,Good,4,1st Year,South,2025
+1228,20,Female,Undergraduate,USA,7.6,Whatsapp,Yes,4.7,5,In Relationship,4,9,News,4,Tablet,No,Good,4,3rd Year,North,2021
+1229,21,Male,Graduate,Italy,5.3,Whatsapp,Yes,6.8,5,In Relationship,3,8,Socializing,4,Tablet,Yes,Good,4,1st Year,West,2023
+1230,19,Female,Undergraduate,Spain,4.4,Instagram,Yes,7.5,6,Single,3,7,Socializing,4,Tablet,No,Poor,2,4th Year,North,2022
+1231,24,Female,Graduate,France,4.8,X,No,7.3,7,In Relationship,2,5,Other,3,Tablet,Sometimes,Excellent,2,2nd Year,West,2024
+1232,19,Female,Undergraduate,Switzerland,3.1,Instagram,No,8.7,8,Single,2,4,Socializing,5,Desktop,Sometimes,Good,4,1st Year,South,2023
+1233,21,Male,Graduate,Turkey,5.3,Instagram,Yes,6.9,6,Single,3,7,Entertainment,2,Tablet,No,Poor,3,4th Year,North,2022
+1234,20,Male,Undergraduate,Spain,6.5,Facebook,Yes,6.2,5,Single,4,8,Education,5,Tablet,Yes,Average,2,3rd Year,Central,2022
+1235,22,Male,Graduate,Canada,4.4,Whatsapp,Yes,7.8,6,Single,3,7,News,5,Tablet,No,Poor,1,2nd Year,North,2020
+1236,21,Male,Graduate,Pakistan,4.4,Instagram,Yes,6.9,5,In Relationship,3,7,Education,1,Desktop,No,Average,2,3rd Year,North,2024
+1237,19,Female,Undergraduate,Australia,7.2,Instagram,Yes,4.5,4,Complicated,5,9,Education,2,Mobile,Sometimes,Poor,5,1st Year,Central,2020
+1238,21,Male,Graduate,Italy,5,Instagram,Yes,7.1,5,Single,3,7,Socializing,1,Mobile,Sometimes,Excellent,5,4th Year,South,2021
+1239,19,Female,Undergraduate,Bangladesh,5.2,Instagram,Yes,6.5,6,In Relationship,3,8,Socializing,5,Mobile,Sometimes,Average,4,4th Year,East,2020
+1240,19,Female,Undergraduate,Japan,3.6,LINE,No,8.1,8,Single,1,3,Education,2,Tablet,Sometimes,Good,2,3rd Year,Central,2020
+1241,22,Female,Graduate,Denmark,4.6,X,No,7.3,7,In Relationship,2,5,Other,4,Laptop,Yes,Poor,1,1st Year,West,2023
+1242,20,Female,Undergraduate,UAE,7.1,Instagram,Yes,5.9,5,In Relationship,4,8,Entertainment,5,Laptop,No,Good,1,4th Year,North,2025
+1243,20,Female,Undergraduate,Spain,4.7,Whatsapp,Yes,7.2,6,Single,3,7,News,4,Desktop,Yes,Good,5,2nd Year,North,2022
+1244,19,Female,Undergraduate,Singapore,5.3,Whatsapp,Yes,6.8,6,Single,3,7,Socializing,5,Desktop,Sometimes,Excellent,5,4th Year,West,2024
+1245,19,Female,Undergraduate,Switzerland,3.5,Instagram,No,8.3,8,Single,2,4,Entertainment,4,Laptop,Sometimes,Average,3,3rd Year,North,2020
+1246,21,Female,Undergraduate,Turkey,6.7,Instagram,Yes,6,5,Single,4,8,Entertainment,5,Laptop,Yes,Good,1,2nd Year,South,2024
+1247,20,Female,Undergraduate,Spain,4.1,Whatsapp,Yes,7.8,6,Single,3,7,Entertainment,2,Desktop,No,Excellent,5,1st Year,West,2025
+1248,19,Male,Undergraduate,Ireland,5.8,Instagram,Yes,6.6,6,Single,3,7,News,4,Laptop,Sometimes,Poor,4,1st Year,West,2025
+1249,19,Female,Undergraduate,USA,7,Whatsapp,Yes,5.1,4,In Relationship,4,9,Socializing,1,Tablet,Sometimes,Good,3,1st Year,South,2020
+1250,22,Male,Graduate,Nepal,4.1,Facebook,No,7.9,7,Single,2,5,Education,4,Tablet,No,Excellent,3,2nd Year,West,2021
+1251,21,Male,Graduate,Maldives,4.8,Whatsapp,Yes,4.7,6,In Relationship,4,8,Other,1,Mobile,Yes,Poor,2,4th Year,Central,2020
+1252,22,Male,Graduate,Turkey,4.4,Whatsapp,Yes,7.8,6,Single,3,7,News,3,Desktop,Yes,Poor,4,4th Year,North,2023
+1253,19,Female,Undergraduate,Japan,2.7,LINE,No,8.9,8,Single,1,3,Entertainment,2,Mobile,Yes,Good,5,4th Year,South,2022
+1254,21,Male,Graduate,Bangladesh,6,Facebook,Yes,5.8,5,In Relationship,4,8,Education,4,Mobile,No,Poor,2,2nd Year,West,2021
+1255,23,Male,Graduate,UK,6.3,X,Yes,6.2,5,Single,4,8,Socializing,5,Mobile,Yes,Excellent,3,1st Year,Central,2020
+1256,22,Male,Graduate,Pakistan,3.9,Instagram,Yes,7.9,5,In Relationship,3,7,News,4,Mobile,No,Excellent,4,4th Year,South,2024
+1257,20,Female,Undergraduate,Brazil,5.7,Whatsapp,Yes,6.8,6,Single,3,7,Education,3,Desktop,Sometimes,Average,5,3rd Year,Central,2021
+1258,21,Female,Undergraduate,Switzerland,4.2,Instagram,No,7.5,7,In Relationship,2,5,Education,2,Tablet,No,Excellent,1,3rd Year,Central,2021
+1259,22,Male,Graduate,Russia,4.7,VKontakte,No,7.3,7,Single,2,5,Socializing,3,Laptop,No,Poor,1,2nd Year,South,2020
+1260,19,Female,Undergraduate,UAE,6.8,Instagram,Yes,6.2,5,In Relationship,4,8,Socializing,5,Mobile,Yes,Average,5,1st Year,West,2021
+1261,21,Male,Undergraduate,Japan,4.3,X,No,7.6,8,Single,2,4,Other,5,Desktop,Yes,Average,5,2nd Year,North,2024
+1262,23,Male,Graduate,Belarus,2.5,LinkedIn,No,7.3,8,In Relationship,1,4,Entertainment,4,Laptop,Yes,Excellent,5,1st Year,West,2025
+1263,24,Male,Graduate,Denmark,4.5,X,No,7.3,7,In Relationship,2,5,Education,3,Tablet,Sometimes,Average,2,2nd Year,South,2021
+1264,21,Male,Graduate,Turkey,4.9,Instagram,Yes,7.3,6,Single,3,7,Entertainment,2,Desktop,Sometimes,Poor,4,4th Year,East,2025
+1265,23,Female,Graduate,Spain,6.4,Facebook,Yes,6.2,5,Single,4,8,Socializing,1,Laptop,No,Excellent,5,1st Year,North,2024
+1266,21,Male,Graduate,India,4.5,Facebook,No,8.6,7,In Relationship,2,6,Education,2,Tablet,Sometimes,Poor,2,4th Year,Central,2020
+1267,20,Female,Undergraduate,Switzerland,2.4,Instagram,No,9.4,8,Single,2,4,Other,5,Laptop,Sometimes,Average,2,4th Year,East,2022
+1268,21,Male,Graduate,Mexico,6.5,WhatsApp,Yes,5.7,6,Single,3,7,Entertainment,4,Tablet,Yes,Average,1,2nd Year,North,2021
+1269,20,Female,Undergraduate,USA,7,Whatsapp,Yes,5.3,5,In Relationship,4,9,News,1,Tablet,Sometimes,Good,4,1st Year,West,2022
+1270,19,Female,Undergraduate,India,7,WhatsApp,Yes,5.8,5,In Relationship,4,8,Other,2,Desktop,Sometimes,Poor,4,4th Year,North,2024
+1271,20,Male,Undergraduate,Denmark,4.5,X,No,7.3,7,In Relationship,2,5,Entertainment,1,Laptop,Yes,Excellent,4,2nd Year,Central,2021
+1272,23,Male,Graduate,Canada,5.2,Instagram,Yes,7,6,In Relationship,3,6,Socializing,4,Desktop,Sometimes,Average,2,3rd Year,South,2025
+1273,24,Female,Graduate,France,4.8,X,No,7.3,7,In Relationship,2,5,Other,3,Tablet,Sometimes,Excellent,2,2nd Year,West,2023
+1274,19,Female,Undergraduate,Netherlands,3.7,Whatsapp,No,8.3,8,Single,2,4,Education,3,Tablet,No,Good,2,4th Year,West,2022
+1275,21,Male,Graduate,India,6.3,WhatsApp,Yes,6,5,In Relationship,4,8,News,1,Tablet,Sometimes,Poor,3,1st Year,South,2021
+1276,20,Female,Undergraduate,Bangladesh,4.7,Instagram,Yes,6.8,5,Single,3,7,Socializing,2,Laptop,Sometimes,Poor,3,1st Year,North,2022
+1277,21,Male,Graduate,Pakistan,4.4,Instagram,Yes,6.9,5,In Relationship,3,7,Education,1,Desktop,No,Average,2,3rd Year,North,2021
+1278,22,Male,Graduate,France,4.7,Facebook,No,7.2,7,In Relationship,2,5,Education,1,Desktop,Sometimes,Excellent,5,3rd Year,Central,2020
+1279,22,Male,Graduate,Greece,3.2,Facebook,No,6.9,7,In Relationship,2,5,Other,5,Tablet,Sometimes,Average,3,4th Year,South,2025
+1280,24,Male,Graduate,Italy,4.9,Facebook,No,7.3,7,In Relationship,2,5,Education,3,Laptop,No,Excellent,2,1st Year,North,2022
+1281,22,Male,Graduate,India,5,Facebook,No,7.6,7,In Relationship,2,6,Socializing,2,Mobile,Sometimes,Poor,2,2nd Year,North,2023
+1282,19,Female,Undergraduate,USA,7,Whatsapp,Yes,5.8,4,In Relationship,4,9,Socializing,3,Tablet,Yes,Average,5,2nd Year,West,2023
+1283,19,Female,Undergraduate,Brazil,6.2,WhatsApp,Yes,6.3,6,Single,3,7,Socializing,4,Mobile,Yes,Average,5,2nd Year,Central,2024
+1284,21,Male,Graduate,India,6.3,WhatsApp,Yes,6,5,In Relationship,4,8,News,1,Tablet,Sometimes,Poor,3,1st Year,South,2021
+1285,19,Female,Undergraduate,Bangladesh,5.3,Instagram,Yes,6.1,5,Single,3,7,Entertainment,4,Laptop,Sometimes,Good,1,1st Year,South,2022
+1286,19,Female,Undergraduate,Sri Lanka,4.9,Facebook,No,7.5,7,Single,2,5,Other,2,Desktop,Sometimes,Excellent,3,4th Year,Central,2024
+1287,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.4,4,Single,4,9,Education,5,Desktop,Sometimes,Excellent,4,1st Year,Central,2022
+1288,20,Male,Undergraduate,Hungary,4.2,Whatsapp,Yes,6,6,Complicated,3,7,Socializing,5,Mobile,Sometimes,Poor,4,1st Year,West,2021
+1289,20,Female,Undergraduate,India,5.7,Instagram,Yes,6.1,6,Single,3,7,Entertainment,5,Laptop,Sometimes,Poor,3,1st Year,West,2023
+1290,24,Male,Graduate,USA,5.4,X,Yes,6.8,6,In Relationship,3,7,Socializing,5,Tablet,No,Excellent,1,3rd Year,West,2020
+1291,23,Male,Graduate,UK,6.3,X,Yes,6.2,5,Single,4,8,Socializing,5,Mobile,Yes,Excellent,3,1st Year,Central,2023
+1292,20,Female,Undergraduate,Pakistan,4.2,Instagram,Yes,7.4,5,In Relationship,4,8,Socializing,2,Mobile,Yes,Excellent,2,3rd Year,North,2024
+1293,21,Male,Graduate,Malaysia,5.9,WhatsApp,Yes,6.4,6,Single,3,7,Entertainment,5,Tablet,No,Average,2,1st Year,South,2025
+1294,19,Female,Undergraduate,France,3.1,Instagram,No,8.9,7,In Relationship,2,5,Socializing,2,Desktop,Sometimes,Average,3,3rd Year,South,2020
+1295,22,Male,Graduate,Venezuela,3.3,Facebook,No,6.7,7,In Relationship,2,5,Education,2,Tablet,No,Excellent,4,4th Year,Central,2024
+1296,24,Male,Graduate,Italy,4.9,Facebook,No,7.3,7,In Relationship,2,5,Education,3,Laptop,No,Excellent,2,1st Year,North,2021
+1297,19,Female,Undergraduate,Nepal,6.2,Whatsapp,Yes,4.6,6,Single,4,8,Other,3,Mobile,No,Average,2,2nd Year,East,2020
+1298,22,Female,Graduate,Malta,2.7,LinkedIn,No,7.2,8,In Relationship,1,4,Education,2,Laptop,Yes,Average,3,3rd Year,Central,2024
+1299,19,Female,Undergraduate,Spain,4.8,Instagram,Yes,7.1,6,Single,3,7,Education,1,Desktop,Yes,Average,2,3rd Year,West,2021
+1300,20,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,7,In Relationship,2,5,News,1,Tablet,No,Excellent,3,1st Year,North,2023
+1301,20,Female,Undergraduate,India,5,Instagram,Yes,5,6,In Relationship,3,7,News,3,Desktop,Yes,Poor,5,1st Year,West,2025
+1302,19,Male,Undergraduate,France,4.7,Instagram,No,7.2,7,In Relationship,2,5,Other,3,Desktop,No,Good,1,4th Year,North,2021
+1303,21,Male,Graduate,Denmark,3.8,Facebook,No,8,8,In Relationship,2,4,Other,4,Laptop,No,Good,5,4th Year,East,2022
+1304,22,Male,Graduate,Turkey,4,Whatsapp,Yes,8.2,6,Single,3,7,News,1,Mobile,No,Poor,1,1st Year,North,2021
+1305,20,Male,Undergraduate,Hungary,4.2,Whatsapp,Yes,6,6,Complicated,3,7,Socializing,5,Mobile,Sometimes,Poor,4,1st Year,West,2021
+1306,21,Male,Graduate,India,6.7,WhatsApp,Yes,5.6,5,In Relationship,4,8,Entertainment,1,Desktop,Yes,Average,3,4th Year,North,2025
+1307,20,Female,Undergraduate,South Korea,4.9,KakaoTalk,Yes,6.9,6,Single,3,6,Other,1,Laptop,No,Excellent,3,2nd Year,West,2020
+1308,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5,Single,3,7,News,4,Mobile,Sometimes,Excellent,5,2nd Year,East,2024
+1309,19,Female,Undergraduate,USA,6.6,Whatsapp,Yes,5.6,4,In Relationship,4,9,News,4,Mobile,Yes,Poor,2,2nd Year,South,2025
+1310,22,Female,Graduate,Malta,2.7,LinkedIn,No,7.2,8,In Relationship,1,4,Education,2,Laptop,Yes,Average,3,3rd Year,Central,2025
+1311,19,Female,Undergraduate,Netherlands,3.7,Whatsapp,No,8.3,8,Single,2,4,Education,3,Tablet,No,Good,2,4th Year,West,2021
+1312,19,Female,Undergraduate,Spain,4.4,Instagram,Yes,7.5,6,Single,3,7,Socializing,4,Tablet,No,Poor,2,4th Year,North,2024
+1313,24,Male,Graduate,Malaysia,2.2,LinkedIn,No,7.4,8,Single,0,3,Other,5,Laptop,Yes,Average,1,2nd Year,North,2025
+1314,21,Male,Graduate,Italy,5.3,Whatsapp,Yes,6.8,5,In Relationship,3,8,Socializing,4,Tablet,Yes,Good,4,1st Year,West,2025
+1315,19,Female,Undergraduate,USA,8.3,Instagram,Yes,4,5,In Relationship,4,9,Education,3,Laptop,Sometimes,Poor,1,2nd Year,Central,2023
+1316,21,Male,Graduate,UK,4.6,Facebook,Yes,7,6,In Relationship,3,7,Other,4,Laptop,Sometimes,Poor,3,1st Year,East,2025
+1317,19,Female,Undergraduate,USA,6.9,Whatsapp,Yes,5.7,4,In Relationship,4,9,Other,4,Laptop,Sometimes,Excellent,3,4th Year,North,2023
+1318,22,Male,Graduate,Sri Lanka,5.1,Facebook,Yes,5.1,6,Single,3,7,Socializing,5,Laptop,Yes,Excellent,4,1st Year,Central,2020
+1319,21,Female,Undergraduate,Mexico,6.3,Whatsapp,Yes,6.2,5,Single,4,8,Entertainment,4,Desktop,Sometimes,Poor,3,4th Year,West,2025
+1320,22,Male,Graduate,Germany,3.7,Facebook,No,7.8,8,In Relationship,1,4,Other,5,Laptop,No,Poor,3,2nd Year,Central,2024
+1321,24,Male,Graduate,Denmark,4.5,X,No,7.3,7,In Relationship,2,5,Education,3,Tablet,Sometimes,Average,2,2nd Year,South,2022
+1322,19,Female,Undergraduate,USA,7.3,Instagram,Yes,5,5,In Relationship,4,9,Education,4,Desktop,No,Good,2,1st Year,Central,2022
+1323,21,Male,Graduate,Italy,5.2,Whatsapp,Yes,6.9,5,In Relationship,3,8,Other,5,Laptop,No,Average,1,2nd Year,South,2022
+1324,19,Female,Undergraduate,Switzerland,2.3,Instagram,No,9.5,8,Single,2,4,Education,3,Tablet,Sometimes,Poor,1,3rd Year,North,2020
+1325,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5,Single,3,7,Socializing,4,Laptop,Sometimes,Poor,2,2nd Year,East,2021
+1326,22,Male,Graduate,Canada,5.2,Whatsapp,Yes,7,6,Single,3,7,Other,2,Tablet,No,Poor,2,1st Year,West,2023
+1327,19,Female,Undergraduate,France,3.9,Instagram,No,8.1,7,In Relationship,2,5,Entertainment,1,Desktop,Yes,Poor,4,3rd Year,East,2024
+1328,20,Female,Undergraduate,USA,5.9,Instagram,Yes,6.7,6,In Relationship,3,7,News,5,Tablet,No,Good,3,2nd Year,Central,2021
+1329,20,Female,Undergraduate,USA,6,Whatsapp,Yes,5,5,Complicated,4,9,Socializing,4,Laptop,Sometimes,Excellent,5,4th Year,South,2024
+1330,22,Male,Graduate,Sri Lanka,4.7,Facebook,Yes,4.7,6,Single,3,7,Other,3,Mobile,No,Excellent,2,1st Year,Central,2025
+1331,22,Male,Graduate,Turkey,5,Whatsapp,Yes,7.2,6,Single,3,7,Socializing,5,Mobile,No,Average,1,3rd Year,West,2021
+1332,22,Male,Graduate,India,5.8,WhatsApp,Yes,6.5,5,In Relationship,4,8,News,5,Mobile,No,Poor,3,4th Year,East,2024
+1333,21,Female,Graduate,Maldives,3.8,Instagram,No,8.2,8,In Relationship,2,5,Other,3,Laptop,No,Average,2,4th Year,South,2022
+1334,19,Female,Undergraduate,USA,6.8,Whatsapp,Yes,5.3,4,In Relationship,4,9,Other,3,Laptop,Sometimes,Excellent,2,2nd Year,North,2024
+1335,22,Male,Graduate,Denmark,2.9,Facebook,No,8.9,8,In Relationship,2,4,Other,2,Tablet,No,Average,4,2nd Year,East,2025
+1336,19,Female,Undergraduate,Poland,6.2,Facebook,Yes,6.3,5,Single,4,8,Other,3,Laptop,Yes,Excellent,5,1st Year,East,2025
+1337,23,Female,Graduate,Taiwan,2.6,LinkedIn,No,7.2,8,Single,1,4,Education,1,Laptop,Sometimes,Poor,3,2nd Year,North,2023
+1338,19,Female,Undergraduate,Japan,4.5,X,No,7.6,8,Single,2,4,Education,3,Desktop,Sometimes,Average,2,4th Year,North,2021
+1339,20,Female,Undergraduate,France,3.8,Instagram,No,8.2,7,In Relationship,2,5,Education,2,Laptop,Yes,Average,4,4th Year,Central,2025
+1340,20,Female,Undergraduate,Sri Lanka,4.4,Facebook,No,8.5,7,Single,2,5,Entertainment,5,Desktop,Sometimes,Average,2,3rd Year,West,2023
+1341,19,Female,Undergraduate,USA,7.9,Instagram,Yes,4.4,5,In Relationship,4,9,Other,1,Laptop,Sometimes,Average,2,2nd Year,West,2021
+1342,23,Male,Graduate,Canada,5.7,Whatsapp,Yes,6.6,6,Single,3,7,Socializing,4,Tablet,Sometimes,Average,5,3rd Year,East,2025
+1343,20,Female,Undergraduate,Nepal,5.9,Whatsapp,Yes,5.2,6,Single,4,8,Education,5,Desktop,Sometimes,Excellent,3,3rd Year,West,2021
+1344,22,Male,Graduate,Poland,3.1,Facebook,No,7.1,7,Single,1,5,Entertainment,2,Laptop,Sometimes,Good,3,1st Year,West,2024
+1345,23,Male,Graduate,Canada,5.2,Instagram,Yes,7,6,In Relationship,3,6,Socializing,4,Desktop,Sometimes,Average,2,3rd Year,South,2022
+1346,19,Female,Undergraduate,USA,7,Whatsapp,Yes,5.8,4,In Relationship,4,9,Socializing,3,Tablet,Yes,Average,5,2nd Year,West,2024
+1347,21,Male,Graduate,Mexico,6.7,WhatsApp,Yes,5.5,6,Single,3,7,Socializing,3,Tablet,No,Poor,2,3rd Year,West,2024
+1348,19,Male,Undergraduate,France,4.8,Snapchat,Yes,6.2,5,Complicated,3,7,Socializing,5,Mobile,No,Good,3,2nd Year,East,2020
+1349,20,Female,Undergraduate,Pakistan,5,Instagram,Yes,6.6,5,In Relationship,4,8,Socializing,1,Tablet,Sometimes,Excellent,1,4th Year,East,2024
+1350,21,Male,Graduate,Italy,5.5,Instagram,Yes,6.8,6,Single,3,7,Education,4,Tablet,No,Poor,1,1st Year,East,2020
+1351,22,Male,Graduate,Russia,4,VKontakte,No,8,7,Single,2,5,Entertainment,2,Desktop,Sometimes,Average,3,4th Year,South,2024
+1352,22,Male,Graduate,New Zealand,4.1,Instagram,Yes,8.1,7,In Relationship,3,6,Entertainment,2,Laptop,No,Poor,1,3rd Year,North,2021
+1353,20,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,7,In Relationship,2,5,News,1,Tablet,No,Excellent,3,1st Year,North,2024
+1354,19,Female,Undergraduate,Japan,3.6,LINE,No,8.1,8,Single,1,3,Education,2,Tablet,Sometimes,Good,2,3rd Year,Central,2022
+1355,20,Female,Undergraduate,Switzerland,2.4,Instagram,No,9.4,8,Single,2,4,Other,5,Laptop,Sometimes,Average,2,4th Year,East,2020
+1356,21,Male,Graduate,Mexico,7.1,WhatsApp,Yes,5.1,6,Single,3,7,Entertainment,5,Mobile,No,Good,1,1st Year,North,2024
+1357,21,Male,Graduate,Italy,5.5,Instagram,Yes,6.8,6,Single,3,7,Education,4,Tablet,No,Poor,1,1st Year,East,2023
+1358,21,Male,Graduate,Italy,5,Instagram,Yes,7.1,5,Single,3,7,Socializing,1,Mobile,Sometimes,Excellent,5,4th Year,South,2023
+1359,21,Male,Graduate,Pakistan,3.8,Instagram,Yes,8.1,5,In Relationship,3,7,News,5,Mobile,Yes,Excellent,4,2nd Year,West,2020
+1360,22,Male,Graduate,Pakistan,3.9,Instagram,Yes,7.9,5,In Relationship,3,7,News,4,Mobile,No,Excellent,4,4th Year,South,2024
+1361,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.8,4,Single,4,9,Other,4,Desktop,Sometimes,Good,5,1st Year,North,2020
+1362,21,Male,Graduate,Malaysia,5.5,WhatsApp,Yes,6.8,6,Single,3,7,Socializing,3,Tablet,No,Good,5,4th Year,East,2020
+1363,20,Female,Undergraduate,South Korea,5,KakaoTalk,Yes,6.7,6,In Relationship,3,6,Other,1,Laptop,Yes,Average,5,4th Year,East,2025
+1364,19,Female,High School,Costa Rica,5.7,Instagram,Yes,5.5,5,Single,4,8,Other,1,Desktop,Sometimes,Excellent,3,3rd Year,East,2020
+1365,19,Female,Undergraduate,Switzerland,3.1,Instagram,No,8.7,8,Single,2,4,Socializing,5,Desktop,Sometimes,Good,4,1st Year,South,2020
+1366,24,Male,Graduate,Spain,6.5,Facebook,Yes,6.1,5,Single,4,8,Education,2,Tablet,No,Average,1,1st Year,Central,2021
+1367,20,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,7,In Relationship,2,5,News,1,Tablet,No,Excellent,3,1st Year,North,2024
+1368,20,Female,Undergraduate,Netherlands,3.8,Instagram,No,8.2,8,Single,2,4,Other,1,Tablet,No,Good,5,2nd Year,Central,2020
+1369,21,Male,Graduate,Canada,4.4,Instagram,Yes,7.8,7,Single,3,6,News,1,Desktop,No,Good,1,3rd Year,North,2021
+1370,20,Female,Undergraduate,France,3.6,Instagram,No,8.4,7,In Relationship,2,5,News,3,Tablet,No,Good,2,1st Year,South,2023
+1371,23,Male,Graduate,Spain,6.5,Facebook,Yes,6.1,5,Single,4,8,Entertainment,3,Tablet,No,Average,3,2nd Year,South,2021
+1372,21,Female,Graduate,Pakistan,5.2,Instagram,Yes,6.4,5,In Relationship,4,8,Entertainment,1,Desktop,No,Poor,2,4th Year,East,2020
+1373,19,Female,Undergraduate,Romania,5.6,Instagram,Yes,5.6,5,In Relationship,3,8,News,2,Mobile,Yes,Average,3,4th Year,West,2020
+1374,22,Male,Graduate,Poland,4.2,Facebook,No,7.9,7,Single,2,5,News,1,Mobile,Sometimes,Poor,1,2nd Year,East,2021
+1375,22,Male,Graduate,India,4.4,Facebook,No,8.8,7,In Relationship,2,6,Education,1,Tablet,No,Poor,4,2nd Year,Central,2024
+1376,20,Female,Undergraduate,USA,6,Whatsapp,Yes,5,5,Complicated,4,9,Socializing,4,Laptop,Sometimes,Excellent,5,4th Year,South,2020
+1377,20,Female,Undergraduate,India,4.6,Instagram,Yes,4.6,6,In Relationship,3,7,Socializing,4,Laptop,Sometimes,Average,3,1st Year,South,2025
+1378,22,Male,Graduate,Turkey,4,Whatsapp,Yes,8.2,6,Single,3,7,News,1,Mobile,No,Poor,1,1st Year,North,2022
+1379,22,Male,Graduate,Maldives,4.9,Whatsapp,Yes,4.9,6,In Relationship,4,8,Socializing,1,Laptop,Sometimes,Good,4,2nd Year,North,2022
+1380,20,Female,Undergraduate,Peru,5.5,Whatsapp,Yes,5.6,5,Single,4,8,Other,1,Tablet,Sometimes,Average,5,2nd Year,West,2023
+1381,20,Male,Undergraduate,Italy,4.6,Facebook,No,7.2,7,In Relationship,2,5,Socializing,4,Laptop,Yes,Excellent,2,1st Year,North,2022
+1382,19,Female,Undergraduate,France,4.5,Instagram,No,7.5,7,In Relationship,2,5,Other,1,Laptop,Yes,Excellent,4,1st Year,North,2023
+1383,23,Male,Graduate,Canada,5.2,Instagram,Yes,7,6,In Relationship,3,6,Socializing,4,Desktop,Sometimes,Average,2,3rd Year,South,2025
+1384,23,Male,Graduate,UK,6.3,X,Yes,6.2,5,Single,4,8,Socializing,5,Mobile,Yes,Excellent,3,1st Year,Central,2020
+1385,20,Female,Undergraduate,Mexico,6.2,Facebook,Yes,6.3,5,Single,4,8,Entertainment,5,Laptop,No,Excellent,3,4th Year,South,2024
+1386,22,Female,Graduate,China,5.7,WeChat,Yes,6.7,6,In Relationship,3,7,Other,1,Tablet,Yes,Poor,4,4th Year,Central,2023
+1387,22,Male,Graduate,Mexico,6.3,Facebook,Yes,6.2,5,Single,4,8,Other,2,Laptop,No,Excellent,4,4th Year,North,2024
+1388,21,Male,Graduate,Mexico,6.1,WhatsApp,Yes,6.1,6,Single,3,7,News,1,Tablet,Yes,Good,4,3rd Year,Central,2024
+1389,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5,Single,3,7,Socializing,4,Laptop,Sometimes,Poor,2,2nd Year,East,2020
+1390,22,Male,Graduate,India,7.2,Facebook,Yes,5.7,4,Single,5,9,Entertainment,1,Tablet,Sometimes,Poor,4,2nd Year,South,2020
+1391,21,Male,Graduate,Pakistan,4.6,Instagram,Yes,6.5,5,In Relationship,3,7,Education,3,Desktop,Sometimes,Excellent,5,2nd Year,South,2020
+1392,19,Female,Undergraduate,Brazil,6,WhatsApp,Yes,6.5,6,Single,3,7,News,4,Laptop,Sometimes,Poor,5,2nd Year,East,2022
+1393,20,Female,Undergraduate,Morocco,4.5,Whatsapp,Yes,5.8,6,Single,3,7,Entertainment,2,Tablet,Sometimes,Poor,5,3rd Year,North,2025
+1394,19,Female,Undergraduate,Bangladesh,5.3,Instagram,Yes,6.1,5,Single,3,7,Entertainment,4,Laptop,Sometimes,Good,1,1st Year,South,2022
+1395,24,Female,Graduate,France,4.8,X,No,7.3,7,In Relationship,2,5,Other,3,Tablet,Sometimes,Excellent,2,2nd Year,West,2022
+1396,22,Male,Graduate,Nepal,4.1,Facebook,No,7.9,7,Single,2,5,Education,4,Tablet,No,Excellent,3,2nd Year,West,2025
+1397,21,Male,Graduate,Denmark,4.1,Facebook,No,7.8,8,In Relationship,2,4,Education,3,Mobile,Sometimes,Excellent,3,4th Year,Central,2025
+1398,19,Female,Undergraduate,UAE,6.6,Instagram,Yes,6.4,5,In Relationship,4,8,Education,2,Mobile,No,Excellent,5,1st Year,South,2025
+1399,22,Male,Graduate,France,4.7,Facebook,No,7.2,7,In Relationship,2,5,Education,1,Desktop,Sometimes,Excellent,5,3rd Year,Central,2023
+1400,19,Female,High School,UAE,6.2,Instagram,Yes,5.1,5,In Relationship,4,9,Entertainment,4,Mobile,Yes,Excellent,1,1st Year,East,2020
+1401,22,Male,Graduate,Mexico,5.6,WhatsApp,Yes,6.6,6,Single,3,7,News,1,Laptop,Sometimes,Good,5,4th Year,North,2021
+1402,21,Male,Graduate,India,6.3,WhatsApp,Yes,6,5,In Relationship,4,8,News,1,Tablet,Sometimes,Poor,3,1st Year,South,2023
+1403,21,Male,Graduate,India,4.5,Facebook,No,8.6,7,In Relationship,2,6,Education,2,Tablet,Sometimes,Poor,2,4th Year,Central,2022
+1404,19,Female,Undergraduate,Canada,5.7,Instagram,Yes,6.6,6,Single,3,7,Education,2,Desktop,Sometimes,Poor,3,3rd Year,South,2020
+1405,21,Male,Graduate,India,7.1,WhatsApp,Yes,5.2,5,In Relationship,4,8,Socializing,5,Desktop,Yes,Good,3,2nd Year,Central,2025
+1406,22,Male,Graduate,Israel,3.1,Facebook,No,6.8,7,Single,1,5,Other,3,Laptop,Yes,Average,2,3rd Year,North,2025
+1407,21,Male,Graduate,Canada,5.1,Instagram,Yes,7.1,6,Single,3,7,Socializing,4,Mobile,No,Poor,4,1st Year,East,2020
+1408,21,Male,Graduate,Turkey,4.3,Instagram,Yes,7.9,6,Single,3,7,News,2,Laptop,Sometimes,Average,4,2nd Year,Central,2025
+1409,21,Male,Graduate,Canada,5.1,Instagram,Yes,7.1,6,Single,3,7,Socializing,4,Mobile,No,Poor,4,1st Year,East,2023
+1410,21,Female,Undergraduate,Turkey,6.9,Whatsapp,Yes,6.1,5,Single,4,8,Socializing,2,Laptop,Yes,Good,1,2nd Year,North,2022
+1411,18,Male,High School,Kuwait,5.7,Snapchat,Yes,5.3,5,In Relationship,4,8,Education,5,Laptop,Sometimes,Average,5,1st Year,Central,2023
+1412,22,Male,Graduate,Germany,3.4,Instagram,No,8.1,8,Single,1,4,Entertainment,3,Desktop,Yes,Good,4,1st Year,East,2023
+1413,22,Male,Graduate,Germany,4.2,Facebook,No,7.8,7,In Relationship,2,4,News,5,Desktop,No,Good,1,1st Year,East,2024
+1414,21,Male,Graduate,UK,4.6,Facebook,Yes,7,6,In Relationship,3,7,Other,4,Laptop,Sometimes,Poor,3,1st Year,East,2024
+1415,19,Female,Undergraduate,France,4.3,Instagram,No,7.7,7,In Relationship,2,5,Entertainment,3,Laptop,Sometimes,Poor,2,4th Year,South,2021
+1416,20,Male,Undergraduate,Sri Lanka,5.2,Whatsapp,Yes,6.3,6,In Relationship,3,7,Other,3,Desktop,No,Good,5,4th Year,Central,2023
+1417,24,Male,Graduate,France,4.8,Facebook,No,7.1,7,In Relationship,2,5,Other,1,Tablet,Yes,Poor,4,1st Year,East,2024
+1418,22,Male,Graduate,Germany,3.4,Instagram,No,8.1,8,Single,1,4,Entertainment,3,Desktop,Yes,Good,4,1st Year,East,2023
+1419,20,Female,Undergraduate,Morocco,4.5,Whatsapp,Yes,5.8,6,Single,3,7,Entertainment,2,Tablet,Sometimes,Poor,5,3rd Year,North,2020
+1420,19,Female,Undergraduate,Sri Lanka,4.9,Facebook,No,7.5,7,Single,2,5,Other,2,Desktop,Sometimes,Excellent,3,4th Year,Central,2025
+1421,22,Male,Graduate,India,4.4,Facebook,No,8.8,7,In Relationship,2,6,Education,1,Tablet,No,Poor,4,2nd Year,Central,2023
+1422,21,Female,Graduate,India,5.6,Instagram,Yes,5.6,6,In Relationship,3,7,Socializing,1,Mobile,Sometimes,Excellent,1,4th Year,North,2020
+1423,22,Male,Graduate,Turkey,5.4,Whatsapp,Yes,6.8,6,Single,3,7,Education,5,Tablet,Yes,Excellent,1,2nd Year,North,2022
+1424,21,Male,Graduate,Turkey,5.3,Instagram,Yes,6.9,6,Single,3,7,Entertainment,2,Tablet,No,Poor,3,4th Year,North,2020
+1425,19,Female,Undergraduate,Albania,4.7,Whatsapp,Yes,5.8,6,Complicated,3,7,Education,5,Laptop,Sometimes,Average,1,2nd Year,North,2024
+1426,19,Female,Undergraduate,Ireland,4.6,Instagram,Yes,7.3,7,Single,3,6,News,2,Desktop,Sometimes,Average,5,3rd Year,North,2024
+1427,20,Female,Undergraduate,Spain,6.1,Instagram,Yes,7.2,5,Single,4,7,Education,4,Desktop,No,Poor,1,2nd Year,South,2025
+1428,20,Female,Undergraduate,Australia,4.1,Instagram,No,7.7,7,Single,2,5,Entertainment,5,Laptop,No,Poor,5,1st Year,West,2024
+1429,22,Male,Graduate,Turkey,4,Whatsapp,Yes,8.2,6,Single,3,7,News,1,Mobile,No,Poor,1,1st Year,North,2020
+1430,20,Female,Undergraduate,Ireland,4.5,Whatsapp,Yes,7.4,7,Single,3,6,Education,1,Laptop,Yes,Average,5,1st Year,North,2021
+1431,19,Female,Undergraduate,UAE,7,Instagram,Yes,6,5,In Relationship,4,8,Other,3,Desktop,Yes,Excellent,5,3rd Year,North,2024
+1432,20,Female,Undergraduate,Ireland,4.5,Whatsapp,Yes,7.4,7,Single,3,6,Education,1,Laptop,Yes,Average,5,1st Year,North,2023
+1433,22,Male,Graduate,Turkey,5.2,Whatsapp,Yes,7,6,Single,3,7,Entertainment,2,Laptop,Sometimes,Poor,3,2nd Year,South,2021
+1434,20,Female,Undergraduate,Bangladesh,4.5,Instagram,Yes,7.2,5,Single,3,7,Entertainment,3,Desktop,Sometimes,Excellent,5,3rd Year,East,2020
+1435,21,Male,Graduate,Denmark,3,Facebook,No,8.8,8,In Relationship,2,4,News,1,Laptop,No,Excellent,2,1st Year,North,2020
+1436,22,Male,Graduate,UK,6.2,X,Yes,6.3,5,Single,4,8,Other,3,Desktop,Sometimes,Good,3,3rd Year,South,2021
+1437,23,Male,Graduate,Germany,1.5,LinkedIn,No,8,9,Single,0,2,News,1,Desktop,Sometimes,Poor,1,3rd Year,Central,2024
+1438,22,Male,Graduate,Sri Lanka,5.5,Facebook,Yes,5.5,6,Single,3,7,Entertainment,1,Mobile,No,Good,2,4th Year,South,2021
+1439,19,Female,Undergraduate,UAE,7,Instagram,Yes,6,5,In Relationship,4,8,Other,3,Desktop,Yes,Excellent,5,3rd Year,North,2023
+1440,22,Female,Graduate,Bahrain,2.8,LinkedIn,No,7.1,8,Complicated,1,4,Education,4,Laptop,Sometimes,Excellent,5,1st Year,North,2024
+1441,21,Male,Graduate,Canada,4.5,Facebook,Yes,6,6,In Relationship,2,7,Education,4,Desktop,Sometimes,Average,2,1st Year,West,2023
+1442,19,Female,Undergraduate,Japan,3.6,LINE,No,8.1,8,Single,1,3,Education,2,Tablet,Sometimes,Good,2,3rd Year,Central,2022
+1443,20,Female,Undergraduate,Singapore,5.4,Whatsapp,Yes,6.7,6,Single,3,7,Entertainment,3,Laptop,Sometimes,Good,3,3rd Year,West,2023
+1444,21,Male,Graduate,Turkey,4.5,Instagram,Yes,7.7,6,Single,3,7,Other,3,Tablet,Sometimes,Excellent,1,2nd Year,North,2023
+1445,23,Male,Graduate,Finland,4.3,Instagram,No,7.5,7,In Relationship,2,5,Other,5,Mobile,Sometimes,Poor,5,1st Year,North,2021
+1446,20,Female,Undergraduate,Ireland,4.5,Whatsapp,Yes,7.4,7,Single,3,6,Education,1,Laptop,Yes,Average,5,1st Year,North,2021
+1447,19,Female,Undergraduate,Azerbaijan,4.8,Whatsapp,Yes,5.7,6,Single,3,7,Socializing,3,Tablet,Sometimes,Average,2,3rd Year,North,2025
+1448,22,Male,Graduate,Turkey,5.2,Whatsapp,Yes,7,6,Single,3,7,Entertainment,2,Laptop,Sometimes,Poor,3,2nd Year,South,2024
+1449,19,Female,Undergraduate,USA,7,Whatsapp,Yes,5.8,4,In Relationship,4,9,Socializing,3,Tablet,Yes,Average,5,2nd Year,West,2023
+1450,20,Female,Undergraduate,Denmark,4.4,Instagram,No,7.4,7,In Relationship,2,5,Entertainment,1,Desktop,Yes,Poor,2,1st Year,South,2022
+1451,20,Female,Undergraduate,Australia,4.2,Facebook,No,7.6,7,In Relationship,2,5,Entertainment,1,Laptop,Sometimes,Excellent,1,2nd Year,East,2024
+1452,19,Male,Undergraduate,Ireland,5.8,Instagram,Yes,6.6,6,Single,3,7,News,4,Laptop,Sometimes,Poor,4,1st Year,West,2021
+1453,21,Female,Graduate,Pakistan,4.8,Instagram,Yes,6.8,5,In Relationship,4,8,Entertainment,4,Mobile,Yes,Poor,1,3rd Year,South,2025
+1454,19,Female,Undergraduate,Spain,4,Instagram,Yes,7.9,6,Single,3,7,News,4,Mobile,No,Good,3,3rd Year,Central,2023
+1455,20,Female,Undergraduate,Brazil,5.7,Whatsapp,Yes,6.8,6,Single,3,7,Education,3,Desktop,Sometimes,Average,5,3rd Year,Central,2025
+1456,24,Male,Graduate,Sweden,2,LinkedIn,No,7.8,8,Single,0,3,Other,1,Mobile,Yes,Good,4,2nd Year,West,2022
+1457,22,Male,Graduate,Canada,5,Whatsapp,Yes,7.2,6,Single,3,7,Socializing,1,Tablet,Yes,Poor,5,4th Year,Central,2023
+1458,20,Female,Undergraduate,Spain,4.1,Whatsapp,Yes,7.8,6,Single,3,7,Entertainment,2,Desktop,No,Excellent,5,1st Year,West,2020
+1459,22,Male,Graduate,Poland,3.1,Facebook,No,7.1,7,Single,1,5,Entertainment,2,Laptop,Sometimes,Good,3,1st Year,West,2025
+1460,22,Male,Graduate,UK,6.2,X,Yes,6.3,5,Single,4,8,Other,3,Desktop,Sometimes,Good,3,3rd Year,South,2020
+1461,22,Male,Graduate,Mexico,6.8,WhatsApp,Yes,5.4,6,Single,3,7,News,4,Tablet,No,Excellent,1,4th Year,South,2020
+1462,21,Male,Graduate,India,6.3,WhatsApp,Yes,6,5,In Relationship,4,8,News,1,Tablet,Sometimes,Poor,3,1st Year,South,2024
+1463,19,Female,Undergraduate,Switzerland,3.5,Instagram,No,8.3,8,Single,2,4,Entertainment,4,Laptop,Sometimes,Average,3,3rd Year,North,2023
+1464,19,Female,Undergraduate,Ireland,5.9,Instagram,Yes,6.5,6,Single,3,7,Entertainment,3,Mobile,No,Average,2,1st Year,South,2020
+1465,20,Female,Undergraduate,India,7.3,WhatsApp,Yes,5.5,5,In Relationship,4,8,Other,2,Tablet,Yes,Excellent,2,2nd Year,West,2023
+1466,20,Female,Undergraduate,USA,8.2,Whatsapp,Yes,4.1,5,In Relationship,4,9,Education,1,Tablet,No,Average,4,2nd Year,West,2023
+1467,21,Male,Graduate,India,6.7,WhatsApp,Yes,5.6,5,In Relationship,4,8,Entertainment,1,Desktop,Yes,Average,3,4th Year,North,2022
+1468,23,Male,Graduate,Poland,6.4,Facebook,Yes,6.3,5,Single,4,8,Other,5,Laptop,Sometimes,Excellent,2,2nd Year,East,2025
+1469,20,Female,Undergraduate,Brazil,5.7,Whatsapp,Yes,6.8,6,Single,3,7,Education,3,Desktop,Sometimes,Average,5,3rd Year,Central,2022
+1470,19,Male,Undergraduate,Ireland,5.8,Instagram,Yes,6.6,6,Single,3,7,News,4,Laptop,Sometimes,Poor,4,1st Year,West,2023
+1471,21,Male,Graduate,Pakistan,4.2,Instagram,Yes,7.3,5,In Relationship,3,7,Other,2,Laptop,No,Average,3,4th Year,South,2023
+1472,23,Male,Graduate,Denmark,3.8,X,No,7.8,8,In Relationship,2,4,Entertainment,1,Laptop,Yes,Poor,1,1st Year,North,2024
+1473,20,Female,Undergraduate,Switzerland,3.8,Instagram,No,8,8,Single,2,4,Entertainment,3,Tablet,Yes,Poor,1,1st Year,West,2021
+1474,21,Female,Undergraduate,Turkey,6.7,Instagram,Yes,6,5,Single,4,8,Entertainment,5,Laptop,Yes,Good,1,2nd Year,South,2020
+1475,22,Male,Graduate,Israel,3.1,Facebook,No,6.8,7,Single,1,5,Other,3,Laptop,Yes,Average,2,3rd Year,North,2022
+1476,20,Female,Undergraduate,India,5.7,Instagram,Yes,6.1,6,Single,3,7,Entertainment,5,Laptop,Sometimes,Poor,3,1st Year,West,2024
+1477,21,Male,Graduate,UK,5.1,Instagram,Yes,6.5,6,Single,3,7,Socializing,3,Tablet,Sometimes,Poor,2,2nd Year,West,2024
+1478,21,Male,Graduate,Malaysia,5.7,WhatsApp,Yes,6.6,6,Single,3,7,Other,2,Mobile,Sometimes,Excellent,1,3rd Year,Central,2024
+1479,23,Male,Graduate,Germany,1.5,LinkedIn,No,8,9,Single,0,2,News,1,Desktop,Sometimes,Poor,1,3rd Year,Central,2024
+1480,22,Male,Graduate,India,7.4,WhatsApp,Yes,4.9,5,In Relationship,4,8,News,3,Tablet,Yes,Excellent,2,3rd Year,West,2025
+1481,21,Male,Graduate,India,4.5,Facebook,No,8.6,7,In Relationship,2,6,Education,2,Tablet,Sometimes,Poor,2,4th Year,Central,2024
+1482,21,Male,Graduate,Mexico,5.9,WhatsApp,Yes,6.3,6,Single,3,7,News,2,Desktop,Sometimes,Poor,5,3rd Year,South,2022
+1483,22,Male,Graduate,India,4.8,Facebook,No,8,7,In Relationship,2,6,Socializing,4,Desktop,No,Average,2,4th Year,East,2023
+1484,21,Male,Graduate,Canada,5.1,Instagram,Yes,7.1,6,Single,3,7,Socializing,4,Mobile,No,Poor,4,1st Year,East,2020
+1485,22,Male,Graduate,New Zealand,4.5,Facebook,Yes,7.7,7,In Relationship,3,6,Socializing,2,Desktop,Yes,Good,5,2nd Year,North,2020
+1486,22,Female,Graduate,Denmark,4.6,X,No,7.3,7,In Relationship,2,5,Other,4,Laptop,Yes,Poor,1,1st Year,West,2020
+1487,19,Female,Undergraduate,Spain,4.4,Instagram,Yes,7.5,6,Single,3,7,Socializing,4,Tablet,No,Poor,2,4th Year,North,2022
+1488,19,Male,Undergraduate,Colombia,4.8,Instagram,Yes,5.9,6,In Relationship,3,7,Entertainment,1,Desktop,Yes,Average,1,1st Year,Central,2022
+1489,19,Female,Undergraduate,Poland,6.2,Facebook,Yes,6.3,5,Single,4,8,Other,3,Laptop,Yes,Excellent,5,1st Year,East,2023
+1490,23,Female,Graduate,Switzerland,2.5,LinkedIn,No,7.3,8,In Relationship,1,4,Entertainment,2,Tablet,No,Excellent,5,4th Year,West,2021
+1491,21,Male,Graduate,India,7.3,WhatsApp,Yes,5,5,In Relationship,4,8,Entertainment,3,Laptop,Sometimes,Average,2,3rd Year,East,2023
+1492,22,Male,Graduate,Maldives,4.9,Whatsapp,Yes,4.9,6,In Relationship,4,8,Socializing,1,Laptop,Sometimes,Good,4,2nd Year,North,2020
+1493,21,Male,Graduate,India,4.5,Facebook,No,8.6,7,In Relationship,2,6,Education,2,Tablet,Sometimes,Poor,2,4th Year,Central,2025
+1494,21,Male,Graduate,Italy,5,Instagram,Yes,7.1,5,Single,3,7,Socializing,1,Mobile,Sometimes,Excellent,5,4th Year,South,2022
+1495,19,Female,Undergraduate,France,3.1,Instagram,No,8.9,7,In Relationship,2,5,Socializing,2,Desktop,Sometimes,Average,3,3rd Year,South,2020
+1496,24,Male,Graduate,Japan,4.3,X,No,7.5,8,Single,2,4,Other,2,Tablet,Sometimes,Poor,4,3rd Year,West,2020
+1497,19,Female,Undergraduate,Japan,4.2,X,No,7.5,8,Single,2,4,Education,4,Desktop,No,Good,3,3rd Year,North,2024
+1498,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.4,4,Single,4,9,Education,5,Desktop,Sometimes,Excellent,4,1st Year,Central,2023
+1499,21,Male,Graduate,Denmark,3.2,Facebook,No,8.6,8,In Relationship,2,4,Other,5,Tablet,Sometimes,Excellent,3,2nd Year,North,2020
+1500,21,Male,Graduate,India,6.3,WhatsApp,Yes,6,5,In Relationship,4,8,News,1,Tablet,Sometimes,Poor,3,1st Year,South,2020
+1501,21,Male,Graduate,Maldives,4.8,Whatsapp,Yes,4.7,6,In Relationship,4,8,Other,1,Mobile,Yes,Poor,2,4th Year,Central,2023
+1502,21,Male,Graduate,Canada,3.9,Instagram,Yes,8.3,6,Single,3,7,Other,3,Tablet,Yes,Poor,2,3rd Year,West,2021
+1503,19,Female,Undergraduate,Spain,4.6,Instagram,Yes,7.3,6,Single,3,7,News,5,Mobile,No,Poor,2,4th Year,South,2025
+1504,22,Male,Graduate,Canada,4,Whatsapp,Yes,8.2,6,Single,3,7,Other,5,Laptop,No,Average,3,3rd Year,East,2023
+1505,22,Male,Graduate,Italy,2.8,LinkedIn,No,7.2,8,Single,1,4,Other,2,Laptop,No,Excellent,3,1st Year,East,2025
+1506,24,Male,Graduate,Malaysia,2.2,LinkedIn,No,7.4,8,Single,0,3,Other,5,Laptop,Yes,Average,1,2nd Year,North,2024
+1507,20,Female,Undergraduate,Singapore,4.4,Whatsapp,Yes,5.9,6,In Relationship,3,7,Other,4,Mobile,No,Average,5,2nd Year,East,2024
+1508,20,Female,Undergraduate,France,3.2,Instagram,No,8.8,7,In Relationship,2,5,Entertainment,4,Mobile,No,Poor,1,1st Year,North,2025
+1509,22,Male,Graduate,New Zealand,4.5,Facebook,Yes,7.7,7,In Relationship,3,6,Socializing,2,Desktop,Yes,Good,5,2nd Year,North,2020
+1510,20,Male,Undergraduate,Tajikistan,4.7,YouTube,Yes,5.9,6,Single,3,7,News,5,Mobile,Sometimes,Excellent,5,2nd Year,North,2024
+1511,20,Male,Undergraduate,Bangladesh,6.1,Instagram,Yes,6.2,5,Single,4,8,News,3,Mobile,Yes,Good,3,3rd Year,Central,2021
+1512,20,Female,Undergraduate,France,3.2,Instagram,No,8.8,7,In Relationship,2,5,Entertainment,4,Mobile,No,Poor,1,1st Year,North,2024
+1513,21,Male,Graduate,Canada,4.2,Instagram,Yes,8,7,Single,3,6,Entertainment,1,Tablet,No,Excellent,4,3rd Year,West,2022
+1514,22,Male,Graduate,India,7.2,Facebook,Yes,5.7,4,Single,5,9,Entertainment,1,Tablet,Sometimes,Poor,4,2nd Year,South,2021
+1515,22,Male,Graduate,Malaysia,5.6,WhatsApp,Yes,6.7,6,Single,3,7,Socializing,1,Tablet,Sometimes,Average,2,4th Year,West,2023
+1516,20,Female,Undergraduate,Netherlands,3.8,Instagram,No,8.2,8,Single,2,4,Other,1,Tablet,No,Good,5,2nd Year,Central,2021
+1517,19,Female,Undergraduate,USA,7.5,Instagram,Yes,4.8,5,In Relationship,4,9,Socializing,5,Tablet,Sometimes,Good,4,3rd Year,Central,2024
+1518,21,Male,Undergraduate,Egypt,3.9,YouTube,No,6.5,7,Complicated,2,6,Socializing,1,Desktop,Yes,Average,3,1st Year,South,2020
+1519,22,Male,Graduate,Venezuela,3.3,Facebook,No,6.7,7,In Relationship,2,5,Education,2,Tablet,No,Excellent,4,4th Year,Central,2023
+1520,20,Male,Undergraduate,Sri Lanka,5.9,Facebook,Yes,5.9,6,Single,3,7,Socializing,1,Mobile,Sometimes,Excellent,1,1st Year,South,2022
+1521,19,Female,Undergraduate,France,3.3,Instagram,No,8.7,7,In Relationship,2,5,Other,2,Mobile,Yes,Average,5,1st Year,West,2023
+1522,22,Male,Graduate,Sri Lanka,4.7,Facebook,Yes,4.7,6,Single,3,7,Other,3,Mobile,No,Excellent,2,1st Year,Central,2023
+1523,24,Female,Graduate,Poland,6.1,Whatsapp,Yes,6.4,5,Single,4,8,Education,4,Desktop,No,Poor,2,1st Year,West,2022
+1524,19,Male,Undergraduate,Ukraine,4.9,Whatsapp,Yes,5.7,6,Complicated,3,7,Education,5,Laptop,No,Poor,2,4th Year,North,2021
+1525,22,Male,Graduate,India,4.4,Facebook,No,8.8,7,In Relationship,2,6,Education,1,Tablet,No,Poor,4,2nd Year,Central,2021
+1526,24,Female,Graduate,Ireland,5.9,X,Yes,6.6,6,Single,3,7,Other,3,Desktop,Yes,Poor,3,3rd Year,North,2024
+1527,19,Female,Undergraduate,Japan,3.8,LINE,No,7.9,8,Single,1,3,News,5,Tablet,Sometimes,Poor,3,2nd Year,Central,2021
+1528,19,Male,Undergraduate,Denmark,4.7,Instagram,No,7.2,7,In Relationship,2,5,Other,3,Laptop,Yes,Average,4,3rd Year,Central,2024
+1529,19,Female,Undergraduate,Nepal,6.2,Whatsapp,Yes,4.6,6,Single,4,8,Other,3,Mobile,No,Average,2,2nd Year,East,2020
+1530,22,Male,Graduate,Sri Lanka,5.1,Facebook,Yes,5.1,6,Single,3,7,Socializing,5,Laptop,Yes,Excellent,4,1st Year,Central,2025
+1531,20,Female,Undergraduate,India,5.7,Instagram,Yes,6.1,6,Single,3,7,Entertainment,5,Laptop,Sometimes,Poor,3,1st Year,West,2024
+1532,18,Male,High School,Belgium,5.3,Whatsapp,Yes,5.5,5,Single,4,8,Entertainment,1,Desktop,Sometimes,Poor,2,1st Year,West,2022
+1533,20,Female,Undergraduate,Australia,4.1,Instagram,No,7.7,7,Single,2,5,Entertainment,5,Laptop,No,Poor,5,1st Year,West,2020
+1534,20,Female,Undergraduate,Ireland,4.1,Whatsapp,Yes,7.8,7,Single,3,6,Socializing,2,Desktop,No,Poor,2,3rd Year,Central,2023
+1535,22,Female,Graduate,Malta,2.7,LinkedIn,No,7.2,8,In Relationship,1,4,Education,2,Laptop,Yes,Average,3,3rd Year,Central,2024
+1536,22,Male,Graduate,India,5,Facebook,No,7.6,7,In Relationship,2,6,Socializing,2,Mobile,Sometimes,Poor,2,2nd Year,North,2020
+1537,21,Male,Graduate,Canada,4.2,Instagram,Yes,8,7,Single,3,6,Entertainment,1,Tablet,No,Excellent,4,3rd Year,West,2021
+1538,19,Female,Undergraduate,UAE,6.8,Instagram,Yes,6.2,5,In Relationship,4,8,Socializing,5,Mobile,Yes,Average,5,1st Year,West,2024
+1539,20,Male,Undergraduate,Finland,4.5,Facebook,No,7.4,7,In Relationship,2,5,Socializing,3,Tablet,Sometimes,Excellent,5,4th Year,East,2024
+1540,21,Male,Graduate,Canada,4.4,Instagram,Yes,7.8,7,Single,3,6,News,1,Desktop,No,Good,1,3rd Year,North,2025
+1541,19,Female,Undergraduate,Bangladesh,5.2,Instagram,Yes,6.5,6,In Relationship,3,8,Socializing,5,Mobile,Sometimes,Average,4,4th Year,East,2020
+1542,19,Female,Undergraduate,Bangladesh,5.2,Instagram,Yes,6.5,6,In Relationship,3,8,Socializing,5,Mobile,Sometimes,Average,4,4th Year,East,2022
+1543,19,Female,Undergraduate,USA,8.1,Instagram,Yes,4.2,5,In Relationship,4,9,Education,1,Laptop,No,Good,5,3rd Year,South,2020
+1544,22,Male,Graduate,Venezuela,3.3,Facebook,No,6.7,7,In Relationship,2,5,Education,2,Tablet,No,Excellent,4,4th Year,Central,2024
+1545,22,Male,Graduate,Denmark,2.3,Facebook,No,9.5,8,In Relationship,2,4,Socializing,5,Laptop,Sometimes,Good,4,2nd Year,West,2022
+1546,22,Male,Graduate,Maldives,4.7,Whatsapp,Yes,4.5,6,In Relationship,4,8,Socializing,3,Desktop,Yes,Average,5,3rd Year,South,2023
+1547,21,Male,Graduate,Canada,4.5,Instagram,Yes,7.7,6,Single,3,7,News,1,Desktop,Yes,Good,1,1st Year,West,2024
+1548,21,Male,Graduate,Canada,4.3,Instagram,Yes,7.9,6,Single,3,7,Other,3,Mobile,Sometimes,Average,2,2nd Year,West,2025
+1549,22,Male,Graduate,Mexico,7,WhatsApp,Yes,5.2,6,Single,3,7,News,5,Desktop,Sometimes,Average,4,3rd Year,Central,2022
+1550,22,Male,Graduate,Canada,4.7,Whatsapp,Yes,7.5,7,Single,3,6,Entertainment,3,Mobile,Yes,Poor,3,3rd Year,North,2020
+1551,19,Female,Undergraduate,India,7,Instagram,Yes,5.8,4,Single,5,9,Other,2,Mobile,Yes,Poor,1,2nd Year,East,2021
+1552,21,Male,Graduate,Poland,4.1,Facebook,No,8,7,Single,2,5,Entertainment,4,Tablet,Sometimes,Poor,3,1st Year,North,2022
+1553,20,Female,Undergraduate,Nepal,6.1,Whatsapp,Yes,4.8,6,Single,4,8,Education,1,Desktop,No,Good,5,1st Year,East,2020
+1554,20,Female,Undergraduate,USA,7.4,Whatsapp,Yes,4.9,5,In Relationship,4,9,Other,1,Laptop,Sometimes,Average,2,2nd Year,Central,2022
+1555,19,Female,Undergraduate,France,4.3,Instagram,No,7.7,7,In Relationship,2,5,Entertainment,3,Laptop,Sometimes,Poor,2,4th Year,South,2024
+1556,20,Female,Undergraduate,Ireland,3.7,Whatsapp,Yes,8.2,7,Single,3,6,Entertainment,2,Laptop,No,Good,2,3rd Year,Central,2024
+1557,19,Female,Undergraduate,India,7,Whatsapp,Yes,5.8,4,Single,5,9,Education,2,Tablet,Sometimes,Good,1,3rd Year,Central,2020
+1558,21,Male,Graduate,Mexico,6.1,WhatsApp,Yes,6.1,6,Single,3,7,News,1,Tablet,Yes,Good,4,3rd Year,Central,2022
+1559,24,Female,Graduate,India,7,Whatsapp,Yes,5.8,4,Single,5,9,Socializing,4,Desktop,No,Excellent,5,2nd Year,East,2024
+1560,23,Male,Graduate,Germany,1.5,LinkedIn,No,8,9,Single,0,2,News,1,Desktop,Sometimes,Poor,1,3rd Year,Central,2021
+1561,20,Female,Undergraduate,UAE,6.7,Instagram,Yes,6.3,5,In Relationship,4,8,Education,4,Tablet,No,Excellent,1,2nd Year,East,2023
+1562,22,Male,Graduate,Russia,4,VKontakte,No,8,7,Single,2,5,Entertainment,2,Desktop,Sometimes,Average,3,4th Year,South,2022
+1563,19,Female,Undergraduate,Ireland,4.4,Instagram,Yes,7.5,7,Single,3,6,Education,4,Laptop,Yes,Excellent,3,2nd Year,Central,2024
+1564,21,Male,Graduate,Pakistan,4,Instagram,Yes,7.7,5,In Relationship,3,7,Other,4,Desktop,No,Good,1,2nd Year,South,2024
+1565,20,Female,Undergraduate,Switzerland,2.6,Instagram,No,9.2,8,Single,2,4,News,2,Laptop,Yes,Poor,1,1st Year,Central,2021
+1566,19,Female,Undergraduate,Nepal,6.2,Whatsapp,Yes,4.6,6,Single,4,8,Other,3,Mobile,No,Average,2,2nd Year,East,2022
+1567,19,Female,Undergraduate,UAE,6.8,Instagram,Yes,6.2,5,In Relationship,4,8,Socializing,5,Mobile,Yes,Average,5,1st Year,West,2024
+1568,19,Female,Undergraduate,Brazil,6,WhatsApp,Yes,6.5,6,Single,3,7,News,4,Laptop,Sometimes,Poor,5,2nd Year,East,2023
+1569,20,Female,Undergraduate,Brazil,6.1,Instagram,Yes,6.4,6,Single,3,7,Socializing,1,Tablet,No,Good,3,3rd Year,North,2023
+1570,21,Male,Graduate,Poland,4.1,Facebook,No,8,7,Single,2,5,Entertainment,4,Tablet,Sometimes,Poor,3,1st Year,North,2023
+1571,20,Female,Undergraduate,South Korea,5,KakaoTalk,Yes,6.7,6,In Relationship,3,6,Other,1,Laptop,Yes,Average,5,4th Year,East,2022
+1572,21,Male,Graduate,Italy,5.6,Whatsapp,Yes,6.6,5,In Relationship,3,8,Other,5,Tablet,Yes,Poor,2,2nd Year,East,2021
+1573,19,Female,Undergraduate,Brazil,6.2,WhatsApp,Yes,6.3,6,Single,3,7,Socializing,4,Mobile,Yes,Average,5,2nd Year,Central,2020
+1574,21,Male,Graduate,Bangladesh,6,Facebook,Yes,5.8,5,In Relationship,4,8,Education,4,Mobile,No,Poor,2,2nd Year,West,2022
+1575,21,Male,Graduate,Turkey,4.9,Instagram,Yes,7.3,6,Single,3,7,Entertainment,2,Desktop,Sometimes,Poor,4,4th Year,East,2022
+1576,22,Male,Graduate,China,5.8,WeChat,Yes,6.5,6,In Relationship,3,7,News,2,Desktop,Yes,Good,2,1st Year,Central,2020
+1577,20,Female,Undergraduate,Switzerland,3.2,Instagram,No,8.6,8,Single,2,4,Socializing,5,Mobile,No,Average,3,1st Year,South,2023
+1578,19,Female,Undergraduate,Sri Lanka,4.5,Facebook,No,8.3,7,Single,2,5,News,1,Desktop,Sometimes,Poor,1,2nd Year,South,2021
+1579,19,Male,Undergraduate,Nepal,3.9,Whatsapp,No,8.1,7,Single,2,5,Entertainment,3,Desktop,Sometimes,Average,1,1st Year,North,2025
+1580,21,Female,Graduate,Lithuania,3.2,Facebook,No,6.8,7,In Relationship,2,5,Education,1,Desktop,Sometimes,Poor,3,3rd Year,East,2021
+1581,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5,Single,3,7,Socializing,4,Laptop,Sometimes,Poor,2,2nd Year,East,2024
+1582,21,Male,Graduate,Mexico,5.7,WhatsApp,Yes,6.5,6,Single,3,7,Entertainment,4,Tablet,No,Excellent,3,4th Year,East,2021
+1583,24,Female,Graduate,Ireland,5.9,X,Yes,6.6,6,Single,3,7,Other,3,Desktop,Yes,Poor,3,3rd Year,North,2022
+1584,21,Male,Graduate,Maldives,5.4,Whatsapp,Yes,6,6,In Relationship,4,8,Education,4,Laptop,Sometimes,Excellent,2,1st Year,Central,2022
+1585,19,Male,Undergraduate,France,4.8,Snapchat,Yes,6.2,5,Complicated,3,7,Socializing,5,Mobile,No,Good,3,2nd Year,East,2024
+1586,20,Female,Undergraduate,Spain,5.5,Whatsapp,Yes,5.8,6,In Relationship,2,8,Education,3,Tablet,Yes,Poor,1,1st Year,North,2023
+1587,23,Male,Graduate,Bosnia,2.4,LinkedIn,No,7.4,8,Complicated,1,4,Education,4,Tablet,Yes,Poor,3,2nd Year,East,2021
+1588,23,Female,Graduate,Iraq,2.5,LinkedIn,No,7.3,8,Single,1,4,Other,4,Tablet,No,Average,4,1st Year,South,2021
+1589,19,Female,Undergraduate,Switzerland,3.1,Instagram,No,8.7,8,Single,2,4,Socializing,5,Desktop,Sometimes,Good,4,1st Year,South,2023
+1590,21,Male,Graduate,Maldives,4.6,Whatsapp,Yes,4.3,6,In Relationship,4,8,News,3,Laptop,Yes,Excellent,3,3rd Year,South,2021
+1591,20,Female,Undergraduate,Switzerland,2.8,Instagram,No,9,8,Single,2,4,Education,5,Laptop,No,Average,2,2nd Year,West,2023
+1592,19,Female,Undergraduate,Spain,4.4,Instagram,Yes,7.5,6,Single,3,7,Socializing,4,Tablet,No,Poor,2,4th Year,North,2025
+1593,24,Male,Graduate,Spain,6.6,Whatsapp,Yes,6.2,5,Single,4,8,News,1,Tablet,Yes,Poor,4,2nd Year,Central,2021
+1594,20,Female,Undergraduate,Australia,4.6,Instagram,No,7.3,7,Single,2,5,Education,4,Mobile,No,Good,3,3rd Year,Central,2024
+1595,21,Female,Graduate,Pakistan,4.8,Instagram,Yes,6.8,5,In Relationship,4,8,Entertainment,4,Mobile,Yes,Poor,1,3rd Year,South,2022
+1596,23,Male,Graduate,Switzerland,4.3,Facebook,No,7.5,7,In Relationship,2,5,News,5,Desktop,No,Poor,2,4th Year,South,2024
+1597,19,Female,Undergraduate,USA,7.3,Instagram,Yes,5,5,In Relationship,4,9,Education,4,Desktop,No,Good,2,1st Year,Central,2021
+1598,19,Female,Undergraduate,Albania,4.7,Whatsapp,Yes,5.8,6,Complicated,3,7,Education,5,Laptop,Sometimes,Average,1,2nd Year,North,2024
+1599,21,Female,Undergraduate,Spain,6.4,Whatsapp,Yes,6.2,5,Single,4,8,Entertainment,3,Laptop,Yes,Good,2,2nd Year,West,2021
+1600,22,Male,Graduate,China,4.2,WeChat,No,8.1,7,In Relationship,2,5,News,4,Mobile,Yes,Excellent,4,3rd Year,South,2021
+1601,19,Female,Undergraduate,Singapore,5.3,Whatsapp,Yes,6.8,6,Single,3,7,Socializing,5,Desktop,Sometimes,Excellent,5,4th Year,West,2024
+1602,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5,Single,3,7,News,4,Mobile,Sometimes,Excellent,5,2nd Year,East,2020
+1603,22,Male,Graduate,India,2.1,X,No,7.5,8,Single,0,3,Socializing,1,Laptop,No,Average,2,1st Year,North,2023
+1604,19,Female,Undergraduate,Japan,3.8,LINE,No,7.9,8,Single,1,3,News,5,Tablet,Sometimes,Poor,3,2nd Year,Central,2025
+1605,23,Male,Graduate,Bosnia,2.4,LinkedIn,No,7.4,8,Complicated,1,4,Education,4,Tablet,Yes,Poor,3,2nd Year,East,2021
